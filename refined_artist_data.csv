@@ -1,0 +1,2168 @@
+,Artist,Genres,Songs,Popularity,Link
+0,Beyoncé,"['Pop', ' R&B']",276.0,205.5,/beyonce/
+1,Bruno Mars,"['R&B', ' Pop']",122.0,62.5,/bruno-mars/
+2,Rihanna,"['Pop', ' R&B']",246.0,51.2,/rihanna/
+3,50 Cent,"['Hip Hop', ' Rap']",469.0,40.7,/50-cent/
+4,John Legend,"['R&B', 'Soul']",169.0,44.5,/john-legend/
+5,Michael Jackson,"['Pop', ' R&B']",300.0,36.0,/michael-jackson/
+6,Alicia Keys,"['Soul', ' R&B']",216.0,33.1,/alicia-keys/
+7,Black Eyed Peas,"['Electronica', ' Hip Hop']",165.0,36.7,/black-eyed-peas/
+8,Whitney Houston,"['Romantic', 'Soundtack']",126.0,14.9,/whitney-houston/
+9,Justin Timberlake,"['Hip Hop', ' Dance', ' Pop']",139.0,16.3,/justin-timberlake/
+10,Akon,"['Rap', ' Pop']",335.0,17.4,/akon/
+11,Snoop Dogg,"['Hip Hop', ' Rap']",494.0,13.0,/snoop-dogg/
+12,Chris Brown,"['Rap', ' Hip Hop', ' Pop']",624.0,11.8,/chris-brown/
+13,Tupac Shakur,"['Hip Hop', ' Rap']",383.0,10.3,/2pac-tupac-shakur/
+14,Kanye West,"['Hip Hop', ' R&B', ' Rap']",298.0,14.0,/kanye-west/
+15,Nicki Minaj,"['Rap', ' Pop', ' Hip Hop']",288.0,10.1,/nicki-minaj/
+16,Ne-yo,"['Hip Hop', ' R&B']",307.0,9.4,/ne-yo/
+17,Jennifer Lopez,"['Dance', ' Pop', ' R&B']",216.0,6.6,/jennifer-lopez/
+18,Lauryn Hill,"['Soul', ' Hip Hop']",60.0,5.2,/lauryn-hill/
+19,Destiny's Child,"[' R&B', ' Hip Hop']",125.0,5.5,/destinys-child/
+20,Cherish,"['Hip Hop', ' R&B']",44.0,4.5,/cherish/
+21,Usher,"[' R&B', ' Hip Hop']",263.0,5.1,/usher/
+22,The Pussycat Dolls,"['Dance', ' Hip Hop']",57.0,3.8,/the-pussycat-dolls/
+23,Flo Rida,"[' Hip Hop', ' Rap']",120.0,4.0,/flo-rida/
+24,Nelly,"['Rap', ' Hip Hop']",171.0,4.4,/nelly/
+25,Thalles Roberto,"['Gospel', ' Pop']",142.0,3.5,/thalles-roberto/
+26,Fergie,"['Hip Hop', ' Pop', ' R&B']",71.0,4.0,/fergie/
+27,Jason Derulo,"['Pop', ' R&B', ' Hip Hop']",123.0,3.7,/jason-derulo/
+28,Jay-Z,"['Hip Hop', ' Rap']",318.0,3.9,/jay-z/
+29,Lil Wayne,"['R&B', ' Rap']",693.0,4.3,/lil-wayne/
+30,Soulja Boy,"[' Rap', ' Hip Hop']",237.0,3.9,/soulja-boy/
+31,Prince,"['R&B', ' Funk']",585.0,2.8,/prince/
+32,Kirk Franklin,"['Gospel', 'Soul']",166.0,2.7,/kirk-franklin/
+33,Ice Cube,"['Rap', ' Hip Hop']",239.0,3.0,/ice-cube/
+34,Ciara,"['Hip Hop', ' R&B']",149.0,2.7,/ciara/
+35,Brian Mcknight,['Romantic'],190.0,2.5,/brian-mcknight/
+36,Jackson 5,"['Soul', ' Pop', ' Disco']",218.0,2.2,/jackson-5/
+37,Willow Smith,"['Pop', ' Dance', ' Hip Hop']",85.0,1.8,/willow-smith/
+38,Des'ree,"['Romantic', ' Pop']",53.0,1.7,/desree/
+39,BaianaSystem,"[' Reggae', ' Hip Hop']",56.0,1.4,/baianasystem/
+40,Kid Cudi,"['Hip Hop', ' Rap']",120.0,1.3,/kid-cudi/
+41,Jeremih,"['Hip Hop', ' R&B']",38.0,1.3,/jeremih/
+42,Will Smith,"[' Hip Hop', ' Rap']",130.0,0.0,/will-smith/
+43,Jennifer Hudson,"['R&B', ' Pop']",89.0,0.0,/jennifer-hudson/
+44,T.I.,"['Hip Hop', ' Rap']",243.0,1.0,/t-i/
+45,Raiz Coral,"['Gospel', 'Soul']",57.0,0.0,/raiz-coral/
+46,B.o.B,"['Hip Hop', ' Rap']",251.0,0.0,/b-o-b/
+47,Taio Cruz,"['Electronica', ' Dance', ' Pop']",78.0,0.2,/taio-cruz/
+48,Meek Mill,"['Rap', ' Hip Hop']",128.0,0.0,/meek-mill/
+49,Aaliyah,[' R&B'],97.0,0.0,/aaliyah/
+50,Nicole Scherzinger,"['Dance', ' Pop', ' R&B']",101.0,0.0,/nicole-scherzinger/
+51,Stevie B,"['Dance', 'Romantic']",44.0,0.0,/stevie-b/
+52,Birdman,"[' Rap', ' Hip Hop']",76.0,0.2,/birdman/
+53,Negra Li,"['Hip Hop', ' Rap']",54.0,0.0,/negra-li/
+54,B2k,"['Hip Hop', ' Rap']",87.0,0.0,/b2k/
+55,Kevin Gates,[' Hip Hop'],137.0,0.0,/kevin-gates/
+56,Diddy-Dirty Money,"['Rap', ' R&B']",27.0,0.0,/diddy-dirty-money/
+57,Ace Hood,"[' Rap', ' Hip Hop']",86.0,0.0,/ace-hood/
+58,Kash Doll,"[' Trip-Hop', ' Rap']",19.0,0.0,/kash-doll/
+59,Tendekasha,"[' World Music', ' Reggae']",10.0,0.0,/tendekasha/
+60,Franky Fade,"['Hip Hop', ' R&B']",9.0,0.0,/franky-fade/
+61,Mvp,"[' Rap', ' Hip Hop']",10.0,0.0,/m-v-p/
+62,Elvis Presley,"['Rockabilly', 'Romantic', ' Rock']",759.0,23.1,/elvis-presley/
+63,John Mayer,"['Romantic', ' Blues', ' Pop/Rock']",151.0,14.9,/john-mayer/
+64,Amy Winehouse,"['R&B', ' Jazz', 'Soul']",70.0,13.5,/amy-winehouse/
+65,Rolling Stones,"['Classic Rock', ' Rock', ' Blues']",438.0,12.8,/the-rolling-stones/
+66,Michael Bublé,"['Romantic', ' Jazz', ' Blues']",179.0,10.7,/michael-buble/
+67,Eric Clapton,"['Rock', ' Blues']",429.0,7.9,/eric-clapton/
+68,Bob Dylan,"['Folk', ' Rock', ' Country']",558.0,6.9,/bob-dylan/
+69,The Doors,"['Blues', ' Rock', 'Psychedelic music']",135.0,6.0,/the-doors/
+70,Norah Jones,"['Jazz', ' Blues', 'Soul']",196.0,5.3,/norah-jones/
+71,Janis Joplin,"['Rock', ' Blues', ' R&B']",113.0,4.5,/janis-joplin/
+72,Fleetwood Mac,"['Soft Rock', ' Rock', ' Pop/Rock']",252.0,4.3,/fleetwood-mac/
+73,Bill Withers,"['Soul', ' R&B', ' Blues']",87.0,3.6,/bill-withers/
+74,Lynyrd Skynyrd,"['Rock', ' Hard Rock', ' Country']",167.0,2.7,/lynyrd-skynyrd/
+75,Jimi Hendrix,"['Rock', ' Blues', 'Psychedelic music']",129.0,2.1,/jimi-hendrix/
+76,Etta James,['Blues'],93.0,2.0,/etta-james/
+77,Nick Cave & The Bad Seeds,"['Rock', ' Blues', 'Romantic']",307.0,2.1,/nick-cave-the-bad-seeds/
+78,BB King,['Blues'],371.0,1.3,/bb-king/
+79,Johnny Rivers,"['Rock', ' Pop/Rock', ' Blues']",160.0,1.0,/johnny-rivers/
+80,The Black Keys,"['Alternative Rock', ' Indie', ' Rock']",152.0,1.6,/the-black-keys/
+81,Gary Moore,"['Blues', ' Rock', ' Jazz']",167.0,0.0,/gary-moore/
+82,Little Richard,"['Rockabilly', ' Rock', ' R&B']",46.0,0.0,/little-richard/
+83,Stevie Ray Vaughan,"['Blues', ' Rock', ' Country']",70.0,0.0,/vaughan-stevie-ray/
+84,The Band,"['Rock', ' Country', ' Folk']",187.0,0.0,/the-band/
+85,Muddy Waters,['Blues'],90.0,0.0,/muddy-waters/
+86,Richie Sambora,"['Rock', ' Blues']",43.0,0.0,/sambora-richie/
+87,Cream,"['Rock', ' Blues', ' Hard Rock']",61.0,0.0,/cream/
+88,Buddy Guy,"['Blues', ' Hardcore', ' Country']",55.0,0.0,/buddy-guy/
+89,Gary Clark Jr.,['Blues'],37.0,0.0,/gary-clark-jr/
+90,Joe Bonamassa,['Blues'],58.0,0.0,/joe-bonamassa/
+91,John Lee Hooker,"['Blues', ' Hard Rock', 'Gospel']",55.0,0.0,/john-lee-hooker/
+92,Rory Gallagher,"['Blues', ' Rock', ' Hard Rock']",90.0,0.0,/rory-gallagher/
+93,The Allman Brothers Band,['Blues'],142.0,0.0,/the-allman-brothers-band/
+94,Howlin' Wolf,['Blues'],65.0,0.0,/howlin-wolf-11/
+95,Albert King,['Blues'],41.0,0.0,/albert-king/
+96,Willie Dixon,"['Blues', ' Instrumental']",32.0,0.0,/willie-dixon/
+97,Taj Mahal,['Blues'],22.0,0.0,/taj-mahal/
+98,Hugh Laurie,"['Blues', ' Jazz', ' House']",30.0,0.0,/hugh-laurie/
+99,John Mayall,['Blues'],53.0,0.0,/john-mayalls-bluesbreakers/
+100,Blind Arthur Blake,['Blues'],10.0,0.0,/blind-arthur-blake/
+101,The Self-Escape,"['R&B', ' Blues', ' Indie']",14.0,0.0,/the-self-escape/
+102,Son House,"['Blues', ' Folk']",30.0,0.0,/son-house/
+103,Elmore James,['Blues'],50.0,0.0,/elmore-james/
+104,Mississippi John Hurt,['Blues'],20.0,0.0,/mississippi-john-hurt/
+105,Jonny Lang,"['Blues', ' Pop/Rock', ' Rock']",68.0,0.0,/jonny-lang/
+106,Brian Setzer Orchestra,"['Blues', ' Rockabilly', ' Jazz']",101.0,0.0,/brian-setzer-orchestra/
+107,Captain Beefheart,"['Blues', 'Psychedelic music']",62.0,0.0,/captain-beefheart/
+108,Screamin' Jay Hawkins,"['Blues', ' Rock', ' R&B']",21.0,0.0,/screamin-jay-hawkins/
+109,Joanne Shaw Taylor,"['Hard Rock', ' Blues', ' Classic Rock']",3.0,0.0,/joanne-shaw-taylor/
+110,"Johnny ""Guitar"" Watson","['Funk', ' Blues', ' R&B']",7.0,0.0,/johnny-guitar-watson/
+111,Banda Morfina,['Blues'],1.0,0.0,/banda-morfina/
+112,Ida Cox,['Blues'],25.0,0.0,/ida-cox/
+113,Moby,"['Trip-Hop', ' Chillout', ' Instrumental']",151.0,2.6,/moby/
+114,Kali Uchis,"['R&B', ' Chillout', ' Pop']",77.0,1.0,/kali-uchis/
+115,Groove Armada,"['Chillout', ' House', ' Electronica']",48.0,0.0,/groove-armada/
+116,Röyksopp,"['Electronica', ' Chillout', ' Indie']",45.0,0.0,/royksopp/
+117,Air,"['Chillout', ' Instrumental', ' Trip-Hop']",85.0,0.0,/air/
+118,ATB,"['Chillout', ' Trance']",80.0,0.0,/atb/
+119,Flight Facilities,"['House', ' Chillout', ' Electronica']",18.0,0.0,/flight-facilities/
+120,Thievery Corporation,"['Trip-Hop', ' Chillout']",41.0,0.0,/thievery-corporation/
+121,Zero7,"['Chillout', ' Indie', ' Trip-Hop']",39.0,0.0,/zero7/
+122,Chicane,"['Chillout', ' Trance', ' Electronica']",24.0,0.0,/chicane/
+123,Delerium,"['Trance', ' Chillout', 'Gothic Rock']",58.0,0.0,/delerium/
+124,AC/DC,"['Rock', ' Heavy Metal', ' Classic Rock']",204.0,19.2,/ac-dc/
+125,George Harrison,"['Classic Rock', ' Rock', ' Pop/Rock']",192.0,4.9,/george-harrison/
+126,The Alan Parsons Project,"['Classic Rock', 'Progressive Music']",157.0,1.0,/the-alan-parsons-project/
+127,Ringo Starr,"['Rock', ' Classic Rock', ' Pop/Rock']",243.0,0.0,/ringo-starr/
+128,Mamilo Mandala,"['Classic Rock', ' Hard Rock', ' Rock']",10.0,0.0,/mamilo-mandala/
+129,Pink Floyd,"['Progressive Music', ' Rock', 'Psychedelic music']",208.0,42.6,/pink-floyd/
+130,Andrea Bocelli,"['Classic', 'Romantic', ' Instrumental']",240.0,8.7,/andrea-bocelli/
+131,Enya,"['New Age', 'Classic', ' Instrumental']",129.0,5.3,/enya/
+132,Luciano Pavarotti,['Classic'],140.0,3.5,/luciano-pavarotti/
+133,Josh Groban,"['Classic', 'Romantic']",163.0,2.5,/josh-groban/
+134,Il Divo,"['Classic', 'Romantic']",93.0,1.3,/il-divo/
+135,Il Volo,"['Classic', 'Romantic']",103.0,2.1,/il-volo/
+136,Epica,"['Gothic Rock', ' Heavy Metal', ' Rock']",134.0,0.0,/epica/
+137,Sarah Brightman,"['New Age', 'Classic', 'Romantic']",269.0,1.0,/sarah-brightman/
+138,The Phantom Of The Opera,"['Classic', 'Soundtack', 'Romantic']",64.0,1.0,/the-phantom-of-the-opera/
+139,Mozart,"['Classic', ' Instrumental', 'Gospel']",46.0,0.0,/mozart/
+140,Placido Domingo,"['Classic', ' Hip Hop']",47.0,0.0,/placido-domingo/
+141,Tarja Turunen,"['Heavy Metal', ' Rock', 'Gothic Rock']",124.0,0.0,/tarja-turunen/
+142,Robert Pattinson,"['Romantic', 'Classic', ' Instrumental']",14.0,0.0,/robert-pattinson/
+143,Susan Boyle,"['Classic', 'Romantic']",78.0,0.0,/susan-boyle/
+144,The Three Tenors,"['Classic', ' Punk Rock', 'Psychedelic music']",31.0,0.0,/the-3-tenors/
+145,José & Josué,"['Classic', 'Soundtack', ' Country']",31.0,0.0,/jose-josue/
+146,Taylor Swift,"['Pop', 'Romantic', ' Pop/Rock']",387.0,72.7,/taylor-swift/
+147,Shania Twain,"['Pop', ' Country', 'Romantic']",113.0,30.7,/shania-twain/
+148,Creedence Clearwater Revival,"['Rock', ' Country']",67.0,13.7,/creedence-clearwater-revival/
+149,Johnny Cash,"['Folk', ' Country', ' Rock']",557.0,14.1,/johnny-cash/
+150,Alan Jackson,['Country'],276.0,7.6,/alan-jackson/
+151,Eagles,"['Soft Rock', ' Country']",95.0,6.0,/eagles/
+152,Lady A,"['Pop', 'Romantic', ' Country']",133.0,3.8,/lady-a/
+153,Dolly Parton,['Country'],723.0,1.3,/dolly-parton/
+154,Willie Nelson,['Country'],284.0,0.7,/willie-nelson/
+155,Blake Shelton,['Country'],165.0,0.9,/blake-shelton/
+156,Rascal Flatts,['Country'],155.0,1.8,/rascal-flatts/
+157,Carrie Underwood,"['Country', ' Pop']",164.0,0.8,/carrie-underwood/
+158,Faith Hill,"['Country', ' Pop', 'Romantic']",122.0,0.0,/faith-hill/
+159,Garth Brooks,['Country'],191.0,1.0,/garth-brooks/
+160,George Strait,['Country'],366.0,1.0,/george-strait/
+161,Dan + Shay,['Country'],51.0,1.0,/dan-shay/
+162,Matanza,"['Hardcore', ' Rock', ' Hard Rock']",95.0,1.0,/matanza/
+163,Brad Paisley,['Country'],151.0,1.0,/brad-paisley/
+164,Keith Urban,['Country'],162.0,0.4,/keith-urban/
+165,Florida Georgia Line,['Country'],90.0,1.0,/florida-georgia-line/
+166,The Chicks (Dixie Chicks),"['Country', 'Romantic', ' Rock']",92.0,0.0,/the-chicks-dixie-chicks/
+167,Kenny Chesney,['Country'],199.0,0.0,/kenny-chesney/
+168,The Band Perry,"['Country', 'Romantic', ' Pop']",30.0,1.0,/the-band-perry/
+169,Billy Ray Cyrus,['Country'],147.0,0.0,/billy-ray-cyrus/
+170,Wanda Jackson,"['Rockabilly', ' Country']",167.0,0.0,/wanda-jackson/
+171,Waylon Jennings,['Country'],383.0,0.0,/waylon-jennings/
+172,Hank Williams,['Country'],165.0,0.0,/hank-williams/
+173,Zac Brown Band,['Country'],86.0,0.0,/zac-brown-band/
+174,The Highwaymen,['Country'],14.0,0.0,/the-highwaymen/
+175,Brenda Lee,"['Country', ' Rockabilly']",161.0,0.0,/brenda-lee/
+176,The Byrds,"['Rock', ' Folk', ' Country']",146.0,0.0,/the-byrds/
+177,Chris Young,['Country'],107.0,0.1,/chris-young/
+178,Glen Campbell,['Country'],219.0,0.0,/glen-campbell/
+179,Miranda Lambert,['Country'],125.0,0.0,/miranda-lambert/
+180,Martina McBride,"['Country', 'Romantic', ' Pop']",152.0,0.0,/martina-mcbride/
+181,Norman Blake,"['Country', 'Classic', 'Gospel']",2.0,0.0,/norman-blake/
+182,Ricky Nelson,"['Rockabilly', ' Country', ' Rock']",151.0,0.0,/ricky-nelson/
+183,Patsy Cline,"['Country', ' Rockabilly', ' Blues']",120.0,0.0,/patsy-cline/
+184,George Jones,"['Country', ' Folk']",534.0,0.0,/george-jones/
+185,Don Henley,"['Soft Rock', ' Pop', ' Country']",67.0,0.0,/don-henley/
+186,Jennette McCurdy,"['Pop', 'Romantic', ' Country']",38.0,0.0,/jennette-mccurdy/
+187,Sara Evans,"['Country', 'Romantic']",82.0,0.0,/sara-evans/
+188,Alexander Ludwig,['Country'],6.0,0.0,/alexander-ludwig/
+189,Cowboy Junkies,"['Country', ' Rock']",138.0,0.0,/cowboy-junkies/
+190,Paul Brandt,['Country'],80.0,0.0,/paul-brandt/
+191,Charlie Feathers,"['Rockabilly', ' Country', ' Rock']",22.0,0.0,/charlie-feathers/
+192,Nitty Gritty Dirt Band,['Country'],103.0,0.0,/nitty-gritty-dirt-band/
+193,Jake Owen,['Country'],34.0,0.0,/jake-owen/
+194,Lyle Lovett,['Country'],143.0,0.0,/lyle-lovett/
+195,Tennessee Ernie Ford,['Country'],44.0,0.0,/tenneessee-ford/
+196,Ward Thomas,['Country'],22.0,0.0,/ward-thomas/
+197,Desert Rose Band,['Country'],45.0,0.0,/desert-rose-band/
+198,Skeeter Davis,['Country'],166.0,0.0,/skeeter-davis/
+199,Bill Monroe,['Country'],351.0,0.0,/bill-monroe/
+200,Flying Burrito Brothers,"['Country', ' Rock']",46.0,0.0,/flying-burrito-brothers/
+201,Chuck Wicks,"['Country', ' Surf Music']",11.0,0.0,/chuck-wicks/
+202,Hank Snow,['Country'],89.0,0.0,/hank-snow/
+203,Anitta,"['Pop', ' Dance', 'Brazilian Funk']",150.0,119.6,/anitta/
+204,Justin Bieber,"['Dance', ' Pop', 'Romantic']",279.0,66.8,/justin-bieber/
+205,Lady Gaga,"['Dance', ' Pop', ' Pop/Rock']",281.0,56.2,/lady-gaga/
+206,Ariana Grande,"['Pop', ' Dance', 'Romantic']",189.0,53.1,/ariana-grande/
+207,Shakira,"['Pop', ' Pop/Rock', ' Dance']",192.0,30.8,/shakira/
+208,Katy Perry,"['Pop', ' Dance', ' Pop/Rock']",200.0,38.5,/katy-perry/
+209,Alok,"['Dance', ' Electronica', ' House']",98.0,38.4,/alok/
+210,One Direction,"['Pop/Rock', ' Pop', 'Romantic']",126.0,22.3,/one-direction/
+211,Mariah Carey,"['Romantic', ' Pop', ' R&B']",303.0,16.6,/mariah-carey/
+212,AVICII,"['House', ' Electronica', ' Dance']",108.0,22.1,/avicii/
+213,Miley Cyrus,"['Pop', ' Pop/Rock', ' Dance']",299.0,19.1,/miley-cyrus/
+214,Demi Lovato,"['Pop', ' Pop/Rock', ' Dance']",225.0,25.2,/demi-lovato/
+215,Madonna,"['Dance', ' Pop']",378.0,16.3,/madonna/
+216,Britney Spears,"['Pop', ' Dance']",321.0,15.5,/britney-spears/
+217,Cyndi Lauper,"['Pop/Rock', ' Pop', ' Dance']",232.0,24.0,/cyndi-lauper/
+218,ABBA,"['Disco', ' Pop', ' Dance']",166.0,11.8,/abba/
+219,Jessie J,"['Dance', ' Pop/Rock', ' Pop']",129.0,12.8,/jessie-j/
+220,Selena Gomez,"['Pop', ' Dance', ' Pop/Rock']",194.0,10.8,/selena-gomez/
+221,David Guetta,"['House', ' Pop', 'Technopop']",222.0,12.1,/david-guetta/
+222,Backstreet Boys,"['Dance', 'Romantic', ' Pop/Rock']",213.0,8.3,/backstreet-boys/
+223,The Chainsmokers,"['Dance', ' Electronica', ' Pop']",65.0,10.3,/the-chainsmokers/
+224,Calvin Harris,"['Electronica', ' House', ' Dance']",104.0,9.5,/calvin-harris/
+225,Lulu Santos,"['Pop/Rock', ' Rock', ' Pop']",282.0,6.0,/lulu-santos/
+226,Enrique Iglesias,"['Dance', ' Pop', 'Romantic']",177.0,4.4,/enrique-iglesias/
+227,Cher,"['Disco', ' Pop', ' Dance']",309.0,7.3,/cher/
+228,Xuxa,"[""Children's music"", ' Pop', ' Dance']",543.0,4.2,/xuxa/
+229,Pet Shop Boys,"['Dance', ' Pop', 'Technopop']",299.0,2.9,/pet-shop-boys/
+230,Kesha,"['Pop', ' Dance']",228.0,3.5,/kesha/
+231,Jonas Brothers,"['Pop/Rock', ' Pop', 'Soundtack']",174.0,2.9,/jonas-brothers/
+232,Stromae,"['Electronica', ' Dance', ' House']",48.0,6.2,/stromae/
+233,Boney M,"['Disco', ' Dance']",132.0,3.3,/boney-m/
+234,Tiësto,"['Electronica', ' Trance', ' Dance']",165.0,2.8,/dj-tiesto/
+235,High School Musical,"['Romantic', ' Dance', ' Pop/Rock']",55.0,2.1,/high-school-musical/
+236,Swedish House Mafia,"['House', ' Electronica', ' Dance']",39.0,2.9,/swedish-house-mafia/
+237,Pitbull,"['Dance', ' Pop', ' Hip Hop']",270.0,2.0,/pitbull/
+238,Ricky Martin,"['Pop', ' Dance', 'Romantic']",172.0,1.7,/ricky-martin/
+239,Village People,"['Disco', ' Dance']",20.0,2.1,/village-people/
+240,DJ Snake,"['Electronica', ' Dance']",58.0,2.9,/dj-snake/
+241,Haddaway,['Dance'],20.0,2.2,/haddaway/
+242,Gigi D'Agostino,"['Dance', ' Electronica']",96.0,2.0,/gigi-dagostino/
+243,Rick Astley,"['Pop', ' Dance']",100.0,2.3,/rick-astley/
+244,Pabllo Vittar,"['Pop', ' Dance']",65.0,1.5,/pabllo-vittar/
+245,Rebeldes,"['Pop/Rock', 'Soundtack', ' Pop']",66.0,1.7,/rebelde-rede-record/
+246,The Wanted,"['Dance', ' Pop', ' Electronica']",68.0,1.8,/the-wanted/
+247,New Order,"[' Dance', 'Technopop']",132.0,1.5,/new-order/
+248,Kylie Minogue,"['Dance', ' Pop', ' Electronica']",423.0,1.6,/kylie-minogue/
+249,Carly Rae Jepsen,"['Dance', ' Pop', ' Pop/Rock']",118.0,1.3,/carly-rae-jepsen/
+250,Major Lazer,"['Electronica', ' Dance']",92.0,1.5,/major-lazer/
+251,Thalía,"['Dance', 'Romantic', ' Pop']",287.0,1.4,/thalia/
+252,Latino,"['Dance', ' Pop', 'Romantic']",129.0,0.9,/latino/
+253,Wanessa Camargo,"['Dance', 'Romantic', ' Pop']",168.0,1.0,/wanessa-camargo/
+254,Bob Sinclar,"['House', ' Electronica', ' Dance']",59.0,1.0,/bob-sinclar/
+255,will.i.am,"['Electronica', ' R&B', ' Hip Hop']",89.0,1.3,/will-i-am/
+256,Kelly Key,"['Dance', ' Pop', 'Romantic']",89.0,1.4,/kelly-key/
+257,Dulce María,"['Pop/Rock', ' Dance', 'Romantic']",92.0,1.1,/dulce-maria-solo/
+258,Akcent,"['Electronica', ' Dance', ' House']",130.0,0.0,/akcent/
+259,Jamiroquai,"['Funk', ' Pop', 'Soul']",114.0,0.0,/jamiroquai/
+260,Dirty Dancing (trilha-sonora),"['Dance', 'Romantic', 'Soundtack']",16.0,1.0,/dirty-dancing/
+261,Zendaya,"['Pop', ' Dance']",50.0,1.6,/zendaya/
+262,Ashley Tisdale,"['Pop/Rock', ' Dance', ' Pop']",99.0,1.4,/ashley-tisdale/
+263,Inna,"['House', ' Electronica', ' Dance']",168.0,0.3,/inna/
+264,Double You,['Dance'],40.0,1.0,/double-you/
+265,Far East Movement,"['Dance', ' Electronica', ' Pop']",73.0,1.0,/far-east-movement/
+266,Lasgo,"['House', ' Dance', ' Electronica']",53.0,0.0,/lasgo/
+267,Snap!,['Dance'],22.0,0.0,/snap/
+268,O-Zone,['Dance'],34.0,1.5,/o-zone/
+269,LMFAO,"['Pop', 'Technopop', ' Dance']",44.0,0.0,/lmfao/
+270,Armin Van Buuren,"['Trance', ' Electronica', ' Dance']",158.0,2.0,/armin-van-buuren/
+271,Camp Rock,"['Pop', 'Soundtack', ' Rock']",30.0,0.0,/camp-rock/
+272,Hilary Duff,"['Dance', ' Pop', ' Pop/Rock']",119.0,0.0,/hilary-duff/
+273,Aqua,['Dance'],46.0,1.0,/aqua/
+274,Vanessa Hudgens,"['Dance', ' Pop', ' Pop/Rock']",52.0,1.0,/vanessa-hudgens/
+275,Emily Osment,"['Electronica', ' Dance', ' Pop/Rock']",42.0,1.0,/emily-osment/
+276,Noel,['Dance'],13.0,0.0,/noel/
+277,Moony,"['Dance', ' Electronica']",10.0,0.0,/moony/
+278,Alexandra Stan,"['Electronica', ' Dance', 'Technopop']",64.0,1.0,/alexandra-stan/
+279,Whigfield,"['Dance', ' Electronica', ' Pop']",51.0,0.0,/whigfield/
+280,Cody Simpson,"['Pop', 'Romantic', ' Dance']",139.0,0.0,/cody-simpson/
+281,Kasino,"['Dance', ' Electronica', 'Technopop']",23.0,0.0,/kasino/
+282,The Underdog Project,"['Dance', ' Electronica', ' Pop']",28.0,0.0,/the-underdog-project/
+283,Guru Josh,"['Electronica', ' Dance', ' House']",7.0,0.0,/guru-josh-project/
+284,Edward Maya,"['Dance', ' Electronica', ' House']",26.0,0.0,/edward-maya/
+285,Larissa Manoela,"['Romantic', ""Children's music"", ' Dance']",44.0,0.0,/larissa-manoela/
+286,Milena Stepanienco,"['Dance', ""Children's music""]",30.0,0.0,/milena-stepanienco/
+287,Die Antwoord,"['Rap', ' Electronica', ' Dance']",89.0,1.0,/die-antwoord/
+288,Magic Box,"['Dance', ' Electronica', 'Technopop']",10.0,0.0,/magic-box/
+289,Ian Van Dahl,"['Dance', ' Electronica', ' House']",33.0,0.0,/ian-van-dahl/
+290,Electronic,"['Rock', ' Electronica', ' Dance']",44.0,0.0,/electronic/
+291,Cher Lloyd,"['Pop', ' Dance', ' Electronica']",62.0,0.0,/cher-lloyd/
+292,Basshunter,"['Dance', ' Electronica', 'Technopop']",90.0,0.0,/basshunter/
+293,Deee Lite,"['Dance', ' Pop']",40.0,0.0,/deee-lite/
+294,Miranda Cosgrove,"['Dance', ' Pop', ' Pop/Rock']",39.0,0.0,/miranda-cosgrove/
+295,September,"['Dance', ' Pop']",62.0,0.0,/september/
+296,Pixie Lott,"['Pop', ' Dance', ' Pop/Rock']",104.0,0.0,/pixie-lott/
+297,Lorena Simpson,"['Electronica', ' Dance', ' House']",23.0,0.0,/lorena-simpson/
+298,Cascada,"['Dance', ' Electronica', 'Technopop']",93.0,1.0,/cascada/
+299,Tiko's Groove,"['Electronica', ' Dance', 'Technopop']",8.0,0.0,/tikos-groove/
+300,DJ Antoine,"['House', ' Electronica', ' Dance']",47.0,0.0,/dj-antoine/
+301,John Martin,"['Electronica', ' Dance']",9.0,0.0,/john-martin/
+302,Martin Solveig,"['Electronica', ' Dance', ' House']",34.0,0.0,/martin-solveig/
+303,Jax Jones,"['Pop', ' Dance', ' Electronica']",24.0,0.1,/jax-jones/
+304,Gabry Ponte,['Dance'],44.0,0.0,/gabry-ponte/
+305,Bratz,"['Dance', ' Pop', ' Pop/Rock']",40.0,0.0,/bratz/
+306,Dev,"['Technopop', ' Dance', ' Electronica']",77.0,0.0,/dev/
+307,Natalia Kills,"['Pop', ' Dance', ' Electronica']",57.0,0.0,/natalia-kills/
+308,Alex Gaudino,"['House', ' Electronica', ' Dance']",24.0,0.0,/alex-gaudino/
+309,Christopher Uckermann,"['Pop', ' Pop/Rock', ' Dance']",31.0,0.0,/christopher-uckermann/
+310,Mashup Germany,"['Dance', ' Electronica', ' Pop']",25.0,0.0,/mashup-germany/
+311,DJ PV,"['Electronica', ' Dance', 'Gospel']",22.0,0.0,/dj-pv/
+312,Yolanda Be Cool,"['Dance', ' Electronica', 'Technopop']",8.0,0.0,/yolanda-be-cool/
+313,Yves Larock,"['Electronica', ' Dance', 'Technopop']",10.0,0.0,/yves-larock/
+314,Real Mccoy,['Dance'],18.0,0.0,/real-mccoy/
+315,The Saturdays,"['Pop', ' Dance', ' Electronica']",91.0,0.0,/the-saturdays/
+316,Luciana,"['Dance', ' Electronica', ' Pop']",39.0,0.0,/luciana/
+317,DJ Earworm,"['Electronica', ' Dance']",30.0,1.0,/dj-earworm/
+318,Florida Inc.,"['Dance', 'Technopop', ' Electronica']",5.0,0.0,/florida-inc/
+319,Nicola Roberts,"['Dance', ' Pop', 'Romantic']",17.0,0.0,/nicola-roberts/
+320,MALIFOO,"['Pop', ' Electronica', ' Dance']",15.0,0.0,/malifoo/
+321,The Cab,"['Pop/Rock', ' Rock', ' Pop']",39.0,0.0,/the-cab/
+322,China Anne Mcclain,"['Dance', ' Pop', ' Pop/Rock']",25.0,0.0,/china-anne-mcclain/
+323,Keke Palmer,"['Dance', ' Hip Hop', ' R&B']",105.0,0.0,/keke-palmer/
+324,Shanell,"['Pop', ' R&B', ' Hip Hop']",95.0,0.0,/shanell/
+325,DARKSIDE (Nicolas Jaar & Dave Harrington),"['Electronica', ' Dance']",17.0,0.0,/darkside-nicolas-jaar-dave-harrington/
+326,Milk Inc.,"['Dance', ' Electronica', 'Technopop']",67.0,0.0,/milk-inc/
+327,Zabot,"['Pop', ' Dance']",10.0,0.0,/zabot/
+328,DJ Ian Carey,"['Electronica', ' Dance', ' House']",20.0,0.0,/ian-carey-pres-the-good-guys/
+329,Markus Schulz,"['Trance', ' Dance', ' Electronica']",36.0,0.0,/markus-schulz/
+330,Powered Djs,"['Pop', ' Dance', ' Electronica']",9.0,0.0,/powered-djs/
+331,Jair & Vanise,"['House', ' Electronica', ' Dance']",16.0,0.0,/jair-vanise/
+332,Sak Noel,"['Technopop', ' Dance', ' House']",4.0,0.0,/sak-noel/
+333,Bee Gees,"['Soft Rock', ' Disco', ' Pop']",554.0,18.0,/bee-gees/
+334,Gloria Gaynor,['Disco'],38.0,8.6,/gloria-gaynor/
+335,The Temptations,"['Soul', 'Psychedelic music', ' Disco']",156.0,5.5,/temptations/
+336,"Earth, Wind And Fire","['Disco', ' R&B', 'Soul']",190.0,2.2,/earth-wind-and-fire/
+337,Barry White,"['Soul', ' Disco', ' R&B']",52.0,1.8,/barry-white/
+338,Diana Ross,"['R&B', 'Soul', ' Disco']",358.0,2.1,/diana-ross/
+339,K.C. And The Sunshine Band,"['Disco', ' R&B', ' Funk']",24.0,2.0,/k-c-and-the-sunshine-band/
+340,Donna Summer,"['Disco', ' R&B']",217.0,2.0,/donna-summer/
+341,Tina Charles,"['Disco', ' Dance', ' Pop']",25.0,1.0,/tina-charles/
+342,The Isley Brothers,"['Soul', ' R&B', ' Disco']",116.0,0.0,/the-isley-brothers/
+343,Chic,"['Disco', ' Funk']",50.0,0.0,/chic/
+344,Grace Jones,"['Disco', ' Pop', ' Jazz']",93.0,0.0,/grace-jones/
+345,Giorgio Moroder,"['Disco', ' Electronica', ' Dance']",41.0,0.0,/giorgio-moroder/
+346,Sister Sledge,"['Disco', ' R&B', 'Soul']",11.0,0.0,/sister-sledge/
+347,The S.O.S. Band,"['R&B', ' Disco']",7.0,0.0,/the-s-o-s-band/
+348,Anita Ward,['Disco'],3.0,0.0,/anita-ward/
+349,Ike and Tina Turner,"['Soul', ' R&B', ' Rock']",31.0,0.0,/ike-turner/
+350,The Trammps,"['Disco', 'Soul', ' R&B']",5.0,0.0,/the-trammps/
+351,Sylvester,"['Disco', ' Hip Hop']",5.0,0.0,/sylvester/
+352,Wilson Pickett,"['Soul', ' Disco', ' R&B']",43.0,0.0,/wilson-pickett/
+353,Andrea True Connection,['Disco'],6.0,0.0,/andrea-true-connection/
+354,Sia,"['Trip-Hop', ' Pop', 'Romantic']",199.0,135.1,/sia/
+355,Ellie Goulding,"['Pop', ' Electronica', ' Indie']",150.0,16.1,/ellie-goulding/
+356,Vintage Culture,['Electronica'],54.0,16.5,/vintage-culture/
+357,Tove Lo,"['Indie', ' Electronica', ' Pop']",88.0,5.1,/tove-lo/
+358,Clean Bandit,['Electronica'],47.0,2.6,/clean-bandit/
+359,Daft Punk,"['House', ' Electronica', 'Technopop']",101.0,4.2,/daft-punk/
+360,Marshmello,['Electronica'],83.0,2.9,/marshmello/
+361,t.A.T.u.,"['Pop/Rock', ' Electronica', ' Pop']",83.0,3.0,/t-a-t-u/
+362,Martin Garrix,['Electronica'],81.0,2.4,/martin-garrix/
+363,Bruno Martini,['Electronica'],34.0,1.7,/bruno-martini/
+364,Zedd,['Electronica'],56.0,1.4,/zedd/
+365,Massive Attack,"['Trip-Hop', ' Instrumental', ' Electronica']",66.0,1.5,/massive-attack/
+366,Skrillex,['Electronica'],87.0,1.4,/skrillex/
+367,Benny Benassi,"['House', ' Electronica', ' Pop']",67.0,0.2,/benny-benassi/
+368,Björk,"['Indie', ' Electronica', ' Chillout']",214.0,0.0,/bjork/
+369,The Prodigy,['Electronica'],131.0,0.0,/prodigy/
+370,Sigala,['Electronica'],19.0,1.0,/sigala/
+371,Owl City,"['Indie', ' Pop', 'Technopop']",125.0,0.0,/owl-city/
+372,M.I.A.,"['Electronica', ' Hip Hop', ' Pop']",122.0,0.0,/m-i-a/
+373,Hooverphonic,"['Trip-Hop', ' Electronica']",118.0,0.0,/hooverphonic/
+374,The Chemical Brothers,['Electronica'],91.0,0.0,/the-chemical-brothers/
+375,Portishead,"['Trip-Hop', ' Electronica']",55.0,1.0,/portishead/
+376,DJ Shadow,"['Electronica', ' Hip Hop', ' Dance']",36.0,0.0,/dj-shadow/
+377,Kraftwerk,"['Electronica', 'Progressive Music']",84.0,0.0,/kraftwerk/
+378,Fatboy Slim,['Electronica'],90.0,0.0,/fatboy-slim/
+379,Above & Beyond,"['House', ' Trance', ' Electronica']",61.0,0.0,/above-beyond/
+380,Afrojack,"['Electronica', ' House', ' Dance']",104.0,0.4,/afrojack/
+381,Jawsh 685,"['House', ' Electronica', ' Tropical House']",4.0,1.4,/jawsh-685/
+382,deadmau5,"['Electronica', ' House']",109.0,0.2,/deadmau5/
+383,3OH!3,"['Electronica', ' Pop', 'Technopop']",88.0,0.0,/3oh3/
+384,Moloko,"['Trip-Hop', ' Electronica', 'Technopop']",51.0,0.0,/moloko/
+385,Cobra Starship,"['Electronica', ' Pop/Rock']",57.0,0.0,/cobra-starship/
+386,Faithless,"['House', ' Electronica']",52.0,0.0,/faithless/
+387,Gui Boratto,['Electronica'],12.0,0.0,/gui-boratto/
+388,Nicky Romero,['Electronica'],52.0,0.0,/nicky-romero/
+389,Infected Mushroom,['Electronica'],80.0,0.0,/infected-mushroom/
+390,Jean-Michel Jarre,"['Progressive Music', ' Electronica', ' New Age']",150.0,0.1,/jean-michel-jarre/
+391,TroyBoi,['Electronica'],5.0,0.0,/troyboi/
+392,Eskimo,"['Electronica', ' Dance', 'Progressive Music']",11.0,0.0,/dj-eskimo/
+393,Nervo,['Electronica'],45.0,0.0,/nervo/
+394,Ladytron,"['Electronica', 'Technopop', ' Indie']",83.0,0.0,/ladytron/
+395,Sesto Sento,"['Trance', ' Electronica', 'Psychedelic music']",11.0,0.0,/sesto-sento/
+396,LCD Soundsystem,"['Indie', ' Electronica', ' Rock']",44.0,0.0,/lcd-soundsystem/
+397,Brian Eno,"['Progressive Music', ' Electronica']",110.0,0.0,/brian-eno/
+398,Mashup,"['Electronica', ' Pop/Rock', ' Pop']",66.0,0.0,/mashup/
+399,Hot Chip,['Electronica'],91.0,0.0,/hot-chip/
+400,Electric Guest,"['Indie', ' Electronica', 'Alternative Rock']",22.0,0.0,/electric-guest/
+401,House Boulevard,"['Electronica', ' Dance', ' House']",3.0,0.0,/house-boulevard/
+402,Sebastian Ingrosso & Alesso,"['House', ' Electronica', ' Dance']",2.0,0.0,/sebastian-ingrosso-alesso/
+403,COBRAH,"['Pop', ' Electronica']",12.0,0.0,/cobrah/
+404,Neon Hitch,"['Electronica', ' Pop', ' Dance']",67.0,0.0,/neon-hitch/
+405,Felguk,"['Electronica', ' House', ' Dance']",45.0,0.0,/felguk/
+406,Bag Raiders,"['Electronica', ' House', ' Hip Hop']",4.0,0.0,/bag-raiders/
+407,NCS,['Electronica'],24.0,0.0,/ncs/
+408,Miike Snow,"['House', ' Indie', ' Electronica']",33.0,0.0,/miike-snow/
+409,Ale Porto,"['Progressive Music', ' House', ' Electronica']",1.0,0.0,/ale-porto/
+410,Emma Hewitt,"['House', ' Trance', ' Electronica']",13.0,0.0,/emma-hewitt/
+411,Jeffree Star,"['Electronica', 'Technopop', ' Pop']",60.0,0.0,/jeffree-star/
+412,Basement Jaxx,"['Electronica', ' Dance', ' House']",77.0,0.0,/basement-jaxx/
+413,Enter Shikari,"['Hard Rock', ' Hardcore', ' Electronica']",64.0,0.0,/enter-shikari/
+414,Klaas,"['Electronica', ' Dance', ' House']",22.0,0.0,/klaas/
+415,Paul Van Dyk,"['Trance', ' Electronica', ' Dance']",38.0,0.0,/paul-van-dyk/
+416,Oh Land,"['Electronica', ' Pop']",33.0,0.0,/oh-land/
+417,Cut Copy,"['Electronica', ' Indie', ' New Wave']",44.0,0.0,/cut-copy/
+418,The Crystal Method,"['Trip-Hop', ' Electronica', ' Jazz']",14.0,0.0,/the-crystal-method/
+419,Dj Fresh,"['Electronica', ' Dance', 'Psychedelic music']",16.0,0.0,/dj-fresh/
+420,Nero,"['Electronica', ' Pop']",19.0,0.0,/nero/
+421,Showtek,['Electronica'],15.0,0.0,/showtek/
+422,Katy B,"['Electronica', ' Pop']",57.0,0.0,/katy-b/
+423,Eric Saade,"['Electronica', ' Pop', 'Technopop']",56.0,0.0,/eric-saade/
+424,Chase And Status,['Electronica'],20.0,0.0,/chase-and-status/
+425,Chris Lake,"['Trance', ' House', ' Electronica']",7.0,0.0,/chris-lake/
+426,Malik Mustache,"['Hip Hop', ' Rap', ' Electronica']",2.0,0.0,/malik-mustache/
+427,Kdrew,"['Pop', ' Electronica', ' Dance']",20.0,0.0,/kdrew/
+428,Brokencyde,"['Electronica', ' Hardcore', ' Hip Hop']",75.0,0.0,/brokencyde/
+429,Mylo,"['House', ' Electronica']",7.0,0.0,/mylo/
+430,Niki & The Dove,"['Indie', ' Electronica']",26.0,0.0,/niki-the-dove/
+431,Marcinho DJ,"['House', ' Electronica', 'Brazilian Funk']",5.0,0.0,/marcinho-dj/
+432,Fresno,"['Pop/Rock', ' Emocore', ' Rock']",184.0,1.4,/fresno/
+433,Tokio Hotel,"['Alternative Rock', ' Emocore', ' Rock']",131.0,0.3,/tokio-hotel/
+434,Black Veil Brides,"['Rock', ' Hard Rock', ' Emocore']",96.0,0.0,/black-veil-brides/
+435,Sleeping With Sirens,"['Hardcore', ' Rock', ' Emocore']",83.0,0.0,/sleeping-with-sirens/
+436,Hevo84,"['Pop/Rock', 'Romantic', ' Emocore']",60.0,0.0,/hevo84/
+437,Escape The Fate,"['Hardcore', ' Rock', ' Emocore']",92.0,0.0,/escape-the-fate/
+438,The Used,"['Emocore', ' Rock', ' Hardcore']",144.0,0.0,/the-used/
+439,Dashboard Confessional,"['Emocore', ' Pop/Rock']",124.0,0.0,/dashboard-confessional/
+440,Hori,"['Pop', ' Emocore', 'Alternative Rock']",32.0,0.0,/hori/
+441,Agnela,"['Pop/Rock', ' Rock', ' Pop']",30.0,0.0,/agnela/
+442,AFI,"['Emocore', ' Punk Rock', ' Hardcore']",210.0,0.0,/afi/
+443,Funeral For A Friend,"['Emocore', ' Rock', ' Hardcore']",113.0,0.0,/funeral-for-a-friend/
+444,Beeshop,"['Rock', ' Emocore', ' Pop/Rock']",39.0,0.0,/beeshop/
+445,Blessthefall,"['Hardcore', ' Emocore', ' Rock']",73.0,0.0,/blessthefall/
+446,Fake Number,"['Pop/Rock', ' Emocore', ' Rock']",42.0,0.0,/fake-number/
+447,Taking Back Sunday,"['Emocore', ' Rock']",95.0,0.0,/taking-back-sunday/
+448,Alesana,"['Hardcore', ' Emocore', ' Rock']",90.0,0.0,/alesana/
+449,Finch,"['Emocore', ' Hardcore', ' Rock']",66.0,0.0,/finch/
+450,The Word Alive,"['Hardcore', ' Emocore', ' Rock']",56.0,0.0,/the-word-alive/
+451,Ed Sheeran,"['Indie', 'Romantic', ' Pop/Rock']",224.0,114.2,/ed-sheeran/
+452,Jack Johnson,"['Surf Music', ' Folk', ' Pop/Rock']",135.0,21.4,/jack-johnson/
+453,James Blunt,"['Pop/Rock', 'Romantic', ' Pop']",113.0,10.7,/james-blunt/
+454,Leonard Cohen,['Folk'],166.0,12.1,/leonard-cohen/
+455,Florence And The Machine,"['Alternative Rock', ' Folk', ' Indie']",137.0,9.6,/florence-and-the-machine/
+456,Anavitória,"['Indie', ' Pop', ' Folk']",78.0,4.6,/anavitoria/
+457,Eddie Vedder,"['Folk', ' Rock', ' Grunge']",56.0,5.0,/eddie-vedder/
+458,Passenger,"['Indie', ' Folk']",137.0,8.6,/passenger-reino-unido/
+459,The Lumineers,"['Folk', ' Indie']",62.0,6.9,/the-lumineers/
+460,Kodaline,"['Folk', ' Soft Rock', ' Indie']",56.0,8.8,/kodaline/
+461,Birdy,"['Romantic', ' Folk', ' Indie']",86.0,4.0,/birdy/
+462,Vance Joy,"['Indie', ' Folk']",35.0,3.3,/vance-joy/
+463,Neil Young,"['Rock', ' Folk']",517.0,2.6,/neil-young/
+464,Damien Rice,['Folk'],89.0,2.2,/damien-rice/
+465,Mumford & Sons,"['Folk', ' Indie', ' Country']",71.0,1.9,/mumford-sons/
+466,Bon Iver,"['Indie', ' Folk']",67.0,1.8,/bon-iver/
+467,Sufjan Stevens,"['Indie', ' Folk']",187.0,1.7,/sufjan-stevens/
+468,Zeeba,['Folk'],24.0,1.2,/zeeba/
+469,Jethro Tull,"['Progressive Music', ' Folk']",326.0,1.0,/jethro-tull/
+470,Ben Howard,"['Indie', ' Folk']",66.0,1.3,/ben-howard/
+471,The Mamas And The Papas,"['Pop', ' Folk']",63.0,0.0,/mamas-papas/
+472,Loreena McKennitt,"['Folk', ' New Age']",75.0,1.0,/loreena-mckennitt/
+473,Van Morrison,"['Rock', 'Soul', ' Folk']",500.0,1.0,/van-morrison/
+474,Beirut,"['Indie', ' Folk', ' Instrumental']",77.0,0.0,/beirut/
+475,Regina Spektor,"['Romantic', ' Folk', ' Indie']",168.0,0.0,/regina-spektor/
+476,Jake Bugg,"['Indie', ' Folk']",82.0,1.0,/jake-bugg/
+477,José González,['Folk'],39.0,0.2,/jose-gonzalez/
+478,Joni Mitchell,"['Folk', ' Jazz', ' Pop']",221.0,0.0,/joni-mitchell/
+479,Edward Sharpe And The Magnetic Zeros,"['Folk', ' Indie', 'Alternative Rock']",44.0,0.0,/edward-sharpe-and-the-magnetic-zeros/
+480,Vanguart,"['Indie', ' Rock', ' Folk']",101.0,0.0,/vanguart/
+481,Dropkick Murphys,"['Punk Rock', ' Folk']",164.0,0.0,/dropkick-murphys/
+482,Ray LaMontagne,"['Folk', 'Romantic', ' Soft Rock']",72.0,0.0,/ray-lamontagne/
+483,Jewel,"['Pop', ' Folk']",255.0,0.0,/jewel/
+484,The Pogues,"['Folk', ' Rock']",111.0,1.0,/pogues/
+485,Nick Drake,"['Folk', 'Soundtack', ' Indie']",68.0,0.0,/nick-drake/
+486,Never Shout Never,"['Indie', ' Folk', 'Romantic']",113.0,0.0,/never-shout-never/
+487,Buffalo Springfield,"['Rock', ' Folk']",38.0,0.0,/buffalo-springfield/
+488,Wilco,"['Rock', ' Indie', ' Folk']",192.0,0.0,/wilco/
+489,Joan Baez,"['Folk', 'Psychedelic music']",333.0,0.0,/joan-baez/
+490,Amos Lee,['Folk'],53.0,0.0,/amos-lee/
+491,Elliott Smith,"['Indie', ' Folk', 'Alternative Rock']",162.0,1.0,/elliott-smith/
+492,Agridoce,"['Folk', ' Indie']",19.0,0.0,/agridoce/
+493,Father John Misty,"['Indie', ' Folk']",58.0,0.1,/father-john-misty/
+494,First Aid Kit,['Folk'],65.0,0.0,/first-aid-kit/
+495,John Prine,['Folk'],177.0,0.0,/john-prine/
+496,Pete Seeger,['Folk'],18.0,0.0,/pete-seeger/
+497,Iron & Wine,"['Folk', ' Indie', 'Romantic']",125.0,0.0,/iron-wine/
+498,Fleet Foxes,"['Folk', ' Indie']",61.0,0.1,/fleet-foxes/
+499,Eluveitie,"['Folk', ' Heavy Metal', 'Gothic Rock']",82.0,0.0,/eluveitie/
+500,The Head and The Heart,"['Folk', ' Indie']",29.0,0.0,/the-head-and-the-heart/
+501,Devendra Banhart,"['Folk', 'Psychedelic music', ' Indie']",181.0,0.0,/devendra-banhart/
+502,Little Joy,"['Indie', ' Folk', ' Rock']",13.0,0.0,/little-joy/
+503,Dexys Midnight Runners,"[' Folk', 'Soul']",32.0,0.0,/dexys-midnight-runners/
+504,James Vincent Mcmorrow,"['Folk', ' Indie']",30.0,0.0,/james-vincent-mcmorrow/
+505,My Morning Jacket,"['Indie', ' Folk', ' Rock']",127.0,0.1,/my-morning-jacket/
+506,Aimee Mann,"['Pop/Rock', ' Indie', ' Folk']",186.0,0.0,/aimee-mann/
+507,Matt Nathanson,"['Pop/Rock', ' Folk', 'Romantic']",78.0,0.0,/matt-nathanson/
+508,Laura Marling,"['Folk', ' Indie']",95.0,0.0,/laura-marling/
+509,Leadbelly,['Folk'],23.0,0.0,/leadbelly/
+510,Neutral Milk Hotel,"['Indie', ' Folk', ' Rock']",62.0,0.0,/neutral-milk-hotel/
+511,Richard Thompson/ Richard And Linda Thompson,"['Rock', ' Folk']",271.0,0.0,/richard-thompson/
+512,Noah And The Whale,"['Indie', ' Folk', ' Rock']",37.0,0.0,/noah-and-the-whale/
+513,Woody Guthrie,['Folk'],81.0,0.0,/guthrie-woody/
+514,John Martyn,"['Folk', ' Pop/Rock']",50.0,0.0,/john-martyn/
+515,Korpiklaani,['Folk'],98.0,0.0,/korpiklaani/
+516,Yael Naim,['Folk'],29.0,0.0,/yael-naim/
+517,Josh Rouse,"['Pop', ' Folk', ' Indie']",66.0,0.0,/josh-rouse/
+518,Judy Collins,['Folk'],101.0,0.0,/judy-collins/
+519,Dawes,"['Folk', ' Indie', ' Rock']",41.0,0.0,/dawes/
+520,The Duke Spirit,"['Folk', ' Country', ' Rock']",20.0,0.0,/the-duke-spirit/
+521,Sandy Denny,['Folk'],151.0,0.0,/sandy-denny/
+522,JJ Heller,['Folk'],51.0,0.0,/jj-heller/
+523,Off The King,"['Pop', ' Folk', ' Indie']",8.0,0.0,/off-the-king/
+524,Little Nation,"['Pop', ' Folk']",15.0,0.0,/little-nation/
+525,Stevie Wonder,"['R&B', 'Soul', ' Funk']",254.0,12.2,/stevie-wonder/
+526,James Brown,"['Soul', ' Funk', ' R&B']",91.0,3.0,/james-brown/
+527,George Benson,"['Jazz', 'Soul', ' Funk']",55.0,0.0,/george-benson/
+528,Charles Bradley,"['Soul', ' Funk']",25.0,0.0,/charles-bradley/
+529,Sly And The Family Stone,"['Soul', ' Funk', ' R&B']",40.0,0.0,/sly-and-the-family-stone/
+530,Zapp,"['Soul', ' Funk']",16.0,0.0,/zapp/
+531,Wild Cherry,"['Funk', ' Disco', 'Soul']",3.0,0.0,/wild-cherry/
+532,Curtis Mayfield,"['Funk', 'Psychedelic music']",21.0,0.0,/curtis-mayfield/
+533,Gap Band,"['Funk', 'Soul', ' R&B']",26.0,0.0,/gap-band/
+534,Funkadelic,"['Funk', 'Psychedelic music']",92.0,0.0,/funkadelic/
+535,Shalamar,"['Soul', ' R&B', ' Funk']",10.0,0.0,/shalamar/
+536,Isaac Hayes,"['R&B', ' Funk']",26.0,0.0,/isaac-hayes/
+537,The Brothers Johnson,"['Funk', ' R&B']",6.0,0.0,/the-brothers-johnson/
+538,Average White Band,"['Funk', ' Dance', 'Soul']",55.0,0.0,/average-white-band/
+539,Incognito,"['Soul', ' R&B', ' Funk']",114.0,0.0,/incognito/
+540,Bootsy Collins,['Funk'],14.0,0.0,/bootsy-collins/
+541,Ohio Players,"['Funk', 'Brazilian Funk']",10.0,0.0,/ohio-players/
+542,Lakeside,['Funk'],5.0,0.0,/lakeside/
+543,Toni Tornado,['Funk'],10.0,0.0,/toni-tornado/
+544,Sharon Jones & The Dap-kings,['Funk'],13.0,0.0,/sharon-jones-the-dap-kings/
+545,Ludmilla,['Brazilian Funk'],101.0,65.1,/ludmilla/
+546,Furacão 2000,['Brazilian Funk'],58.0,6.3,/furacao-2000/
+547,Mr. Catra,['Brazilian Funk'],98.0,3.3,/mr-catra/
+548,Buchecha,['Brazilian Funk'],67.0,0.0,/buchecha/
+549,Pancadão do Caldeirão do Huck,"['Brazilian Funk', ' Electronica', ' Hip Hop']",30.0,0.0,/pancadao-do-caldeirao-do-huck/
+550,Bonde do Rolê,"['Brazilian Funk', 'Technopop', ' Indie']",43.0,0.0,/bonde-do-role/
+551,Canção Nova,['Gospel'],141.0,51.2,/cancao-nova/
+552,Aline Barros,"['Gospel', ""Children's music""]",418.0,26.6,/aline-barros/
+553,Hillsong United,"['Gospel', ' Pop/Rock', ' Rock']",695.0,25.8,/hillsong-united/
+554,André Valadão,['Gospel'],184.0,20.6,/andre-valadao/
+555,Shirley Carvalhaes,['Gospel'],388.0,12.8,/shirley-carvalhaes/
+556,Diante do Trono,"['Gospel', ""Children's music"", ' Pop/Rock']",652.0,14.1,/diante-do-trono/
+557,Fernanda Brum,"['Romantic', 'Gospel', 'Soundtack']",285.0,8.1,/fernanda-brum/
+558,Gabriela Rocha,['Gospel'],77.0,7.2,/gabriela-rocha/
+559,Eyshila,"['Gospel', 'Romantic', 'Soundtack']",250.0,12.1,/eyshila/
+560,Mattos Nascimento,['Gospel'],194.0,4.0,/mattos-nascimento/
+561,Lauren Daigle,['Gospel'],44.0,12.8,/lauren-daigle/
+562,Rosa de Saron,"['Gospel', ' Rock', ' Pop/Rock']",165.0,3.1,/rosa-de-saron/
+563,Nívea Soares,['Gospel'],123.0,3.3,/nivea-soares/
+564,Soraya Moraes,['Gospel'],159.0,3.7,/soraya-moraes/
+565,J. Neto,['Gospel'],229.0,2.8,/j-neto/
+566,Comunidade Católica Shalom,['Gospel'],248.0,2.6,/comunidade-catolica-shalom/
+567,Elaine Martins,['Gospel'],131.0,2.3,/elaine-martins/
+568,Catedral,"['Pop/Rock', 'Gospel', 'Romantic']",261.0,1.6,/catedral/
+569,Skillet,"['Alternative Rock', ' Rock', ' Hard Rock']",151.0,2.0,/skillet/
+570,Sérgio Lopes,['Gospel'],231.0,1.7,/sergio-lopes/
+571,Casting Crowns,"['Gospel', ' Pop/Rock']",128.0,1.8,/casting-crowns/
+572,Regis Danese,['Gospel'],134.0,2.8,/regis-danese/
+573,Cristina Mel,"[""Children's music"", 'Gospel']",420.0,2.5,/cristina-mel/
+574,Elaine de Jesus,"['Gospel', ""Children's music""]",191.0,2.3,/elaine-de-jesus/
+575,Danielle Cristina,['Gospel'],107.0,2.3,/danielle-cristina/
+576,Jeremy Camp,"['Gospel', ' Rock', ' Pop/Rock']",144.0,1.8,/jeremy-camp/
+577,Adriana Arydes,['Gospel'],132.0,1.6,/adriana-arydes/
+578,Chris Tomlin,['Gospel'],124.0,2.6,/chris-tomlin/
+579,Kemuel,['Gospel'],64.0,1.8,/kemuel/
+580,Jotta A.,"['Gospel', 'Romantic']",56.0,1.7,/jotta-a/
+581,Irmã Kelly Patricia,['Gospel'],156.0,1.4,/irma-kelly-patricia/
+582,Michael W. Smith,['Gospel'],241.0,1.7,/michael-w-smith/
+583,Oficina G3,"['Hard Rock', ' Pop/Rock', ' Rock']",135.0,1.4,/oficina-g3/
+584,Leonardo Gonçalves,['Gospel'],102.0,1.3,/leonardo-goncalves/
+585,Celina Borges,['Gospel'],72.0,1.0,/celina-borges/
+586,Prisma Brasil,['Gospel'],220.0,0.0,/prisma-brasil/
+587,Newsboys,['Gospel'],158.0,1.0,/newsboys/
+588,Red,"['Rock', 'Gospel', ' Hard Rock']",84.0,1.0,/red/
+589,Priscilla Alcântara,['Gospel'],80.0,1.6,/priscilla-alcantara/
+590,Switchfoot,"['Pop/Rock', 'Gospel', ' Rock']",195.0,0.7,/switchfoot/
+591,P.O.D.,"['Rock', 'Gospel', ' Hard Rock']",143.0,1.0,/p-o-d/
+592,Testemunhas de Jeová,['Gospel'],140.0,0.5,/testemunhas-de-jeova/
+593,Arautos do Rei,"['Gospel', 'Classic', ' Instrumental']",223.0,0.0,/arautos-do-rei/
+594,Amy Grant,"['Gospel', 'Soundtack', 'Romantic']",216.0,0.0,/amy-grant/
+595,Hinos Sud,['Gospel'],221.0,1.0,/hinos-sud/
+596,Jamily,"['Gospel', 'Romantic']",122.0,1.0,/jamily/
+597,Jesus Culture,"['Gospel', ' Pop/Rock']",131.0,1.0,/jesus-culture/
+598,MercyMe,['Gospel'],169.0,1.0,/mercy-me/
+599,Raquel Mello,['Gospel'],77.0,0.0,/raquel-mello/
+600,Third Day,"['Gospel', ' Rock', ' Pop/Rock']",174.0,1.0,/third-day/
+601,PG,"['Rock', 'Gospel', ' Pop/Rock']",121.0,0.0,/pg/
+602,Voices,"['Gospel', 'Romantic', ' Instrumental']",131.0,0.0,/voices/
+603,Kari Jobe,['Gospel'],91.0,0.0,/kari-jobe/
+604,Rodox,"['Rock', 'Gospel', ' Hardcore']",29.0,0.0,/rodox/
+605,Alessandra Samadello,"['Gospel', ""Children's music"", ' Instrumental']",157.0,0.0,/alessandra-samadello/
+606,Robinson Monteiro,['Gospel'],92.0,0.0,/robinson-monteiro/
+607,Marcos Witt,['Gospel'],131.0,0.0,/marcos-witt/
+608,Toby Mac,"['Rock', 'Gospel']",103.0,0.0,/toby-mac/
+609,Lecrae,"['Hip Hop', 'Gospel', ' Rap']",91.0,0.0,/lecrae/
+610,Resgate,"['Gospel', ' Rock']",124.0,0.0,/resgate/
+611,Coral Resgate,"['Gospel', ' Ska']",49.0,0.0,/coral-resgate/
+612,Stryper,"['Gospel', ' Hard Rock']",99.0,0.0,/stryper/
+613,Mariana Valadão,['Gospel'],80.0,0.0,/mariana-valadao/
+614,Kim,['Gospel'],140.0,0.0,/kim/
+615,Warren Barfield,"['Gospel', 'Romantic', ' Pop/Rock']",29.0,1.0,/warren-barfield/
+616,Chris Durán,['Gospel'],88.0,0.0,/chris-duran/
+617,Gaither Vocal Band,['Gospel'],133.0,0.0,/gaither-vocal-band/
+618,Demon Hunter,"['Heavy Metal', 'Gospel', ' Rock']",104.0,0.0,/demon-hunter/
+619,Lydia Moises,['Gospel'],90.0,0.0,/lydia-moises/
+620,Jesus Adrian Romero,"['Gospel', ' Instrumental', 'Classic']",133.0,0.0,/jesus-adrian-romero/
+621,Fireflight,"['Gospel', ' Rock', 'Alternative Rock']",72.0,0.0,/fireflight/
+622,The Caravans,['Gospel'],5.0,0.0,/the-caravans/
+623,Brooke Fraser,"['Gospel', 'Romantic', ' Pop']",62.0,0.0,/brooke-fraser/
+624,Flyleaf,"['Rock', ' Hard Rock', 'Gospel']",92.0,0.0,/flyleaf/
+625,12 Stones,"['Rock', 'Gospel', ' Hard Rock']",75.0,0.0,/12-stones/
+626,Sandi Patty,"['Gospel', ' Hard Rock']",215.0,0.0,/sandi-patty/
+627,Britt Nicole,"['Gospel', ' Pop', ' Pop/Rock']",63.0,0.0,/britt-nicole/
+628,Dominic Balli,"['Reggae', 'Gospel', ' Surf Music']",37.0,0.0,/dominic-balli/
+629,Point of Grace,['Gospel'],145.0,0.0,/point-of-grace/
+630,Stacie Orrico,"['Gospel', ' Pop', 'Romantic']",64.0,0.0,/stace-orrico/
+631,Fruto Sagrado,"['Gospel', ' Rock', 'Alternative Rock']",70.0,0.0,/fruto-sagrado/
+632,Khorus,"['Gospel', ' Pop/Rock', 'Romantic']",98.0,0.0,/khorus/
+633,BarlowGirl,"['Pop/Rock', ' Rock', 'Gospel']",63.0,0.0,/barlowgirl/
+634,Delirious,"['Gospel', ' Pop/Rock', ' Rock']",140.0,0.0,/delirious/
+635,Marina de Oliveira,"['Gospel', 'Romantic', ' Pop']",200.0,0.0,/marina-de-oliveira/
+636,Jaci Velasquez,"['Gospel', ' Pop', 'Romantic']",158.0,0.0,/jaci-velasquez/
+637,Eterna,"['Gospel', ' Heavy Metal', ' Rock']",62.0,0.0,/eterna/
+638,Take 6,"['Gospel', ' Jazz']",82.0,0.0,/take-6/
+639,Joe Vasconcelos,"['Gospel', ' Electronica', ' Dance']",38.0,0.0,/joe-vasconcelos-maravilhado/
+640,Davi Silva,"['Gospel', 'Soul', ' Funk']",52.0,0.0,/davi-silva/
+641,Rede Ativa,"['Gospel', ' Pop/Rock', ' Rock']",56.0,0.0,/rede-ativa/
+642,As I Lay Dying,"['Heavy Metal', ' Hardcore', 'Gospel']",90.0,0.0,/as-i-lay-dying/
+643,Coral Resgate Para Vida,"['Gospel', 'Soul']",44.0,0.0,/coral-resgate-para-vida/
+644,Selah,['Gospel'],70.0,0.0,/selah/
+645,Mylla Karvalho,['Gospel'],45.0,0.0,/mylla-karvalho/
+646,Leeland,"['Gospel', ' Pop/Rock', ' Rock']",67.0,0.0,/leeland/
+647,Andy Mineo,"['Rap', 'Gospel', ' Hip Hop']",29.0,0.0,/andy-mineo/
+648,For Today,"['Gospel', ' Hardcore', ' Heavy Metal']",58.0,0.0,/for-today/
+649,Heritage Singers,['Gospel'],85.0,0.0,/heritage-singers/
+650,The Edwin Hawkins Singers,"['Gospel', ' Jazz']",13.0,0.0,/the-edwin-hawkins-singers/
+651,Melosweet,"['Gospel', 'Romantic', ' Instrumental']",58.0,0.0,/melosweet/
+652,Kutless,"['Gospel', ' Rock', ' Pop/Rock']",110.0,0.0,/kutless/
+653,Underoath,"['Hardcore', 'Gospel', ' Rock']",81.0,0.0,/underoath/
+654,Jimmy Needham,"['Gospel', 'Romantic', ' Blues']",52.0,0.0,/jimmy-needham/
+655,Rachael Lampa,"['Gospel', ' Pop', ' R&B']",71.0,0.0,/rachael-lampa/
+656,Brian Littrell,"['Gospel', ' Pop', 'Romantic']",20.0,0.0,/brian-littrell/
+657,Shawn Mcdonald,"['Gospel', ' Pop', ' Surf Music']",76.0,0.0,/shawn-mcdonald/
+658,Hillsong Kids,"['Gospel', ""Children's music"", ' Pop/Rock']",67.0,0.0,/hillsong-kids/
+659,Italo Villar,['Gospel'],25.0,0.0,/italo-villar/
+660,Jon Foreman,['Gospel'],62.0,0.0,/jon-foreman/
+661,HB,"['Gospel', ' Heavy Metal', ' Rock']",64.0,0.0,/hb/
+662,Sebhasttião Alves,['Gospel'],48.0,0.1,/sebhasttiao-alves/
+663,Praise Machine,"['Gospel', ' Pop/Rock']",27.0,0.0,/praise-machine/
+664,Youthful Praise,"['Gospel', ' Electronica']",107.0,0.0,/youthful-praise/
+665,Group 1 Crew,"['Gospel', ' Hip Hop', ' Dance']",48.0,0.0,/group-1-crew/
+666,Death Therapy,"['Gospel', ' Metal']",29.0,0.0,/death-therapy/
+667,Love Song,['Gospel'],5.0,0.0,/love-song/
+668,Krystal Meyers,"['Gospel', ' Pop/Rock', ' Rock']",37.0,0.0,/krystal-meyers/
+669,Bem da Hora,"['Gospel', ' Pop', ' Pop/Rock']",24.0,0.0,/bem-da-hora/
+670,Banda Alien,"['Gospel', 'Alternative Rock']",11.0,0.0,/banda-alien/
+671,Evanescence,"['Rock', 'Alternative Rock', 'Gothic Rock']",147.0,28.2,/evanescence/
+672,The Cure,"['Gothic Rock', ' Rock']",262.0,5.1,/the-cure/
+673,Era,"['New Age', 'Gothic Rock', 'Classic']",50.0,3.0,/era/
+674,Marilyn Manson,"['Industrial', ' Rock', ' Heavy Metal']",227.0,2.7,/marilyn-manson/
+675,Nightwish,"['Heavy Metal', ' Rock', 'Gothic Rock']",147.0,2.2,/nightwish/
+676,Faith No More,"['Alternative Rock', ' Heavy Metal', ' Rock']",101.0,2.2,/faith-no-more/
+677,Placebo,"['Rock', ' Indie', 'Gothic Rock']",168.0,1.5,/placebo/
+678,Within Temptation,"['Rock', 'Gothic Rock', ' Heavy Metal']",133.0,1.0,/within-temptation/
+679,The Sisters of Mercy,['Gothic Rock'],72.0,0.0,/the-sisters-of-mercy/
+680,Siouxsie And The Banshees,['Gothic Rock'],146.0,0.0,/siouxsie-and-the-banshees/
+681,Cradle of Filth,"['Heavy Metal', 'Gothic Rock']",169.0,0.0,/cradle-of-filth/
+682,The Rasmus,"['Rock', 'Gothic Rock']",127.0,0.0,/the-rasmus/
+683,The Mission,"['Gothic Rock', ' Rock']",132.0,0.0,/the-mission/
+684,HIM,"['Rock', ' Heavy Metal', 'Gothic Rock']",113.0,0.0,/him/
+685,Amy Lee,"['Rock', 'Gothic Rock', ' Hard Rock']",33.0,0.0,/amy-lee/
+686,Lacuna Coil,"['Heavy Metal', 'Gothic Rock', ' Rock']",294.0,0.0,/lacuna-coil/
+687,Cocteau Twins,"['Indie', 'Gothic Rock']",98.0,0.0,/cocteau-twins/
+688,Lacrimosa,['Gothic Rock'],143.0,0.1,/lacrimosa/
+689,Bauhaus,['Gothic Rock'],72.0,0.0,/bauhaus/
+690,Tristania,"['Gothic Rock', ' Heavy Metal', ' Rock']",79.0,0.0,/tristania/
+691,Therion,"['Gothic Rock', ' Heavy Metal']",224.0,0.0,/therion/
+692,Peter Murphy,['Gothic Rock'],54.0,0.0,/peter-murphy/
+693,Fields Of The Nephilim,['Gothic Rock'],49.0,0.0,/fields-of-the-nephilim/
+694,Gene Loves Jezebel,"['Gothic Rock', ' Rock', ' Hard Rock']",52.0,0.0,/gene-loves-jezebel/
+695,The Birthday Massacre,"['Gothic Rock', ' Industrial']",82.0,0.0,/birthday-massacre/
+696,The 69 Eyes,"['Gothic Rock', ' Heavy Metal', ' Rock']",123.0,0.0,/the-69-eyes/
+697,Sirenia,"['Gothic Rock', ' Heavy Metal', ' Hard Rock']",89.0,0.0,/sirenia/
+698,We Are The Fallen,"['Gothic Rock', ' Rock', 'Alternative Rock']",13.0,0.0,/we-are-the-fallen/
+699,Alien Sex Fiend,"['Gothic Rock', ' Punk Rock']",50.0,0.0,/alien-sex-fiend/
+700,Xandria,"['Heavy Metal', 'Gothic Rock', ' Instrumental']",97.0,0.0,/xandria/
+701,Voltaire,"['Gothic Rock', ' Rock', ' Pop/Rock']",97.0,0.0,/voltaire/
+702,Clan of Xymox,['Gothic Rock'],102.0,0.0,/clan-of-xymox/
+703,Xmal Deutschland,"['Gothic Rock', ' New Wave']",42.0,0.0,/xmal-deutschland/
+704,Deathstars,"['Industrial', 'Gothic Rock', ' Heavy Metal']",47.0,0.0,/deathstars/
+705,Diary of Dreams,"['Gothic Rock', ' Industrial', ' Electronica']",130.0,0.0,/diary-of-dreams/
+706,In The Dark,"['Gothic Rock', ' Metal', ' Rock']",8.0,0.0,/in-the-dark/
+707,Tones On Tail,['Gothic Rock'],3.0,0.0,/tones-on-tail/
+708,Theatres Des Vampires,"['Gothic Rock', ' Heavy Metal']",87.0,0.0,/theatres-des-vampires/
+709,Pearl Jam,"['Grunge', ' Rock', 'Alternative Rock']",223.0,28.2,/pearl-jam/
+710,Nirvana,"['Rock', ' Grunge', 'Alternative Rock']",128.0,40.3,/nirvana/
+711,Foo Fighters,"['Alternative Rock', ' Rock', ' Hard Rock']",188.0,19.9,/foo-fighters/
+712,Alice In Chains,"['Grunge', ' Rock']",107.0,4.0,/alice-in-chains/
+713,Silverchair,"['Rock', ' Grunge']",91.0,2.2,/silverchair/
+714,Smashing Pumpkins,"['Grunge', ' Rock', 'Alternative Rock']",279.0,2.2,/smashing-pumpkins/
+715,Soundgarden,"['Rock', ' Grunge']",120.0,1.5,/soundgarden/
+716,Soul Asylum,"['Rock', ' Grunge']",156.0,1.0,/soul-asylum/
+717,Stone Temple Pilots,"['Grunge', ' Rock', 'Alternative Rock']",111.0,1.0,/stone-temple-pilots/
+718,Temple Of The Dog,"['Grunge', ' Rock', 'Alternative Rock']",10.0,0.0,/temple-of-the-dog/
+719,Hole,"['Alternative Rock', ' Grunge']",104.0,0.0,/hole/
+720,Mark Lanegan,"['Alternative Rock', ' Grunge']",146.0,0.0,/mark-lanegan/
+721,L7,"['Grunge', ' Punk Rock', 'Alternative Rock']",73.0,0.0,/l7/
+722,Mudhoney,"['Grunge', 'Alternative Rock']",152.0,0.0,/mudhoney/
+723,Dinosaur Jr.,"['Alternative Rock', ' Grunge']",122.0,0.0,/dinosaur-jr/
+724,Mother Love Bone,['Grunge'],18.0,0.0,/mother-love-bone/
+725,Superchunk,"['Alternative Rock', ' Indie', ' Grunge']",119.0,0.0,/superchunk/
+726,Tad,"['Grunge', ' Heavy Metal', ' Punk Rock']",49.0,0.0,/tad/
+727,Bon Jovi,"['Hard Rock', ' Rock', ' Pop/Rock']",376.0,45.9,/bon-jovi/
+728,Scorpions,"['Rock', ' Hard Rock', ' Heavy Metal']",269.0,41.5,/scorpions/
+729,Guns N' Roses,"['Hard Rock', ' Rock', ' Heavy Metal']",104.0,33.3,/guns-n-roses/
+730,Queen,"['Rock', ' Hard Rock', 'Progressive Music']",253.0,39.7,/queen/
+731,Linkin Park,"['Alternative Rock', ' Rap', ' Rock']",229.0,31.2,/linkin-park/
+732,Metallica,"['Rock', ' Hard Rock', ' Heavy Metal']",180.0,24.3,/metallica/
+733,System of a Down,"['Heavy Metal', ' Hard Rock', ' Rock']",115.0,16.1,/system-of-a-down/
+734,Aerosmith,"['Rock', ' Hard Rock', ' Heavy Metal']",249.0,18.8,/aerosmith/
+735,Iron Maiden,"['Heavy Metal', ' Rock', ' Hard Rock']",199.0,11.6,/iron-maiden/
+736,Led Zeppelin,"['Rock', ' Hard Rock', ' Heavy Metal']",95.0,13.8,/led-zeppelin/
+737,Slipknot,"['Hard Rock', ' Heavy Metal', ' Rock']",129.0,8.6,/slipknot/
+738,Black Sabbath,"['Heavy Metal', ' Hard Rock', ' Rock']",195.0,6.0,/black-sabbath/
+739,Kansas,"['Progressive Music', ' Hard Rock', ' Rock']",140.0,5.4,/kansas/
+740,Avenged Sevenfold,"['Hard Rock', ' Heavy Metal', ' Rock']",119.0,5.3,/avenged-sevenfold/
+741,Kiss,"['Rock', ' Hard Rock', ' Heavy Metal']",276.0,6.0,/kiss/
+742,Audioslave,"['Hard Rock', ' Rock']",50.0,6.2,/audioslave/
+743,Ozzy Osbourne,"['Rock', ' Hard Rock', ' Heavy Metal']",188.0,4.4,/ozzy-osbourne/
+744,Extreme,"['Hard Rock', ' Rock']",74.0,6.1,/extreme/
+745,Rage Against The Machine,"['Rock', ' Hard Rock', ' Rap']",67.0,4.0,/rage-against-the-machine/
+746,My Chemical Romance,"['Alternative Rock', ' Punk Rock', ' Rock']",96.0,3.3,/my-chemical-romance/
+747,Van Halen,"['Hard Rock', ' Heavy Metal', ' Rock']",139.0,3.4,/van-halen/
+748,Journey,"['Soft Rock', ' Rock', ' Hard Rock']",174.0,3.4,/journey/
+749,Disturbed,"['Rock', ' Hard Rock', ' Heavy Metal']",128.0,2.8,/disturbed/
+750,Bring Me The Horizon,"['Rock', ' Hardcore', ' Heavy Metal']",112.0,2.7,/bring-me-the-horizon/
+751,Deep Purple,"['Hard Rock', ' Heavy Metal', ' Rock']",261.0,2.8,/deep-purple/
+752,Whitesnake,"['Hard Rock', ' Rock']",163.0,3.1,/whitesnake/
+753,CPM 22,"['Hardcore', ' Punk Rock', ' Rock']",120.0,1.8,/cpm-22/
+754,Three Days Grace,"['Rock', ' Hard Rock', 'Alternative Rock']",87.0,2.0,/three-days-grace/
+755,Limp Bizkit,"['Rock', ' Hard Rock', ' Hip Hop']",144.0,2.5,/limp-bizkit/
+756,Survivor,"['Hard Rock', ' Rock']",87.0,1.6,/survivor/
+757,Stone Sour,"['Rock', ' Hard Rock', ' Heavy Metal']",126.0,1.9,/stone-sour/
+758,Ghost,"['Heavy Metal', ' Hard Rock', ' Rock']",66.0,2.5,/ghost/
+759,Megadeth,"['Heavy Metal', ' Hard Rock', ' Rock']",191.0,1.4,/megadeth/
+760,Alice Cooper,"['Rock', ' Hard Rock', ' Heavy Metal']",330.0,1.4,/alice-cooper/
+761,Heart,"['Rock', ' Hard Rock']",154.0,1.6,/heart/
+762,Greta Van Fleet,"['Rock', ' Hard Rock']",34.0,1.3,/greta-van-fleet/
+763,Slash,"['Rock', ' Hard Rock', ' Heavy Metal']",103.0,0.9,/slash/
+764,The Pretty Reckless,"['Alternative Rock', ' Hard Rock', ' Rock']",86.0,1.2,/the-pretty-reckless/
+765,Europe,"['Hard Rock', ' Rock', ' Heavy Metal']",141.0,1.0,/europe/
+766,Mötley Crüe,"['Hard Rock', ' Heavy Metal']",169.0,1.0,/motley-crue/
+767,Asking Alexandria,"['Rock', ' Hard Rock', ' Hardcore']",113.0,0.0,/asking-alexandria/
+768,Queens Of The Stone Age,"['Rock', ' Hard Rock', 'Alternative Rock']",106.0,1.0,/queens-of-the-stone-age/
+769,Judas Priest,"['Hard Rock', ' Heavy Metal']",215.0,1.0,/judas-priest/
+770,Skid Row,"['Hard Rock', ' Rock']",85.0,1.0,/skid-row/
+771,Twisted Sister,['Hard Rock'],86.0,1.4,/twisted-sister/
+772,Breaking Benjamin,"['Rock', ' Hard Rock', 'Alternative Rock']",83.0,1.0,/breaking-benjamin/
+773,Bullet For My Valentine,"['Heavy Metal', ' Rock', ' Hard Rock']",103.0,1.0,/bullet-for-my-valentine/
+774,Dio,"['Hard Rock', ' Heavy Metal', ' Rock']",126.0,1.0,/dio/
+775,Papa Roach,"['Rock', ' Hardcore', ' Hard Rock']",163.0,1.0,/papa-roach/
+776,Rainbow,"['Hard Rock', ' Heavy Metal', ' Rock']",75.0,0.0,/rainbow/
+777,Def Leppard,['Hard Rock'],163.0,0.0,/def-leppard/
+778,Mr. Big,"['Hard Rock', ' Rock', 'Romantic']",112.0,1.0,/mr-big/
+779,Poison,"['Hard Rock', ' Heavy Metal', ' Rock']",115.0,1.0,/poison/
+780,Joan Jett & The Blackhearts,"['Rock', ' Punk Rock', ' Hard Rock']",179.0,1.0,/joan-jett-the-blackhearts/
+781,Cheap Trick,"[' Rock', ' Hard Rock']",200.0,0.0,/cheap-trick/
+782,Uriah Heep,"['Hard Rock', ' Rock', ' Heavy Metal']",263.0,0.0,/uriah-heep/
+783,Bad Company,"['Hard Rock', ' Rock', ' Blues']",104.0,0.0,/bad-company/
+784,Quiet Riot,"['Hard Rock', ' Heavy Metal', ' Rock']",72.0,0.0,/quiet-riot/
+785,Dragonforce,"['Heavy Metal', ' Hard Rock', ' Rock']",90.0,0.0,/dragonforce/
+786,The Darkness,['Hard Rock'],81.0,0.0,/the-darkness/
+787,New Model Army,"['Rock', ' Hard Rock']",169.0,0.0,/new-model-army/
+788,Cinderella,['Hard Rock'],54.0,0.0,/cinderella/
+789,Boston,"['Hard Rock', ' Rock', 'Classic']",54.0,1.0,/boston/
+790,Blue Öyster Cult,"['Hard Rock', ' Heavy Metal', ' Rock']",114.0,0.0,/blue-oyster-cult/
+791,Tesla,['Hard Rock'],113.0,2.3,/tesla/
+792,Velvet Revolver,"['Hard Rock', ' Rock', ' Heavy Metal']",36.0,0.0,/velvet-revolver/
+793,Manic Street Preachers,"['Indie', ' Rock', ' Hard Rock']",270.0,0.0,/manic-street-preachers/
+794,Gloria,"['Rock', ' Hard Rock', ' Hardcore']",69.0,0.0,/gloria/
+795,Living Colour,['Hard Rock'],53.0,0.0,/living-colour/
+796,Blackmore's Night,"['Hard Rock', ' Folk', ' New Age']",103.0,0.0,/blackmores-night/
+797,Saliva,"['Heavy Metal', ' Hard Rock', ' Rock']",90.0,0.0,/saliva/
+798,Zakk Wylde,"['Hard Rock', ' Heavy Metal']",52.0,0.0,/zakk-wylde/
+799,White Lion,"['Hard Rock', ' Heavy Metal']",29.0,0.0,/white-lion/
+800,The Runaways,"['Hard Rock', ' Rock', ' Punk Rock']",50.0,0.0,/runaways/
+801,David Coverdale,['Hard Rock'],44.0,0.0,/david-coverdale/
+802,Fair Warning,"['Hard Rock', ' Heavy Metal']",47.0,0.0,/fair-warning/
+803,Glenn Hughes,"['Hard Rock', ' Rock']",151.0,0.0,/glenn-hughes/
+804,Lordi,"['Hard Rock', ' Heavy Metal']",102.0,0.0,/lordi/
+805,Dr. Sin,"['Rock', ' Hard Rock', ' Heavy Metal']",109.0,0.0,/dr-sin/
+806,Rob Rock,"['Hard Rock', ' Heavy Metal', 'Gospel']",40.0,0.0,/rob-rock/
+807,Saigon Kick,['Hard Rock'],20.0,0.0,/saigon-kick/
+808,Down,"['Heavy Metal', ' Hard Rock', ' Country']",44.0,0.0,/down/
+809,Nelson,"['Hard Rock', 'Romantic', ' Pop']",81.0,0.0,/nelson/
+810,Jeff Scott Soto,['Hard Rock'],47.0,0.0,/jeff-scott-soto/
+811,Tank (Band),"['Hard Rock', ' Rock']",50.0,0.0,/tank-band/
+812,Tyketto,"['Hard Rock', ' Rock']",34.0,0.0,/tyketto/
+813,Talisman,['Hard Rock'],86.0,0.0,/talisman/
+814,Iron Weasel,"['Rock', ' Hard Rock', ' Heavy Metal']",20.0,0.0,/iron-weasel/
+815,Icon For Hire,"['Alternative Rock', ' Hard Rock']",43.0,0.0,/icon-for-hire/
+816,Girlie Hell,"['Hard Rock', ' Heavy Metal', ' Rock']",7.0,0.0,/girlie-hell/
+817,Dona Mag,"['Hard Rock', ' Rock']",10.0,0.0,/dona-mag/
+818,Reduce,"['Punk Rock', ' Hard Rock', 'Alternative Rock']",9.0,0.0,/reduce/
+819,The Offspring,"['Hardcore', ' Punk Rock', ' Rock']",155.0,5.0,/the-offspring/
+820,Raimundos,"['Punk Rock', ' Hardcore', ' Rock']",121.0,2.8,/raimundos/
+821,NOFX,"['Hardcore', ' Punk Rock']",305.0,1.6,/nofx/
+822,Forfun,"['Alternative Rock', ' Hardcore', ' Reggae']",81.0,1.2,/forfun/
+823,Dead Fish,"['Hardcore', ' Rock', ' Punk Rock']",146.0,0.0,/dead-fish/
+824,A Day To Remember,"['Hardcore', ' Rock']",96.0,0.6,/a-day-to-remember/
+825,Rise Against,"['Punk Rock', ' Hardcore', ' Rock']",136.0,0.0,/rise-against/
+826,Falling In Reverse,"['Hardcore', ' Rock', ' Hard Rock']",65.0,0.0,/falling-in-reverse/
+827,Face To Face,"['Punk Rock', ' Hardcore']",164.0,0.0,/face-to-face/
+828,Cueio Limão,"['Hardcore', ' Punk Rock', ' Rock']",63.0,0.0,/cueio-limao/
+829,Pennywise,"['Punk Rock', ' Hardcore', ' Rock']",171.0,0.0,/pennywise/
+830,Ratos de Porão,"['Punk Rock', ' Hardcore']",148.0,0.0,/ratos-de-porao/
+831,Hateen,"['Hardcore', ' Rock', ' Emocore']",80.0,0.0,/hateen/
+832,Hollywood Undead,"['Rock', ' Hardcore', ' Rap']",105.0,0.0,/hollywood-undead/
+833,Dead Kennedys,"['Hardcore', ' Punk Rock', ' Rock']",82.0,0.0,/dead-kennedys/
+834,GG Allin,"['Hardcore', ' Punk Rock']",130.0,0.0,/gg-allin/
+835,Suicidal Tendencies,"['Hardcore', ' Punk Rock', ' Heavy Metal']",120.0,0.0,/suicidal-tendencies/
+836,Dance of Days,"[' Hardcore', ' Rock']",135.0,0.0,/dance-of-days/
+837,The Exploited,"['Hardcore', ' Punk Rock']",105.0,0.0,/the-exploited/
+838,Suicide Silence,"['Hardcore', ' Heavy Metal', ' Hard Rock']",74.0,0.0,/suicide-silence/
+839,Fugazi,"['Hardcore', ' Punk Rock', ' Disco']",84.0,0.0,/fugazi/
+840,Descendents,"['Punk Rock', ' Hardcore', ' Pop/Punk']",133.0,0.0,/descendents/
+841,Hüsker Dü,"['Alternative Rock', ' Punk Rock', ' Hardcore']",120.0,0.0,/husker-du/
+842,Atreyu,"['Hardcore', ' Heavy Metal', ' Rock']",108.0,0.0,/atreyu/
+843,No Use For A Name,"['Hardcore', ' Punk Rock', ' Rock']",124.0,0.0,/no-use-for-a-name/
+844,D.F.C.,"['Hardcore', ' Punk Rock', 'Gospel']",97.0,0.0,/dfc/
+845,Black Flag,"['Hardcore', ' Punk Rock', ' Rock']",70.0,0.0,/black-flag/
+846,Sugar Kane,['Hardcore'],98.0,0.0,/sugar-kane/
+847,All,['Hardcore'],142.0,0.0,/all/
+848,Biohazard,"['Hardcore', ' Heavy Metal', ' Punk Rock']",114.0,0.0,/biohazard/
+849,Madball,"['Hardcore', ' Punk Rock', ' Rock']",78.0,0.0,/madball/
+850,Eyes Set To Kill,"['Hardcore', ' Rock', ' Emocore']",69.0,0.0,/eyes-set-to-kill/
+851,The Devil Wears Prada,"['Hardcore', 'Gospel', ' Heavy Metal']",77.0,0.0,/the-devil-wears-prada/
+852,Sick Of It All,['Hardcore'],141.0,0.0,/sick-of-it-all/
+853,Agnostic Front,"['Hardcore', ' Punk Rock']",112.0,0.0,/agnostic-front/
+854,Circle Jerks,"['Hardcore', ' Punk Rock']",76.0,0.0,/circle-jerks/
+855,Caliban,['Hardcore'],123.0,0.0,/caliban/
+856,36 Crazyfists,"['Industrial', ' Heavy Metal', ' Hardcore']",78.0,0.0,/36-crazyfists/
+857,Walls of Jericho,"['Hardcore', ' Heavy Metal', ' Punk Rock']",47.0,0.0,/walls-of-jericho/
+858,Let's Go,"['Hardcore', ' Rock', ' Emocore']",25.0,0.0,/lets-go/
+859,Attack Attack!,['Hardcore'],29.0,0.0,/attack-attack/
+860,Maddiba,"['Hip Hop', ' Metal', ' Hardcore']",14.0,0.0,/maddiba/
+861,Prong,"['Heavy Metal', ' Industrial', ' Hardcore']",40.0,0.0,/prong/
+862,Undergust,['Hardcore'],6.0,0.0,/undergust/
+863,Rammstein,"['Rock', ' Industrial', ' Heavy Metal']",172.0,32.5,/rammstein/
+864,Angra,"['Rock', ' Heavy Metal']",125.0,2.6,/angra/
+865,Korn,"['Heavy Metal', ' Rock', ' Hard Rock']",243.0,2.2,/korn/
+866,Sepultura,['Heavy Metal'],212.0,1.5,/sepultura/
+867,Five Finger Death Punch,['Heavy Metal'],112.0,1.8,/five-finger-death-punch/
+868,Motörhead,"['Heavy Metal', ' Rock', ' Hard Rock']",267.0,0.8,/motorhead/
+869,Cannibal Corpse,['Heavy Metal'],176.0,0.0,/cannibal-corpse/
+870,Helloween,"['Heavy Metal', ' Rock']",266.0,1.0,/helloween/
+871,Pantera,['Heavy Metal'],108.0,1.0,/pantera/
+872,Black Label Society,['Heavy Metal'],146.0,1.0,/black-label-society/
+873,Dream Theater,"['Progressive Music', ' Heavy Metal', ' Rock']",231.0,1.0,/dream-theater/
+874,Slayer,['Heavy Metal'],148.0,3.0,/slayer/
+875,Bruce Dickinson,['Heavy Metal'],108.0,1.0,/bruce-dickinson/
+876,Manowar,"['Heavy Metal', ' Hard Rock', ' Rock']",112.0,0.0,/manowar/
+877,Shaman,"['Heavy Metal', ' Rock', ' Hard Rock']",46.0,0.0,/shaman/
+878,Amon Amarth,['Heavy Metal'],120.0,0.0,/amon-amarth/
+879,Queensrÿche,"['Heavy Metal', ' Rock', 'Progressive Music']",152.0,1.0,/queensryche/
+880,Stratovarius,"['Heavy Metal', ' Instrumental', ' Rock']",172.0,0.0,/stratovarius/
+881,Mudvayne,"['Heavy Metal', ' Rock', ' Hard Rock']",77.0,0.0,/mudvayne/
+882,Type O Negative,"['Heavy Metal', 'Gothic Rock']",79.0,0.0,/type-o-negative/
+883,Rhapsody of Fire,['Heavy Metal'],169.0,0.0,/rhapsody/
+884,Accept,['Heavy Metal'],178.0,0.0,/accept/
+885,Blind Guardian,['Heavy Metal'],156.0,0.0,/blind-guardian/
+886,W.A.S.P.,"['Heavy Metal', ' Hard Rock', ' Rock']",148.0,0.0,/wasp/
+887,Apocalyptica,"['Instrumental', ' Heavy Metal']",51.0,0.0,/apocalyptica/
+888,Saxon,['Heavy Metal'],172.0,0.0,/saxon/
+889,Serj Tankian,"['Heavy Metal', ' Rock']",63.0,0.0,/serj-tankian/
+890,Mercyful Fate,['Heavy Metal'],83.0,2.9,/mercyful-fate/
+891,Drowning Pool,"['Heavy Metal', ' Hard Rock', ' Rock']",55.0,0.0,/drowning-pool/
+892,Avantasia,"['Heavy Metal', ' Rock', ' Hard Rock']",86.0,0.0,/avantasia/
+893,Sonata Arctica,"['Heavy Metal', ' Rock', ' Hard Rock']",154.0,0.0,/sonata-artica/
+894,Trivium,['Heavy Metal'],136.0,0.0,/trivium/
+895,HammerFall,['Heavy Metal'],130.0,0.0,/hammerfall/
+896,Godsmack,"['Heavy Metal', ' Hard Rock', ' Rock']",96.0,0.0,/godsmack/
+897,Danzig,"['Heavy Metal', ' Rock', ' Hard Rock']",139.0,0.0,/danzig/
+898,Edguy,"['Heavy Metal', ' Rock', ' Hard Rock']",129.0,0.0,/edguy/
+899,Arch Enemy,['Heavy Metal'],112.0,0.0,/arch-enemy/
+900,Kamelot,"['Heavy Metal', 'Gothic Rock', ' Rock']",173.0,0.0,/kamelot/
+901,In This Moment,"['Heavy Metal', ' Rock', ' Hardcore']",96.0,0.0,/in-this-moment/
+902,Tenacious D,"['Rock', ' Heavy Metal', ' Hard Rock']",114.0,1.0,/tenacious-d/
+903,Motionless In White,['Heavy Metal'],86.0,0.0,/motionless-in-white/
+904,Iced Earth,"['Heavy Metal', ' Rock', ' Hard Rock']",156.0,0.0,/iced-earth/
+905,Killswitch Engage,"['Heavy Metal', ' Rock', ' Hardcore']",102.0,0.0,/killswitch-engage/
+906,Bathory,"['Metal', ' Heavy Metal', ' Rock']",149.0,0.0,/bathory/
+907,Paradise Lost,"['Heavy Metal', 'Gothic Rock']",190.0,0.0,/paradise-lost/
+908,Mastodon,['Heavy Metal'],104.0,0.0,/mastodon/
+909,Dimmu Borgir,"['Heavy Metal', 'Gothic Rock']",101.0,0.0,/dimmu-borgir/
+910,Massacration,"['Heavy Metal', ' Rock', ' Hard Rock']",31.0,0.0,/massacration/
+911,Amorphis,['Heavy Metal'],129.0,0.0,/amorphis/
+912,Lamb Of God,"['Heavy Metal', ' Rock', ' Hardcore']",110.0,0.0,/lamb-of-god/
+913,Behemoth,['Heavy Metal'],128.0,0.0,/behemoth/
+914,Mayhem,['Heavy Metal'],59.0,0.0,/mayhem/
+915,Venom,"['Heavy Metal', ' Funk']",147.0,0.0,/venom/
+916,Anthrax,"['Heavy Metal', ' Hard Rock', ' Rock']",180.0,0.0,/anthrax/
+917,Death,"['Heavy Metal', 'Technopop']",68.0,0.0,/death/
+918,Andre Matos,"['Heavy Metal', ' Rock', 'Classic']",41.0,0.0,/andre-matos/
+919,Anathema,['Heavy Metal'],129.0,0.0,/anathema/
+920,Napalm Death,"['Heavy Metal', ' Hardcore', ' New Wave']",252.0,0.0,/napalm-death/
+921,After Forever,"['Heavy Metal', 'Gothic Rock', ' Rock']",76.0,0.0,/after-forever/
+922,Axel Rudi Pell,"['Heavy Metal', ' Hard Rock', ' Rock']",139.0,0.0,/axel-rudi-pell/
+923,All That Remains,"['Heavy Metal', ' Hardcore', ' Rock']",80.0,0.0,/all-that-remains/
+924,Dope,['Heavy Metal'],90.0,0.0,/dope/
+925,Jorn Lande,['Heavy Metal'],129.0,0.0,/jorn-lande/
+926,MindFlow,"['Rock', ' Heavy Metal', ' Hard Rock']",50.0,0.0,/mindflow/
+927,Brujeria,"['Heavy Metal', 'Gothic Rock']",109.0,0.0,/brujeria/
+928,Savatage,"['Heavy Metal', ' Classic Rock', ' Hard Rock']",126.0,0.0,/savatage/
+929,Theatre of Tragedy,"['Heavy Metal', 'Gothic Rock', 'Gospel']",82.0,0.0,/theatre-of-tragedy/
+930,Moonspell,['Heavy Metal'],140.0,0.0,/moonspell/
+931,Running Wild,"['Heavy Metal', ' Hard Rock']",148.0,0.0,/running-wild/
+932,Yngwie Malmsteen,['Heavy Metal'],205.0,0.0,/yngwie-malmsteen/
+933,Testament,['Heavy Metal'],128.0,0.0,/testament/
+934,Symphony X,"['Heavy Metal', 'Progressive Music']",90.0,0.0,/symphony-x/
+935,Carcass,"['Heavy Metal', ' Dance']",79.0,0.0,/carcass/
+936,Rage,['Heavy Metal'],268.0,0.1,/rage/
+937,The Gathering,"['Rock', ' Heavy Metal']",116.0,0.0,/the-gathering/
+938,Tuatha de Danann,"['Heavy Metal', ' Folk', ' Rock']",50.0,0.0,/tuatha-de-danann/
+939,Almah,"['Heavy Metal', 'Progressive Music']",61.0,0.0,/almah/
+940,Kittie,"['Heavy Metal', ' Rock', 'Gothic Rock']",73.0,0.0,/kittie/
+941,Dokken,"['Heavy Metal', ' Hard Rock']",127.0,0.0,/dokken/
+942,Destruction,"['Heavy Metal', ' Metal', ' Soft Rock']",105.0,0.0,/destruction/
+943,Soulfly,"['Heavy Metal', ' Metal', ' Reggae']",115.0,0.0,/soulfly/
+944,Black Tide,"['Heavy Metal', ' Hard Rock', ' Rock']",39.0,0.0,/black-tide/
+945,Dorsal Atlântica,['Heavy Metal'],99.0,0.0,/dorsal-atlantica/
+946,Grave Digger,['Heavy Metal'],184.0,0.0,/grave-digger/
+947,Children Of Bodom,"['Heavy Metal', 'Gothic Rock', ' Dance']",110.0,0.0,/children-of-bodom/
+948,Primal Fear,"['Heavy Metal', ' Rock', ' Hard Rock']",125.0,0.0,/primal-fear/
+949,Deicide,"['Heavy Metal', ' Hard Rock']",83.0,0.0,/deicide/
+950,Danger Danger,"['Heavy Metal', ' Hard Rock', ' Rock']",48.0,0.0,/danger-danger/
+951,Samael,['Heavy Metal'],90.0,0.0,/samael/
+952,Belphegor,"['Heavy Metal', ' Hardcore']",68.0,0.0,/belphegor/
+953,Burzum,['Heavy Metal'],67.0,0.0,/burzum/
+954,Freedom Call,['Heavy Metal'],100.0,0.0,/freedom-call/
+955,Riot,"['Heavy Metal', ' Rock']",90.0,0.0,/riot/
+956,Allen-Lande,"['Heavy Metal', ' Hard Rock', ' Punk Rock']",46.0,0.0,/allen-lande/
+957,Sentenced,"['Heavy Metal', 'Gothic Rock']",88.0,0.0,/sentenced/
+958,Demons & Wizards,"['Heavy Metal', ' Grunge', ' Rock']",27.0,0.0,/demons-wizards/
+959,Vision Divine,"['Heavy Metal', ' Rock', 'Progressive Music']",79.0,0.0,/vision-divine/
+960,Suffokate,"['Heavy Metal', ' Metal', ' Instrumental']",34.0,0.0,/suffokate/
+961,Emperor,['Heavy Metal'],40.0,0.0,/emperor/
+962,Cavalera Conspiracy,"['Heavy Metal', ' Rock', ' Hard Rock']",46.0,0.0,/cavalera-conspiracy/
+963,Brainstorm (Heavy Metal),['Heavy Metal'],107.0,0.0,/brainstorm-heavy-metal/
+964,Leaves' Eyes,"['Heavy Metal', 'Gothic Rock', ' Folk']",88.0,0.0,/leaves-eyes/
+965,Whitechapel,['Heavy Metal'],68.0,0.0,/whitechapel/
+966,The Sins of thy Beloved,"['Heavy Metal', 'Gothic Rock', ' Hardcore']",15.0,0.0,/the-sins-of-thy-beloved/
+967,Korzus,['Heavy Metal'],63.0,0.0,/korzus/
+968,Royal Hunt,"['Heavy Metal', 'Progressive Music']",85.0,0.0,/royal-hunt/
+969,Heaven & Hell,"['Heavy Metal', ' Rock', ' Hard Rock']",15.0,0.0,/heaven-hell/
+970,Circle II Circle,"['Heavy Metal', 'Progressive Music']",52.0,0.0,/circle-ii-circle/
+971,Fates Warning,"['Progressive Music', ' Heavy Metal']",87.0,0.0,/fates-warning/
+972,Maroon,"['Heavy Metal', ' Hardcore']",33.0,0.0,/maroon/
+973,Domine,['Heavy Metal'],48.0,0.0,/domine/
+974,Anvil,"['Heavy Metal', ' Hard Rock']",139.0,0.0,/anvil/
+975,Racer X,['Heavy Metal'],50.0,0.0,/racer-x/
+976,Vintersorg,"['Heavy Metal', ' Folk', 'Progressive Music']",77.0,0.0,/vintersorg/
+977,Taraxacum,['Heavy Metal'],20.0,0.0,/taraxacum/
+978,Artillery,"['Heavy Metal', ' Hard Rock']",47.0,0.0,/artillery/
+979,Bitch,['Heavy Metal'],10.0,0.0,/bitch/
+980,Beto Vázquez Infinity,['Heavy Metal'],21.0,0.0,/beto-vazquez-infinity/
+981,Before God,['Heavy Metal'],10.0,0.0,/before-god/
+982,Eminem,"['Hip Hop', ' Rap']",486.0,114.9,/eminem/
+983,Drake,"['Rap', ' Hip Hop']",317.0,17.8,/drake/
+984,Cardi B,"['Hip Hop', ' Rap']",51.0,13.9,/cardi-b/
+985,Pharrell Williams,"['Pop', ' Hip Hop', ' Rap']",76.0,9.9,/pharrell-williams/
+986,Nelly Furtado,"['R&B', ' Pop', ' Hip Hop']",136.0,12.6,/nelly-furtado/
+987,Wiz Khalifa,"['Rap', ' Hip Hop']",300.0,8.2,/wiz-khalifa/
+988,Kendrick Lamar,"['Rap', ' Hip Hop']",125.0,5.5,/kendrick-lamar/
+989,Sean Paul,"['Hip Hop', ' Reggae']",190.0,8.1,/sean-paul/
+990,Puff Daddy,"['Hip Hop', ' Rap', ' R&B']",109.0,5.7,/puff-daddy/
+991,XXXTentacion,"['Hip Hop', ' Rap']",115.0,4.3,/xxxtentacion/
+992,Frank Ocean,['Hip Hop'],115.0,5.6,/frank-ocean/
+993,Velozes E Furiosos (Trilha-Sonora),['Hip Hop'],57.0,2.9,/velozes-e-furiosos/
+994,Ja Rule,"['Hip Hop', ' Rap']",168.0,4.3,/ja-rule/
+995,Gorillaz,"['Rock', ' Hip Hop', 'Alternative Rock']",169.0,3.0,/gorillaz/
+996,Gabriel O Pensador,"['Rap', ' Hip Hop']",116.0,3.7,/gabriel-pensador/
+997,Big Sean,"['Rap', ' Hip Hop']",119.0,3.4,/big-sean/
+998,Travis Scott,"['Hip Hop', ' Rap']",72.0,2.7,/travis-scott/
+999,Sean Kingston,"['Pop', ' R&B', ' Hip Hop']",90.0,3.9,/sean-kingston/
+1000,Matuê,"['R&B', ' Rap', ' Hip Hop']",27.0,2.8,/matue/
+1001,Mary J. Blige,"['R&B', ' Hip Hop']",291.0,2.5,/mary-j-blige/
+1002,J. Cole,"['Rap', ' Hip Hop']",170.0,2.1,/j-cole/
+1003,Powfu,"['Hip Hop', ' Lo-fi']",64.0,2.5,/powfu/
+1004,DJ Khaled,"['Hip Hop', ' Rap']",149.0,2.2,/dj-khaled/
+1005,Mac Miller,"['Hip Hop', ' Rap', ' Pop']",243.0,2.1,/mac-miller/
+1006,Iggy Azalea,"['Rap', ' Hip Hop']",125.0,1.7,/iggy-azalea/
+1007,Gym Class Heroes,['Hip Hop'],59.0,1.9,/gym-class-heroes/
+1008,Daddy Yankee,"['Reggaeton', ' Hip Hop']",229.0,2.3,/daddy-yankee/
+1009,Kehlani,"['Hip Hop', ' R&B']",87.0,1.4,/kehlani/
+1010,Fat Joe,"['Hip Hop', ' Rap']",150.0,0.0,/fat-joe/
+1011,Timbaland,"['Hip Hop', ' R&B']",146.0,1.4,/timbaland/
+1012,T-Pain,"['Rap', ' Hip Hop', ' R&B']",163.0,0.0,/t-pain/
+1013,Ashanti,"['Hip Hop', ' R&B']",163.0,0.0,/ashanti/
+1014,21 Savage,"['Hip Hop', ' Rap']",49.0,1.5,/21-savage/
+1015,Tinashe,"['R&B', ' Hip Hop']",145.0,0.6,/tinashe/
+1016,PJ Morton,"['R&B', 'Soul', ' Pop']",40.0,0.0,/pj-morton/
+1017,Calle 13,"['Reggaeton', ' Hip Hop']",98.0,0.0,/calle-13/
+1018,Chamillionaire,"['Rap', ' Hip Hop']",194.0,1.0,/chamillionaire/
+1019,Wale,"['Hip Hop', ' Rap']",103.0,0.0,/wale/
+1020,Nate Dogg,"['Rap', ' Hip Hop']",91.0,1.0,/nate-dogg/
+1021,Karol Conka,"['Rap', ' Hip Hop']",60.0,0.3,/karol-conka/
+1022,Tyga,"['Rap', ' Hip Hop']",152.0,0.4,/tyga/
+1023,Fort Minor,"['Hip Hop', ' Rap', ' Trip-Hop']",38.0,1.0,/fort-minor/
+1024,Tory Lanez,"['Hip Hop', ' Rap', ' R&B']",117.0,1.0,/tory-lanez/
+1025,Bow Wow,"['R&B', ' Hip Hop', ' Rap']",147.0,0.0,/bow-wow/
+1026,Beastie Boys,"['Hip Hop', ' Rock']",188.0,1.0,/beastie-boys/
+1027,Linkin Park And Jay-Z,"['Rock', ' Hip Hop', ' Rap']",7.0,1.0,/linkin-park-jay-z/
+1028,Jhené Aiko,"['Hip Hop', ' R&B']",100.0,0.4,/jhene-aiko/
+1029,2 Chainz,"['Hip Hop', ' Rap']",125.0,0.1,/2-chainz/
+1030,The Game,"['Rap', ' Hip Hop']",235.0,0.0,/the-game/
+1031,G-Unit,"['Hip Hop', ' Rap']",89.0,0.0,/g-unit/
+1032,Wu-Tang Clan,"['Hip Hop', ' Rap']",141.0,0.0,/wu-tang-clan/
+1033,Lil Jon,"['Rap', ' Hip Hop']",86.0,0.0,/lil-jon-the-east-side-boyz/
+1034,Grits,['Hip Hop'],31.0,1.7,/grits/
+1035,Twista,['Hip Hop'],125.0,1.5,/twista/
+1036,Jay-Z & Kanye West,"['Rap', ' Hip Hop']",16.0,0.0,/jay-z-kanye-west/
+1037,Eamon,"['Hip Hop', ' Pop/Rock', ' Dance']",34.0,0.0,/eamon/
+1038,Gucci Mane,"['Rap', ' Hip Hop']",208.0,0.1,/gucci-mane/
+1039,D12,"['Rap', ' Hip Hop']",117.0,0.0,/d12/
+1040,Travie McCoy,"['Hip Hop', ' Reggae', ' Pop']",23.0,0.0,/travie-mccoy/
+1041,Ray J,"['Hip Hop', ' R&B']",64.0,0.0,/ray-j/
+1042,Jay Sean,"['Pop', ' Hip Hop']",108.0,1.0,/jay-sean/
+1043,Chance The Rapper,['Hip Hop'],66.0,0.1,/chance-the-rapper/
+1044,The Lonely Island,"['Hip Hop', ' Rap', ' Pop/Rock']",54.0,0.0,/the-lonely-island/
+1045,E-40,['Hip Hop'],189.0,0.0,/e-40/
+1046,Omarion,"['Hip Hop', ' R&B']",135.0,0.0,/omarion/
+1047,Common,['Hip Hop'],149.0,0.0,/common/
+1048,Jamie Foxx,"['Soul', ' R&B', ' Hip Hop']",91.0,0.0,/jamie-foxx/
+1049,Little Simz,"['Hip Hop', ' Rap']",54.0,0.4,/little-simz/
+1050,Wyclef Jean,['Hip Hop'],135.0,0.0,/wyclef-jean/
+1051,Bad Meets Evil,"['Hip Hop', ' Rap']",23.0,0.0,/bad-meets-evil/
+1052,StarBoi3,['Hip Hop'],1.0,0.0,/starboi3/
+1053,Iyaz,"['Hip Hop', ' Pop']",24.0,0.0,/iyaz/
+1054,Lloyd Banks,"['Rap', ' Hip Hop']",124.0,0.0,/lloyd-banks/
+1055,Tinie Tempah,"['Rap', ' Hip Hop']",48.0,0.0,/tinie-tempah/
+1056,Baby Boy da Prince,"['Rap', ' Hip Hop', ' Funk']",9.0,0.0,/baby-boy-da-prince/
+1057,Karmin,"['Pop', ' Hip Hop', ' Dance']",59.0,0.0,/karmin/
+1058,Xzibit,"['Rap', ' Hip Hop']",143.0,0.0,/xzibit/
+1059,Vince Staples,['Hip Hop'],62.0,0.0,/vince-staples/
+1060,Travis Barker,"['Rap', ' Hip Hop', ' Punk Rock']",22.0,0.0,/travis-barker/
+1061,Jadakiss,['Hip Hop'],48.0,0.0,/jadakiss/
+1062,Colby O Donis,"['Hip Hop', ' Pop', ' R&B']",29.0,0.0,/colby-o-donis/
+1063,Elijah Who,"['Hip Hop', ' Lo-fi']",7.0,0.0,/elijah-who/
+1064,GEMINI (제미나이) (KOR),['Hip Hop'],10.0,0.0,/gemini-kor/
+1065,Obie Trice,"['Hip Hop', ' Rap']",74.0,0.0,/obie-trice/
+1066,Plies,"['Rap', ' Hip Hop']",86.0,0.0,/plies/
+1067,Yung Joc,"['Hip Hop', ' Rap']",37.0,0.0,/yung-joc/
+1068,Christina Milian,"['Romantic', ' Hip Hop', ' Pop']",62.0,0.0,/christina-milian/
+1069,Slum Village,"['Hip Hop', ' Rap']",31.0,0.0,/slum-village/
+1070,Rene Fellix,"['Hip Hop', ' Rap']",8.0,0.0,/rene-fellix/
+1071,Yusei,"['Hip Hop', ' Lo-fi']",6.0,0.0,/yusei/
+1072,Mystikal,"['Hip Hop', ' Rap']",80.0,0.0,/mystikal/
+1073,Young Money,"['Hip Hop', ' Rap', ' R&B']",29.0,0.0,/young-money/
+1074,Ester Dean,"['Rap', ' Hip Hop', ' R&B']",37.0,0.0,/ester-dean/
+1075,Digga D,"['Rap', ' Hip Hop']",12.0,0.0,/digga-d/
+1076,Flobots,"['Rap', ' Hip Hop', ' Rock']",31.0,0.0,/flobots/
+1077,Kris Kross,['Hip Hop'],9.0,0.0,/kris-kross/
+1078,John Cena,"['Hip Hop', ' Rap', ' Pop/Rock']",21.0,0.0,/john-cena/
+1079,Mindless Behavior,"['Hip Hop', ' R&B', ' Pop']",31.0,0.0,/mindless-behavior/
+1080,Hoodie Allen,['Hip Hop'],60.0,0.0,/hoodie-allen/
+1081,Mack Maine,"['Rap', ' Hip Hop']",37.0,0.0,/mack-maine/
+1082,Twenty88,"['R&B', ' Hip Hop']",8.0,0.0,/twenty88/
+1083,Short Dawg,"['Rap', ' Hip Hop']",7.0,0.0,/short-dawg/
+1084,Blake Lewis,"['Pop', ' Hip Hop', 'Technopop']",47.0,0.0,/blake-lewis/
+1085,Danny Brown,['Hip Hop'],30.0,0.0,/danny-brown/
+1086,Gudda Gudda,"['Hip Hop', ' Rap']",15.0,0.0,/gudda-gudda/
+1087,Everything Everything,"['Indie', ' House', ' Pop/Rock']",62.0,0.0,/everything-everything/
+1088,Selva,['House'],12.0,0.0,/selva/
+1089,Coldplay,"['Pop/Rock', ' Soft Rock']",232.0,107.4,/coldplay/
+1090,Imagine Dragons,"['Rock', 'Alternative Rock', ' Indie']",130.0,67.5,/imagine-dragons/
+1091,Lana Del Rey,"['Romantic', ' Indie']",311.0,53.3,/lana-del-rey/
+1092,Arctic Monkeys,"['Alternative Rock', ' Rock', ' Indie']",128.0,27.3,/arctic-monkeys/
+1093,Oasis,"['Alternative Rock', ' Rock', ' Indie']",162.0,17.8,/oasis/
+1094,Hozier,['Indie'],38.0,17.2,/hozier/
+1095,The Neighbourhood,"['Indie', 'Alternative Rock']",86.0,17.1,/the-neighbourhood/
+1096,Melanie Martinez,['Indie'],102.0,12.5,/melanie-martinez/
+1097,R.E.M.,"['Rock', 'Alternative Rock', ' Indie']",250.0,14.8,/r-e-m/
+1098,Foster The People,"['Indie', 'Alternative Rock']",66.0,10.8,/foster-the-people/
+1099,The Ting Tings,"['Indie', ' Pop/Rock', ' Pop']",31.0,3.2,/the-ting-tings/
+1100,Radiohead,"['Indie', ' Rock', 'Alternative Rock']",204.0,11.1,/radiohead/
+1101,Twenty One Pilots,"['Alternative Rock', ' Indie', ' Rap']",85.0,11.5,/twenty-one-pilots/
+1102,Keane,"[' Pop/Rock', 'Alternative Rock']",124.0,8.7,/keane/
+1103,Lorde,"['Indie', ' Pop']",71.0,9.0,/lorde/
+1104,Alessia Cara,"['Indie', ' R&B']",67.0,10.9,/alessia-cara/
+1105,Kings Of Leon,"['Alternative Rock', ' Indie', ' Rock']",113.0,7.3,/kings-of-leon/
+1106,The Killers,"['Alternative Rock', ' Indie', ' Rock']",137.0,4.8,/the-killers/
+1107,Muse,"['Alternative Rock', ' Indie', ' Rock']",146.0,4.6,/muse/
+1108,The Strokes,"['Alternative Rock', ' Rock', ' Indie']",90.0,4.6,/the-strokes/
+1109,The Smiths,"['Indie', ' Rock', ' New Wave']",77.0,4.4,/the-smiths/
+1110,Bastille,"['Indie', 'Alternative Rock']",118.0,4.6,/bastille/
+1111,MARINA,"['Pop', ' Indie']",133.0,3.6,/marina/
+1112,Gotye,"['Indie', ' Pop']",35.0,3.6,/gotye/
+1113,Troye Sivan,['Indie'],72.0,2.6,/troye-sivan/
+1114,Of Monsters and Men,['Indie'],45.0,2.3,/of-monsters-and-men/
+1115,Tame Impala,"['Alternative Rock', 'Psychedelic music', ' Indie']",68.0,2.0,/tame-impala/
+1116,Fun.,"['Alternative Rock', ' Indie', ' Pop/Rock']",31.0,2.4,/fun/
+1117,Morrissey,"['Indie', ' Rock', ' Pop/Rock']",275.0,1.6,/morrissey/
+1118,Marina Sena,"['Indie', ' Pop']",20.0,1.5,/marina-sena/
+1119,The 1975,"['Pop/Rock', 'Alternative Rock', ' Indie']",96.0,1.5,/the-1975/
+1120,Mitski,['Indie'],69.0,1.6,/mitski/
+1121,Weezer,"['Indie', ' Rock', 'Alternative Rock']",269.0,1.8,/weezer/
+1122,MGMT,"['Psychedelic music', ' Indie', ' Rock']",60.0,1.5,/mgmt/
+1123,Alt-J,['Indie'],48.0,1.5,/alt-j/
+1124,Portugal. The Man,['Indie'],96.0,0.6,/portugal-the-man/
+1125,Supercombo,"['Pop/Rock', ' Rock', ' Indie']",73.0,1.4,/supercombo/
+1126,Supergrass,['Indie'],100.0,1.2,/supergrass/
+1127,Arcade Fire,"['Indie', ' Rock']",109.0,1.5,/the-arcade-fire/
+1128,The XX,"['Indie', 'Alternative Rock', ' Folk']",45.0,1.0,/the-xx/
+1129,The Hives,"['Rock', ' Indie', ' Punk Rock']",90.0,0.0,/the-hives/
+1130,Young The Giant,"['Indie', 'Alternative Rock', ' Rock']",56.0,0.0,/young-the-giant/
+1131,The Bravery,"['Indie', ' Rock', 'Alternative Rock']",44.0,0.0,/the-bravery/
+1132,Lykke Li,['Indie'],70.0,1.0,/lykke-li/
+1133,Franz Ferdinand,"['Indie', ' Rock']",91.0,0.7,/franz-ferdinand/
+1134,Two Door Cinema Club,['Indie'],61.0,0.0,/two-door-cinema-club/
+1135,Noel Gallagher,"['Indie', ' Rock']",63.0,0.0,/noel-gallagher/
+1136,Alex Turner,"['Alternative Rock', ' Indie', ' Rock']",6.0,0.0,/alex-turner/
+1137,The Kooks,"['Rock', ' Indie', 'Alternative Rock']",131.0,0.0,/the-kooks/
+1138,M83,"['Post-Rock', 'Alternative Rock', ' Indie']",87.0,1.0,/m83/
+1139,The Cardigans,"['Pop', ' Indie']",86.0,1.0,/the-cardigans/
+1140,Beck,"['Indie', ' Rock']",324.0,1.4,/beck/
+1141,Walk The Moon,"['Pop/Rock', ' Indie', ' Pop']",61.0,1.7,/walk-the-moon/
+1142,Empire Of The Sun,"['Indie', 'Technopop', ' Electronica']",37.0,1.0,/empire-of-the-sun/
+1143,James,"['Indie', ' Pop/Rock']",161.0,0.0,/james/
+1144,Sonic Youth,"['Rock', ' Indie']",227.0,0.0,/sonic-youth/
+1145,Belle & Sebastian,"['Indie', ' Pop']",177.0,0.2,/belle-sebastian/
+1146,The Wombats,['Indie'],73.0,0.2,/wombats/
+1147,Interpol,"[' Indie', ' Rock']",83.0,1.0,/interpol/
+1148,The Last Shadow Puppets,"['Indie', ' Rock', 'Alternative Rock']",36.0,0.0,/the-last-shadow-puppets/
+1149,Phoenix,"['Indie', 'Alternative Rock', ' Rock']",61.0,1.0,/phoenix/
+1150,Still Corners,"['Psychedelic music', ' Indie']",30.0,0.0,/still-corners/
+1151,Band Of Horses,"['Alternative Rock', ' Rock', ' Indie']",70.0,1.0,/band-of-horses/
+1152,The National,['Indie'],139.0,0.0,/the-national/
+1153,Cat Power,['Indie'],153.0,0.0,/cat-power/
+1154,Peter Bjorn And John,"['Indie', ' Folk', ' Rock']",79.0,0.0,/peter-bjorn-and-john/
+1155,Metronomy,"['Indie', 'Technopop']",54.0,0.0,/metronomy/
+1156,Phantogram,"['Trip-Hop', ' Indie', ' Electronica']",51.0,0.0,/phantogram/
+1157,Declan McKenna,"['Alternative Rock', ' Indie']",40.0,0.4,/declan-mckenna/
+1158,Kaiser Chiefs,"['Indie', ' Rock', 'Alternative Rock']",120.0,0.0,/kaiser-chiefs/
+1159,Death Cab For Cutie,['Indie'],159.0,0.0,/death-cab-for-cutie/
+1160,Wolf Alice,"['Alternative Rock', ' Indie']",53.0,0.1,/wolf-alice/
+1161,PUBLIC,['Indie'],4.0,1.0,/public/
+1162,Prefab Sprout,"['Pop', ' Indie']",121.0,0.1,/prefab-sprout/
+1163,The Fratellis,"['Indie', ' Rock']",76.0,0.0,/the-fratellis/
+1164,Dirty Projectors,['Indie'],48.0,0.0,/dirty-projectors/
+1165,Neon Trees,"['Alternative Rock', ' Indie', ' Pop/Rock']",51.0,0.0,/neon-trees/
+1166,Balthazar,"['Alternative Rock', ' Indie']",57.0,0.1,/balthazar/
+1167,The Jesus and Mary Chain,"['Rock', ' Indie']",158.0,0.0,/the-jesus-and-mary-chain/
+1168,The Drums,"['Indie', 'Alternative Rock', ' Grunge']",44.0,0.0,/the-drums/
+1169,The Pains Of Being Pure At Heart,['Indie'],39.0,4.0,/the-pains-of-being-pure-at-heart/
+1170,The Flaming Lips,"['Indie', ' Rock']",196.0,0.0,/the-flaming-lips/
+1171,Sigur Rós,"['Post-Rock', ' Instrumental', ' Indie']",52.0,0.0,/sigur-ros/
+1172,Yeah Yeah Yeahs,"['Indie', ' Pop/Rock']",79.0,0.0,/yeah-yeah-yeahs/
+1173,Nada Surf,"['Indie', ' Surf Music', ' Rock']",92.0,0.0,/nada-surf/
+1174,The Vaccines,"['Alternative Rock', ' Indie', ' Rock']",75.0,0.0,/the-vaccines/
+1175,My Bloody Valentine,['Indie'],72.0,0.0,/my-bloody-valentine/
+1176,The Magnetic Fields,"['Indie', ' R&B']",160.0,0.0,/the-magnetic-fields/
+1177,St. Vincent,"['Indie', ' Pop']",100.0,1.4,/st-vincent/
+1178,Tegan And Sara,['Indie'],144.0,0.0,/tegan-and-sara/
+1179,Kasabian,"['Indie', ' Rock']",87.0,0.0,/kasabian/
+1180,Kate Nash,['Indie'],95.0,0.0,/kate-nash/
+1181,The Shins,['Indie'],59.0,0.0,/the-shins/
+1182,Pavement,"['Indie', ' Rock']",100.0,0.0,/pavement/
+1183,Spoon,['Indie'],123.0,0.0,/spoon/
+1184,The War On Drugs,"['Alternative Rock', ' Indie']",37.0,0.0,/the-war-on-drugs/
+1185,CSS,"['Indie', ' Pop/Rock', ' Electronica']",62.0,0.0,/cansei-de-ser-sexy/
+1186,Caroline Polachek,"['Indie', ' Pop']",41.0,0.0,/caroline-polachek/
+1187,White Lies,"['Indie', 'Alternative Rock']",56.0,0.0,/white-lies/
+1188,Foals,['Indie'],77.0,0.0,/foals/
+1189,Primal Scream,"['Indie', ' Rock', ' Electronica']",111.0,0.0,/primal-scream/
+1190,Kimbra,['Indie'],60.0,0.0,/kimbra/
+1191,Bright Eyes,['Indie'],223.0,0.0,/bright-eyes/
+1192,Boogarins,"['Indie', 'Psychedelic music', ' Rock']",42.0,0.0,/boogarins/
+1193,Ängie,"['Pop/Punk', ' Indie']",52.0,0.0,/angie/
+1194,The Civil Wars,"['Indie', ' Folk', ' Country']",34.0,0.0,/the-civil-wars/
+1195,Elbow,"['Indie', ' Rock']",123.0,0.0,/elbow/
+1196,Bloc Party,['Indie'],95.0,0.0,/bloc-party/
+1197,The Raconteurs,"['Alternative Rock', ' Indie', ' Rock']",39.0,0.0,/the-raconteurs/
+1198,Fountains Of Wayne,[' Indie'],97.0,0.0,/fountains-of-wayne/
+1199,Lush,"['Indie', 'Gothic Rock']",64.0,0.0,/lush/
+1200,The La's,"['Indie', ' Country', 'Romantic']",15.0,0.0,/the-las/
+1201,Bombay Bicycle Club,"['Indie', ' Folk', ' Rock']",62.0,0.0,/bombay-bicycle-club/
+1202,Courtney Barnett,['Indie'],41.0,0.0,/courtney-barnett/
+1203,Perfume Genius,['Indie'],80.0,0.0,/perfume-genius/
+1204,Bakar,['Indie'],23.0,0.0,/bakar/
+1205,Lights,['Indie'],61.0,0.0,/lights/
+1206,Spiritualized,"['Psychedelic music', ' Indie']",89.0,0.0,/spiritualized/
+1207,Yuna,"['Indie', 'Romantic']",34.0,0.0,/yuna/
+1208,The Stone Roses,"['Rock', ' Indie']",53.0,0.0,/the-stone-roses/
+1209,Luc Ivor,"['R&B', ' Pop', ' Indie']",5.0,0.0,/luc-ivor/
+1210,The Decemberists,"['Indie', ' Folk', ' Rock']",134.0,0.0,/the-decemberists/
+1211,Sebadoh,"['Indie', ' Rock']",144.0,0.0,/sebadoh/
+1212,The Naked and Famous,"['Indie', 'Alternative Rock', ' Rock']",54.0,0.0,/the-naked-and-famous/
+1213,Sleigh Bells,['Indie'],66.0,0.0,/sleigh-bells/
+1214,Cloud in Tears,"['Pop/Rock', ' Indie', ' Pop']",7.0,0.0,/cloud-in-tears/
+1215,Ride,"['Indie', 'Alternative Rock']",73.0,0.0,/ride/
+1216,Beulah,['Indie'],49.0,0.0,/beulah/
+1217,Miles Kane,"['Indie', ' Rock']",48.0,0.0,/miles-kane/
+1218,Editors,"['Indie', ' Rock', 'Alternative Rock']",92.0,0.0,/editors/
+1219,The Maccabees,"['Indie', ' Rock']",48.0,0.0,/the-maccabees/
+1220,Vampire Weekend,"['Indie', 'Alternative Rock', ' Rock']",59.0,0.0,/vampire-weekend/
+1221,One Night Only,"['Indie', 'Alternative Rock', ' Rock']",44.0,0.0,/one-night-only/
+1222,Resa Saffa Park,['Indie'],1.0,0.0,/resa-saffa-park/
+1223,The Kills,"['Indie', 'Alternative Rock', ' Rock']",101.0,0.0,/the-kills/
+1224,The Moldy Peaches,"['Indie', 'Romantic', ' Folk']",24.0,0.0,/the-moldy-peaches/
+1225,Teenage Fanclub,"['Indie', ' Rock']",166.0,0.0,/teenage-fanclub/
+1226,The Get Up Kids,"['Indie', ' Emocore', ' Rock']",96.0,0.0,/the-get-up-kids/
+1227,Bedhead Badhead,"['New Wave', ' Indie']",10.0,0.0,/bedhead-badhead/
+1228,Blossoms,['Indie'],35.0,0.0,/blossoms/
+1229,Sunny Day Real Estate,"['Indie', ' Emocore', ' Rock']",50.0,0.0,/sunny-day-real-estate/
+1230,She & Him,['Indie'],81.0,0.0,/she-him/
+1231,Animal Collective,['Indie'],138.0,0.0,/animal-collective/
+1232,Klaxons,"['Indie', ' Rock', ' New Wave']",35.0,0.0,/klaxons/
+1233,Puma Blue,"['Indie', ' Lo-fi']",15.0,0.0,/puma-blue/
+1234,Turin Brakes,['Indie'],58.0,0.0,/turin-brakes/
+1235,Toro Y Moi,['Indie'],67.0,0.0,/toro-y-moi/
+1236,Pinback,['Indie'],73.0,0.0,/pinback/
+1237,Ian Brown,['Indie'],70.0,0.0,/ian-brown/
+1238,Johnny Marr,"['Indie', ' Rock']",62.0,0.0,/johnny-marr/
+1239,The Airborne Toxic Event,"['Indie', ' Pop/Rock']",36.0,0.0,/the-airborne-toxic-event/
+1240,Glasvegas,"['Indie', 'Alternative Rock', ' Rock']",19.0,0.0,/glasvegas/
+1241,Super Furry Animals,['Indie'],151.0,0.0,/super-furry-animals/
+1242,Guided By Voices,['Indie'],621.0,0.0,/guided-by-voices/
+1243,RIVVRS,"['Indie', 'Alternative Rock']",8.0,0.0,/rivvrs/
+1244,Ida Maria,"['Indie', ' Rock', 'Alternative Rock']",38.0,0.0,/ida-maria/
+1245,Deia Cassali,"['Indie', ' Blues', ' Rock']",11.0,0.0,/deia-cassali/
+1246,The Vaselines,"['Indie', ' Grunge']",20.0,0.0,/the-vaselines/
+1247,Babybird,['Indie'],100.0,0.0,/babybird/
+1248,Alexandra Savior,"['Psychedelic music', ' Pop', ' Indie']",19.0,0.0,/alexandra-savior/
+1249,The Courteeners,"['Indie', 'Alternative Rock', ' Rock']",51.0,0.0,/the-courteeners/
+1250,Saint Etienne,"['Indie', ' Pop']",191.0,0.0,/saint-etienne/
+1251,Lizia,"['New Age', ' Pop/Rock', ' Indie']",14.0,0.0,/lizia/
+1252,Pedro the Lion,"['Indie', 'Gospel']",82.0,0.0,/pedro-the-lion/
+1253,The Glitch Mob,"['Indie', ' Electronica', ' Instrumental']",39.0,0.0,/the-glitch-mob/
+1254,The Horrors,"['Indie', ' Rock']",51.0,0.0,/the-horrors/
+1255,Wavves,['Indie'],34.0,0.0,/wavves/
+1256,Destroyer,['Indie'],81.0,0.0,/destroyer/
+1257,AKEEM Music,['Indie'],14.0,0.0,/akeem-music/
+1258,Luna,"['Indie', 'Alternative Rock']",79.0,0.0,/luna/
+1259,Real Estate,['Indie'],42.0,0.0,/real-estate/
+1260,Sea Power (British Sea Power),['Indie'],78.0,0.0,/sea-power-british-sea-power/
+1261,Kurt Vile,['Indie'],38.0,0.0,/kurt-vile/
+1262,Graham Coxon,"['Indie', ' Pop/Rock']",71.0,0.0,/graham-coxon/
+1263,Tennis,['Indie'],34.0,0.0,/tennis/
+1264,Clap Your Hands Say Yeah,['Indie'],40.0,0.0,/clap-your-hands-say-yeah/
+1265,Vitor de Martinelli,"['Rock', ' Indie', 'Alternative Rock']",118.0,0.0,/vitor-de-martinelli/
+1266,Another Sky,['Indie'],24.0,0.0,/another-sky/
+1267,Melon,"['Indie', ' Pop']",29.0,0.0,/melon/
+1268,Dan Auerbach,"['Rock', ' Indie', ' Blues']",23.0,0.0,/dan-auerbach/
+1269,Dum Dum Girls,"['Indie', ' Rock', ' Post-Rock']",21.0,0.0,/dum-dum-girls/
+1270,David Vieira Asevedo,"['Rock', ' Indie', 'Alternative Rock']",42.0,0.0,/david-vieira-asevedo/
+1271,Múm,"['Post-Rock', 'Alternative Rock', ' Indie']",40.0,0.0,/mum/
+1272,Heavenly,"['Indie', ' Heavy Metal']",46.0,0.0,/heavenly-11/
+1273,The Asteroids Galaxy Tour,"['Indie', 'Psychedelic music', ' Pop']",30.0,0.0,/the-asteroids-galaxy-tour/
+1274,Ben Kweller,"['Indie', ' Rock', ' Country']",65.0,0.0,/ben-kweller/
+1275,The D.E.LS.,['Indie'],3.0,0.0,/the-d-e-ls/
+1276,Band Of Skulls,"['Alternative Rock', ' Indie', ' Rock']",24.0,0.0,/band-of-skulls/
+1277,Fabio Blänc,"['Indie', ' Pop']",38.0,0.0,/fabio-blanc/
+1278,Atlas Genius,"['Indie', 'Alternative Rock']",22.0,0.0,/atlas-genius/
+1279,Nevilton,"['Indie', ' Rock', 'Alternative Rock']",41.0,0.0,/nevilton/
+1280,The Automatic,"['Rock', ' Indie', 'Alternative Rock']",35.0,0.0,/the-automatic/
+1281,Apples in Stereo,"[' Indie', ' Pop/Rock']",67.0,0.0,/apples-in-stereo/
+1282,Drowned Men,"['New Wave', ' Indie']",3.0,0.0,/drowned-men/
+1283,Nine Inch Nails,"['Industrial', 'Alternative Rock']",165.0,0.0,/nine-inch-nails/
+1284,Ministry,['Industrial'],122.0,0.0,/ministry/
+1285,Swans,['Industrial'],126.0,0.0,/swans/
+1286,O Rei Leão,"[""Children's music"", 'Soundtack']",84.0,3.5,/o-rei-leao/
+1287,Pokemon,"[""Children's music"", 'Soundtack']",242.0,2.9,/pokemon/
+1288,Barbie (trilha sonora),"[""Children's music"", 'Soundtack']",78.0,1.0,/barbie-e-o-castelo-de-diamantes/
+1289,Bob Esponja,"[""Children's music""]",52.0,1.0,/bob-esponja/
+1290,Desenhos Animados,"[""Children's music"", 'Soundtack']",66.0,1.1,/desenhos-animados/
+1291,Gummy Bear,"[""Children's music""]",8.0,0.6,/gummy-bear/
+1292,Tinkerbell (Disney),"['Soundtack', ""Children's music""]",46.0,0.0,/tinkerbell-e-o-resgate-da-fada/
+1293,Angélica,"[""Children's music"", 'Romantic', ' Pop']",171.0,1.0,/angelica/
+1294,Phineas & Ferb,"['Soundtack', ""Children's music""]",291.0,0.0,/phineas-ferb/
+1295,Backyardigans,"[""Children's music""]",131.0,0.0,/backyardigans/
+1296,Ben 10,"['Soundtack', ""Children's music""]",2.0,5.1,/ben-10/
+1297,Barney e Seus Amigos,"[""Children's music"", ' Heavy Metal', ' Instrumental']",57.0,1.0,/barney-e-seus-amigos/
+1298,Rebecca Black,"['Pop', ""Children's music""]",25.0,0.1,/rebecca-black/
+1299,Hi-5,"[""Children's music""]",137.0,0.0,/hi5/
+1300,The Powerpuff Girls,"[""Children's music"", 'Soundtack']",13.0,0.0,/the-power-puff-girls/
+1301,LazyTown,"[""Children's music"", ' Dance', 'Brazilian Funk']",72.0,0.0,/lazy-town/
+1302,Rônei Rossi,"[""Children's music""]",43.0,0.0,/ronei-rossi/
+1303,Vangelis,"['New Age', ' Instrumental', 'Soundtack']",104.0,1.0,/vangelis/
+1304,Kenny G,"['Instrumental', 'Romantic', 'Classic']",74.0,0.0,/kenny-g/
+1305,Celtic Woman,"['New Age', ' Instrumental']",102.0,1.6,/celtic-woman/
+1306,Ray Conniff,['Instrumental'],62.0,0.0,/ray-conniff/
+1307,Steve Vai,['Instrumental'],74.0,0.0,/steve-vai/
+1308,Joe Satriani,['Instrumental'],222.0,0.0,/joe-satriani/
+1309,Pat Metheny,['Instrumental'],35.0,0.0,/pat-metheny/
+1310,Focus,"['Instrumental', 'Progressive Music', 'Alternative Rock']",9.0,0.0,/focus/
+1311,Herbie Hancock,"['Jazz', ' Instrumental', ' Funk']",10.0,0.0,/herbie-hancock/
+1312,The Ventures,"['Instrumental', ' Surf Music', ' Rock']",4.0,0.0,/the-ventures/
+1313,Frank Sinatra,"['Jazz', 'Classic', 'Romantic']",828.0,16.1,/frank-sinatra/
+1314,Louis Armstrong,['Jazz'],113.0,6.9,/louis-armstrong/
+1315,Sade,"['Jazz', 'Romantic']",71.0,5.5,/sade-adu/
+1316,Nat King Cole,['Jazz'],262.0,3.3,/nat-king-cole/
+1317,Ella Fitzgerald,['Jazz'],422.0,2.1,/ella-fitzgerald/
+1318,Billie Holiday,['Jazz'],296.0,1.4,/billie-holiday/
+1319,Diana Krall,['Jazz'],174.0,0.0,/diana-krall/
+1320,Jamie Cullum,"['Jazz', ' Pop', ' Blues']",112.0,0.0,/jamie-cullum/
+1321,Tony Bennett,"['Jazz', 'Romantic']",132.0,0.0,/tony-bennett/
+1322,Tony Bennett & Lady Gaga,['Jazz'],35.0,1.4,/tony-bennett-lady-gaga/
+1323,Chet Baker,"['Jazz', ' Blues', ' Folk']",46.0,1.0,/chet-baker/
+1324,Al Jarreau,"['Jazz', 'Soul', ' R&B']",84.0,0.0,/al-jarreau/
+1325,Miles Davis,['Jazz'],98.0,0.0,/miles-davis/
+1326,Etta Jones,"['Jazz', ' Blues']",74.0,0.0,/etta-jones/
+1327,Esperanza Spalding,['Jazz'],28.0,0.0,/esperanza-spalding/
+1328,Duke Ellington,['Jazz'],35.0,0.0,/duke-ellington/
+1329,John Coltrane,['Jazz'],10.0,0.0,/john-coltrane/
+1330,George Duke,['Jazz'],17.0,0.0,/george-duke/
+1331,Freddie Hubbard,['Jazz'],1.0,0.0,/freddie-hubbard/
+1332,Al Di Meola,['Jazz'],9.0,0.0,/al-di-meola/
+1333,Wys,['Lo-fi'],11.0,0.0,/wys/
+1334,Dreamer Boy,"['R&B', ' Pop', ' Lo-fi']",3.0,0.0,/dreamer-boy/
+1335,Sandy,"['Romantic', ' Pop/Rock', ' Pop']",97.0,2.4,/sandy/
+1336,Enigma,"['New Age', 'Gothic Rock', ' House']",116.0,1.0,/enigma/
+1337,Sandra,['New Age'],122.0,0.5,/sandra/
+1338,Mike Oldfield,['New Age'],81.0,0.0,/mike-oldfield/
+1339,Yanni,"['New Age', ' Instrumental', 'Classic']",52.0,0.0,/yanni/
+1340,Sagrado Coração da Terra,"['New Age', 'Progressive Music', 'Classic']",29.0,0.0,/sagrado-coracao-da-terra/
+1341,Fortuna,['New Age'],35.0,0.0,/fortuna/
+1342,Corciolli,"['New Age', ' Instrumental', 'Progressive Music']",10.0,0.0,/corciolli/
+1343,Kitaro,"['New Age', ' Instrumental']",25.0,0.0,/kitaro/
+1344,The Police,"['Rock', ' New Wave', ' Punk Rock']",65.0,14.0,/the-police/
+1345,Depeche Mode,"['New Wave', 'Technopop']",194.0,5.9,/depeche-mode/
+1346,Duran Duran,"['New Wave', ' Pop', ' Rock']",220.0,4.7,/duran-duran/
+1347,INXS,"['Rock', ' Pop/Rock', ' Pop']",146.0,3.4,/inxs/
+1348,Blondie,"['New Wave', ' Rock', ' Punk Rock']",149.0,3.0,/blondie/
+1349,Berlin,"['New Wave', ' Rock', 'Romantic']",101.0,2.3,/berlin/
+1350,Simple Minds,"[' Rock', ' New Wave']",169.0,2.2,/simple-minds/
+1351,Joy Division,[' New Wave'],52.0,1.5,/joy-division/
+1352,Elvis Costello,"['Pop/Rock', ' Rock', ' New Wave']",524.0,1.0,/elvis-costello/
+1353,Spandau Ballet,"['Pop', ' New Wave', ' Pop/Rock']",54.0,0.0,/spandau-ballet/
+1354,Talking Heads,"[' New Wave', ' Punk Rock']",93.0,1.0,/talking-heads/
+1355,The B-52's,"['New Wave', ' Pop', ' Rock']",77.0,0.0,/the-b-52s/
+1356,The Human League,"['New Wave', 'Technopop', ' Pop']",92.0,1.0,/human-league/
+1357,The Cars,"['New Wave', ' Pop', ' Pop/Rock']",86.0,0.0,/the-cars/
+1358,The Go-Go's,['New Wave'],58.0,0.0,/go-gos/
+1359,Devo,['New Wave'],150.0,0.0,/devo/
+1360,Real Life,['New Wave'],40.0,0.0,/real-life/
+1361,A Flock of Seagulls,"['New Wave', 'Technopop', ' Rock']",46.0,0.0,/a-flock-of-seagulls/
+1362,Gary Numan,"['New Wave', 'Technopop']",242.0,0.0,/gary-numan-11/
+1363,Japan,"['Technopop', ' New Wave']",41.0,0.0,/japan/
+1364,The Associates,"['New Wave', 'Technopop']",39.0,0.0,/associates/
+1365,Kajagoogoo,"['Technopop', ' New Wave']",17.0,0.0,/kajagoogoo/
+1366,The Fray,"[' Pop/Rock', 'Alternative Rock']",72.0,2.1,/the-fray/
+1367,Thirteen Senses,"[' Indie', ' Rock']",46.0,0.0,/thirteen-senses/
+1368,Ben Folds,"['Romantic', ' Soft Rock']",72.0,0.0,/ben-folds/
+1369,Ben Folds Five,['Alternative Rock'],97.0,0.0,/ben-folds-five/
+1370,Something Corporate,"[' Pop/Rock', ' Punk Rock']",62.0,0.0,/something-corporate/
+1371,Adele,"['Soul', ' Pop', ' R&B']",80.0,119.3,/adele/
+1372,Pink,"['Pop/Rock', ' Pop']",187.0,84.4,/pink/
+1373,Maroon 5,"['Pop', ' Rock', ' Pop/Rock']",168.0,64.0,/maroon-5/
+1374,Elton John,"['Soft Rock', 'Romantic', ' Pop/Rock']",651.0,44.7,/elton-john/
+1375,Avril Lavigne,"['Alternative Rock', ' Rock', ' Pop/Punk']",175.0,27.0,/avril-lavigne/
+1376,Christina Perri,"['Romantic', ' Pop/Rock', ' Pop']",77.0,52.3,/christina-perri/
+1377,Shawn Mendes,['Pop'],94.0,31.9,/shawn-mendes/
+1378,Céline Dion,"['Soundtack', ' Pop', 'Romantic']",401.0,12.5,/celine-dion/
+1379,James Arthur,"['Pop', 'Soul']",124.0,21.5,/james-arthur/
+1380,a-ha,"['Pop', 'Technopop', ' Pop/Rock']",146.0,12.8,/a-ha/
+1381,Roxette,"['Pop', ' Pop/Rock', ' Rock']",211.0,11.0,/roxette/
+1382,RBD,"['Pop/Rock', 'Romantic', ' Pop']",153.0,6.9,/rbd/
+1383,Tears For Fears,"['Pop', ' Pop/Rock']",98.0,15.7,/tears-for-fears/
+1384,Rag'n'Bone Man,"['Pop', 'Soul']",59.0,10.9,/ragnbone-man/
+1385,Laura Pausini,"['Romantic', ' Pop', ' Pop/Rock']",415.0,7.2,/laura-pausini/
+1386,Colbie Caillat,"['Pop', 'Romantic', ' Surf Music']",103.0,9.7,/colbie-caillat/
+1387,Kelly Clarkson,"['Pop/Rock', 'Romantic', ' Pop']",241.0,9.2,/kelly-clarkson/
+1388,Christina Aguilera,"['Pop', ' R&B', ' Dance']",231.0,7.7,/christina-aguilera/
+1389,Tiago Iorc,"['Pop', 'Romantic', ' Pop/Rock']",82.0,8.6,/tiago-iorc/
+1390,Meghan Trainor,['Pop'],109.0,8.7,/meghan-trainor/
+1391,George Michael,"['Pop', ' Rock']",129.0,7.5,/george-michael/
+1392,Jota Quest,"['Pop/Rock', ' Pop', ' Rock']",159.0,5.6,/jota-quest/
+1393,Simply Red,"['Pop/Rock', ' R&B', 'Soul']",136.0,6.4,/simply-red/
+1394,Tina Turner,"['Pop', 'Soul']",148.0,6.3,/tina-turner/
+1395,Camila Cabello,['Pop'],82.0,46.0,/camila-cabello/
+1396,Robbie Williams,"['Pop/Rock', ' Pop']",317.0,7.3,/robbie-williams/
+1397,Tracy Chapman,['Pop'],97.0,6.3,/tracy-chapman/
+1398,Sandy & Junior,"['Romantic', ' Pop/Rock', ' Pop']",202.0,4.5,/sandy-junior/
+1399,Skank,"['Pop/Rock', ' Rock', ' Pop']",141.0,3.9,/skank/
+1400,Seal,"['Pop', 'Soul']",154.0,4.3,/seal/
+1401,Little Mix,"['Pop', ' Dance']",149.0,3.8,/little-mix/
+1402,Lifehouse,"['Rock', ' Pop/Rock', ' Pop']",148.0,4.6,/lifehouse/
+1403,Supertramp,"['Progressive Music', ' Pop']",106.0,3.3,/supertramp/
+1404,Joan Osborne,['Pop'],121.0,3.5,/joan-osborne/
+1405,Fifth Harmony,['Pop'],133.0,3.5,/fifth-harmony/
+1406,Spice Girls,"['Pop', ' Dance']",77.0,3.1,/spice-girls/
+1407,Take That,['Pop'],140.0,3.2,/take-that/
+1408,Joss Stone,"['Soul', ' Pop', ' R&B']",152.0,3.1,/joss-stone/
+1409,Tiziano Ferro,"['Romantic', ' Pop']",196.0,2.3,/tiziano-ferro/
+1410,"LSD (Labrinth, Sia & Diplo)",['Pop'],10.0,2.8,/lsd-labrinth-sia-diplo/
+1411,Glee,"['Soundtack', ' Pop/Rock', ' Pop']",691.0,3.0,/glee/
+1412,Becky G,['Pop'],96.0,3.2,/becky-g/
+1413,James Morrison,"['Pop/Rock', 'Romantic', ' Pop']",89.0,3.0,/james-morrison/
+1414,Cat Stevens,"['Soft Rock', ' Pop']",165.0,2.6,/cat-stevens/
+1415,Genesis,"['Progressive Music', ' Pop']",202.0,2.4,/genesis/
+1416,Lily Allen,"['Pop', ' Pop/Rock']",96.0,2.8,/lily-allen/
+1417,McFly,"['Pop/Rock', ' Pop', ' Rock']",185.0,1.6,/mcfly/
+1418,Hanson,"['Pop', ' Pop/Rock']",245.0,2.2,/hanson/
+1419,Dionne Warwick,"['Soul', ' Pop', 'Romantic']",98.0,2.4,/dionne-warwick/
+1420,Niall Horan,"['Pop', ' Pop/Rock', 'Romantic']",37.0,2.3,/niall-horan/
+1421,Manu Gavassi,"['Pop/Rock', ' Pop']",77.0,1.6,/manu-gavassi/
+1422,Gwen Stefani,"['Pop/Rock', ' Pop']",82.0,2.0,/gwen-stefani/
+1423,Leona Lewis,"['R&B', ' Pop/Rock', ' Pop']",114.0,2.1,/leona-lewis/
+1424,KLB,"['Pop', 'Romantic', ' Pop/Rock']",129.0,1.4,/klb/
+1425,Rita Ora,"['Pop', ' R&B', ' Dance']",67.0,2.4,/rita-ora/
+1426,Westlife,"['Pop', 'Romantic']",241.0,1.5,/westlife/
+1427,Crowded House,"['Pop', ' Rock']",95.0,2.2,/crowded-house/
+1428,Erasure,"['Pop', 'Technopop']",217.0,1.8,/erasure/
+1429,Vanessa Carlton,"['Pop/Rock', ' Pop', ' Rock']",85.0,1.9,/vanessa-carlton/
+1430,Christopher Cross,['Pop'],67.0,1.6,/christopher-cross/
+1431,Bread,"['Soft Rock', ' Pop']",100.0,1.4,/bread/
+1432,The Corrs,"['Pop', ' Pop/Rock']",149.0,1.4,/the-corrs/
+1433,Paulo Ricardo,"['Pop', 'Romantic']",146.0,1.2,/paulo-ricardo/
+1434,Sara Bareilles,"['Pop', 'Romantic']",123.0,1.5,/sara-bareilles/
+1435,New Kids On The Block,['Pop'],107.0,1.2,/new-kids-on-the-block/
+1436,JoJo,"['Pop', ' R&B', 'Romantic']",198.0,1.4,/jojo/
+1437,Mandy Moore,"['Romantic', ' Pop', 'Soundtack']",125.0,1.0,/mandy-moore/
+1438,*NSYNC,['Pop'],116.0,1.5,/nsync/
+1439,Manu Chao,[' Pop'],109.0,1.3,/manu-chao/
+1440,Andy Grammer,"['Pop', ' Pop/Rock']",64.0,1.4,/andy-grammer/
+1441,Nick Jonas,"['Pop/Rock', 'Romantic', ' Pop']",106.0,1.0,/nick-jonas/
+1442,Mike Posner,['Pop'],124.0,1.1,/mike-posner/
+1443,Carole King,"['Soft Rock', ' Pop/Rock', ' Pop']",144.0,1.0,/carole-king/
+1444,Maurício Manieri,"['Pop', 'Romantic']",71.0,1.4,/mauricio-manieri/
+1445,Cine,"['Pop', ' Pop/Rock', 'Technopop']",65.0,1.0,/cine/
+1446,Jordin Sparks,"['Pop', 'Romantic', ' R&B']",86.0,0.0,/jordin-sparks/
+1447,Violetta,"['Soundtack', ' Pop', 'Romantic']",99.0,1.0,/violetta/
+1448,He Is We,"['Romantic', ' Pop']",30.0,2.4,/he-is-we/
+1449,Adam Lambert,"['Pop', ' Pop/Rock', 'Romantic']",124.0,1.0,/adam-lambert/
+1450,Big Time Rush,"['Soundtack', ' Pop/Rock', ' Pop']",91.0,0.0,/big-time-rush/
+1451,Restart,"['Pop', ' Pop/Rock', 'Romantic']",62.0,0.0,/restart/
+1452,Janet Jackson,"['Pop', ' R&B']",235.0,1.0,/janet-jackson/
+1453,Mika,"['Pop/Rock', ' Pop']",120.0,0.0,/mika/
+1454,Reik,"['Pop', 'Romantic', ' Pop/Rock']",112.0,0.0,/reik/
+1455,Austin Mahone,['Pop'],92.0,0.3,/austin-mahone/
+1456,Five,"['Pop', ' Pop/Rock', ' Rap']",87.0,0.0,/five/
+1457,The Ronettes,['Pop'],29.0,0.3,/the-ronettes/
+1458,Natasha Bedingfield,"['Pop/Rock', ' Pop']",90.0,1.0,/natasha-bedingfield/
+1459,Marjorie Estiano,"['Pop/Rock', ' Pop', 'Romantic']",58.0,0.0,/marjorie-estiano/
+1460,Blue,"['Pop', 'Romantic', ' Pop/Rock']",84.0,0.0,/blue/
+1461,Melanie C,['Pop'],153.0,1.0,/melanie-c/
+1462,Nancy Sinatra,"['Pop', ' Country', ' Jazz']",52.0,0.0,/nancy-sinatra/
+1463,Danni Carlos,"['Pop', ' Rock', ' Pop/Rock']",64.0,0.0,/danni-carlos/
+1464,The Supremes,"['Soul', ' Pop']",239.0,0.3,/supremes/
+1465,Belinda,"['Pop', ' Pop/Rock', ' Dance']",114.0,0.0,/belinda/
+1466,Frankie Goes To Hollywood,"['Pop', ' New Wave', ' New Age']",30.0,0.0,/frankie-goes-to-hollywood/
+1467,Alvin & The Chipmunks,"['Pop', ' Pop/Rock', 'Soundtack']",71.0,0.0,/alvin-the-chipmunks/
+1468,Robyn,['Pop'],93.0,1.0,/robyn/
+1469,Sugababes,['Pop'],136.0,0.0,/sugababes/
+1470,Olly Murs,['Pop'],110.0,0.0,/olly-murs/
+1471,Duffy,"['Pop', 'Soul', ' Jazz']",38.0,0.0,/duffy/
+1472,David Archuleta,"['Pop', 'Romantic']",147.0,0.0,/david-archuleta/
+1473,Jesse McCartney,"['Pop/Rock', ' Pop', 'Romantic']",112.0,0.0,/jesse-mccartney/
+1474,Nick Carter,"['Pop', ' Pop/Rock', 'Romantic']",61.0,0.0,/nick-carter/
+1475,Jessica Simpson,['Pop'],95.0,0.0,/jessica-simpson/
+1476,Neil Sedaka,['Pop'],73.0,0.0,/neil-sedaka/
+1477,Bridgit Mendler,"['Pop', ' Pop/Rock', 'Soundtack']",52.0,0.0,/bridgit-mendler/
+1478,Drake Bell,"['Pop', ' Pop/Rock', ' Rock']",107.0,0.5,/drake-bell/
+1479,Madness,"['Pop', ' Ska', ' New Wave']",141.0,0.0,/madness/
+1480,Conor Maynard,['Pop'],60.0,0.0,/conor-maynard/
+1481,Cassie,"['Pop', ' R&B', ' Hip Hop']",69.0,0.0,/cassie/
+1482,Dan Torres,"['Soul', ' Rock', ' Pop']",40.0,0.0,/dan/
+1483,Cheryl,"['Pop', ' Dance', 'Romantic']",67.0,0.0,/cheryl/
+1484,Paula Abdul,['Pop'],47.0,0.0,/paula-abdul/
+1485,Kerli,"['Pop/Rock', ' Pop', ' Rock']",131.0,0.0,/kerli/
+1486,Paulina Rubio,['Pop'],143.0,0.0,/paulina-rubio/
+1487,Fiuk,"['Pop', ' Pop/Rock', 'Romantic']",31.0,1.6,/fiuk/
+1488,Double,"['Pop', ' Jazz', ' Folk']",2.0,0.0,/double-suica/
+1489,Mýa,"['R&B', ' Pop', ' Hip Hop']",177.0,0.0,/ma/
+1490,Cleo,"['Pop/Rock', ' Pop']",13.0,0.0,/cleo/
+1491,O-Town,"['Pop', ' R&B', ' Pop/Rock']",55.0,0.0,/o-town/
+1492,Camilly Victória,"['Pop', ' R&B']",3.0,1.5,/camilly-victoria/
+1493,Greyson Chance,"['Pop', 'Romantic']",62.0,0.0,/greyson-chance/
+1494,Jasmine Villegas,"['Pop', ' R&B', ' Dance']",54.0,0.0,/jasmine-villegas/
+1495,Paris Hilton,['Pop'],31.0,0.0,/paris-hilton/
+1496,Cash Cash,"['Pop', ' Pop/Rock', 'Technopop']",64.0,0.0,/cash-cash/
+1497,Sonohra,"['Pop/Rock', ' Pop', 'Romantic']",66.0,0.0,/sonohra/
+1498,Rick Springfield,['Pop'],22.0,0.0,/rick-springfield/
+1499,Charice,"['Pop', 'Romantic', ' R&B']",75.0,0.0,/charice/
+1500,Thais Moreira,"['R&B', ' Pop']",12.0,0.0,/thais-moreira/
+1501,Christina Grimmie,"['Pop', ' Pop/Rock', 'Romantic']",54.0,0.0,/christina-grimmie/
+1502,Joe Jonas,"['Pop/Rock', ' Pop', ' Dance']",16.0,0.0,/joe-jonas/
+1503,Raven-Symoné,['Pop'],66.0,0.0,/raven-symone/
+1504,The Naked Brothers Band/Nat and Alex Wolff,"['Pop/Rock', ' Rock', ' Pop']",76.0,0.0,/the-naked-brothers-band/
+1505,Christian Chávez,"['Pop', 'Romantic', ' Pop/Rock']",35.0,0.0,/jose-christian-chavez/
+1506,Oceans,['Pop'],3.0,0.0,/oceans/
+1507,Matthew Morrison,"['Pop', 'Romantic', ' Blues']",24.0,0.0,/matthew-morrison/
+1508,Geri Halliwell,['Pop'],62.0,0.0,/geri-halliwell/
+1509,A..R. Rahman,"[' Pop', ' Indie']",61.0,0.0,/a-r-rahman/
+1510,Burlesque,"['Pop', 'Soundtack', ' Dance']",10.0,0.0,/burlesque-trilha-sonora/
+1511,Cimorelli,['Pop'],119.0,0.0,/cimorelli/
+1512,Cheetah Girls,"['Pop', 'Soundtack', ' Dance']",69.0,0.0,/the-cheetah-girls/
+1513,Leighton Meester,"['Pop', ' Dance', ' Pop/Rock']",32.0,0.0,/leighton-meester/
+1514,High School Musical - A Seleção,"['Pop', 'Soundtack', ' Dance']",23.0,0.0,/high-school-musical-a-selecao/
+1515,Jordan Knight,"['Pop', 'Brazilian Funk', 'Romantic']",38.0,0.0,/jordan-knight/
+1516,Anggun,"['Pop', ' Pop/Rock']",67.0,0.0,/anggun/
+1517,SuperHeavy,"['Alternative Rock', ' Pop', ' Reggae']",13.0,0.0,/superheavy/
+1518,Diane Warren,"['Pop/Rock', ' Pop']",14.0,0.1,/diane-warren/
+1519,Mariana Rios,"['Pop', 'Romantic']",36.0,0.0,/mariana-rios/
+1520,Sterling Knight,"['Pop', ' Pop/Rock', 'Romantic']",10.0,0.0,/sterling-knight/
+1521,Ana Lélia,"['Pop/Rock', ' Pop']",16.0,0.0,/ana-lelia/
+1522,The Ready Set,"['Pop/Rock', ' Pop', 'Alternative Rock']",72.0,0.0,/the-ready-set/
+1523,Goldfrapp,"['Pop', ' Electronica', ' Dance']",84.0,0.0,/goldfrapp/
+1524,Victoria Beckham,['Pop'],38.0,0.0,/victoria-beckham/
+1525,Corbin Bleu,"['Pop', ' R&B', ' Hip Hop']",34.0,0.0,/corbin-bleu/
+1526,Forever In Your Mind,['Pop'],24.0,0.0,/forever-in-your-mind/
+1527,Mitchel Musso,"['Pop/Rock', ' Pop', ' Rock']",44.0,0.0,/mitchel-musso/
+1528,Anne-M,['Pop'],8.0,0.0,/anne-m/
+1529,KHarlles,"['R&B', ' Pop', ' House']",102.0,0.0,/kharlles/
+1530,Deborah Campioni,['Pop'],9.0,0.0,/deborah-campioni/
+1531,Bruna Rocha,"['Romantic', ' Pop']",17.0,0.0,/bruna-rocha/
+1532,Kirby,"['R&B', 'Soul', ' Pop']",1.0,0.0,/kirby/
+1533,Jamie Lynn Spears,['Pop'],18.0,0.0,/jamie-lynn-spears/
+1534,Bow Wow Wow,"['Pop', ' Pop/Rock']",20.0,0.0,/bow-wow-wow/
+1535,Natalie La Rose,"['R&B', ' Pop']",3.0,0.0,/natalie-la-rose/
+1536,US5,"['Pop', ' Dance', ' Hip Hop']",42.0,0.0,/us5/
+1537,Allstar Weekend,"['Pop/Rock', ' Pop', ' Dance']",36.0,0.0,/allstar-weekend/
+1538,Mattheus Máximo,['Pop'],62.0,0.0,/mattheus-maximo/
+1539,Sebah,['Pop'],19.0,0.0,/sebah/
+1540,Natasha Leáh,"['R&B', ' Pop']",27.0,0.0,/natasha-leah/
+1541,Dima Bilan,['Pop'],65.0,0.0,/dima-bilan/
+1542,Art of Noise,"['Technopop', ' Pop', ' Blues']",19.0,0.0,/art-of-noise/
+1543,Lene Alexandra,['Pop'],4.0,0.0,/lene-alexandra/
+1544,Paramore,"['Alternative Rock', ' Rock', ' Pop/Rock']",115.0,10.4,/paramore/
+1545,blink-182,"['Punk Rock', ' Pop/Punk', ' Rock']",190.0,6.9,/blink-182/
+1546,Panic! At The Disco,"['Alternative Rock', ' Pop/Punk', ' Pop/Rock']",112.0,5.2,/panic-at-the-disco/
+1547,Simple Plan,"['Pop/Rock', ' Pop/Punk', ' Rock']",105.0,4.5,/simple-plan/
+1548,Fall Out Boy,"['Pop/Rock', ' Rock', ' Pop/Punk']",148.0,1.9,/fall-out-boy/
+1549,Nx Zero,"['Alternative Rock', 'Romantic', ' Rock']",122.0,5.6,/nxzero/
+1550,Plain White T's,"['Pop/Punk', ' Pop/Rock', 'Alternative Rock']",109.0,1.0,/plain-white-ts/
+1551,All Time Low,"['Pop/Punk', ' Pop/Rock', ' Rock']",137.0,1.0,/all-time-low/
+1552,Sum 41,"['Punk Rock', ' Pop/Punk', ' Rock']",115.0,0.0,/sum-41/
+1553,Yellowcard,"['Punk Rock', ' Pop/Punk', ' Rock']",135.0,0.0,/yellowcard/
+1554,Millencolin,"['Punk Rock', ' Pop/Punk', ' Hardcore']",149.0,0.0,/millencolin/
+1555,The All-American Rejects,"['Pop/Punk', ' Rock', ' Pop/Rock']",77.0,0.0,/the-all-american-rejects/
+1556,Good Charlotte,"['Punk Rock', ' Pop/Punk', ' Rock']",128.0,0.2,/good-charlotte/
+1557,Angels and Airwaves,['Pop/Punk'],80.0,0.0,/angels-and-airwaves/
+1558,Boys Like Girls,"['Pop/Punk', ' Pop/Rock', 'Alternative Rock']",45.0,0.0,/boys-like-girls/
+1559,Relient K,"['Pop/Punk', 'Gospel', ' Rock']",183.0,1.0,/relient-k/
+1560,New Found Glory,"['Pop/Punk', ' Punk Rock']",205.0,0.0,/new-found-glory/
+1561,+44,"['Pop/Punk', ' Punk Rock', ' Rock']",15.0,0.0,/44/
+1562,Box Car Racer,"['Pop/Punk', ' Punk Rock', ' Rock']",14.0,0.0,/box-car-racer/
+1563,"We, The Kings","['Pop/Punk', ' Pop/Rock', ' Rock']",71.0,0.0,/we-the-kings/
+1564,Bowling For Soup,"['Pop/Punk', ' Punk Rock', ' Rock']",168.0,0.0,/bowling-for-soup/
+1565,one:day:life,['Pop/Punk'],12.0,0.0,/onedaylife/
+1566,Son Of Dork,"['Pop/Punk', ' Pop/Rock', ' Emocore']",21.0,0.0,/son-of-dork/
+1567,Phil Collins,"['Soft Rock', 'Romantic', ' Pop/Rock']",147.0,51.9,/phil-collins/
+1568,Jason Mraz,"['Romantic', ' Surf Music', ' Pop/Rock']",230.0,35.6,/jason-mraz/
+1569,U2,"['Rock', ' Pop/Rock']",358.0,37.4,/u2/
+1570,Charlie Brown Jr,"['Pop/Rock', ' Rap', ' Rock']",208.0,20.6,/charlie-brown-jr/
+1571,The Cranberries,"['Pop/Rock', ' Rock', 'Alternative Rock']",136.0,16.3,/the-cranberries/
+1572,Nickelback,"['Alternative Rock', ' Rock', 'Romantic']",116.0,13.3,/nickelback/
+1573,OneRepublic,"['Alternative Rock', ' Pop/Rock', ' Rock']",104.0,12.1,/onerepublic/
+1574,Alanis Morissette,"['Pop/Rock', ' Rock']",198.0,8.6,/alanis-morissette/
+1575,Paul McCartney,"['Rock', ' Pop/Rock']",482.0,6.6,/paul-mccartney/
+1576,Lenny Kravitz,"['Rock', ' Pop/Rock', 'Soul']",191.0,6.0,/lenny-kravitz/
+1577,Capital Inicial,"['Pop/Rock', ' Rock']",197.0,3.5,/capital-inicial/
+1578,Titãs,"['Pop/Rock', ' Rock']",228.0,4.2,/titas/
+1579,Pitty,"['Alternative Rock', ' Rock', ' Pop/Rock']",123.0,4.4,/pitty/
+1580,Goo Goo Dolls,"['Pop/Rock', ' Rock', 'Romantic']",179.0,5.9,/goo-goo-dolls/
+1581,Mamonas Assassinas,"['Alternative Rock', ' Pop/Rock', ' Rock']",23.0,6.7,/mamonas-assassinas/
+1582,Boyce Avenue,"['Pop/Rock', 'Romantic']",218.0,2.4,/boyce-avenue/
+1583,Freddie Mercury,"['Pop/Rock', ' Rock', ' Hard Rock']",134.0,4.0,/freddie-mercury/
+1584,Saga Crepúsculo,"['Soundtack', ' Rock', ' Pop/Rock']",81.0,4.8,/crepusculo-trilha-sonora/
+1585,Snow Patrol,"['Alternative Rock', ' Pop/Rock', ' Rock']",147.0,4.4,/snow-patrol/
+1586,Train,"['Pop/Rock', 'Alternative Rock', ' Rock']",121.0,4.6,/train/
+1587,The Calling,"['Pop/Rock', ' Rock', 'Romantic']",46.0,4.2,/the-calling/
+1588,Hoobastank,"['Rock', ' Pop/Rock']",122.0,4.0,/hoobastank/
+1589,Alejandro Sanz,"['Romantic', ' Pop/Rock']",192.0,3.0,/alejandro-sanz/
+1590,5 Seconds Of Summer,"['Pop/Rock', ' Pop/Punk']",122.0,5.0,/5-seconds-of-summer/
+1591,Sixpence None The Richer,['Pop/Rock'],101.0,2.5,/sixpence-none-the-richer/
+1592,The Script,"['Pop/Rock', 'Alternative Rock']",68.0,2.0,/the-script/
+1593,Natalie Imbruglia,['Pop/Rock'],102.0,2.1,/natalie-imbruglia/
+1594,Biquini Cavadão,"['Rock', ' Pop/Rock']",176.0,1.6,/biquini-cavadao/
+1595,RPM,"['Rock', ' Pop/Rock']",64.0,1.5,/rpm/
+1596,Sinéad O'Connor,['Pop/Rock'],253.0,1.8,/sinead-oconnor/
+1597,Detonautas,"['Rock', ' Pop/Rock']",132.0,1.5,/detonautas-roque-clube/
+1598,Frejat,"['Rock', ' Pop/Rock', 'Romantic']",70.0,1.3,/frejat/
+1599,Daughtry,"['Rock', ' Pop/Rock', 'Alternative Rock']",95.0,1.1,/daughtry/
+1600,Smash Mouth,"['Pop/Rock', ' Rock']",92.0,1.0,/smash-mouth/
+1601,The Outfield,['Pop/Rock'],80.0,2.0,/the-outfield/
+1602,Counting Crows,"['Pop/Rock', ' Rock']",124.0,1.8,/counting-crows/
+1603,Electric Light Orchestra,"['Progressive Music', ' Pop/Rock']",332.0,0.0,/electric-light-orchestra/
+1604,Peter Gabriel,"['Progressive Music', ' Pop/Rock']",132.0,0.0,/peter-gabriel/
+1605,Gavin DeGraw,"['Pop/Rock', ' Rock', ' Pop']",90.0,1.0,/gavin-degraw/
+1606,Pedra Letícia,"['Pop/Rock', ' Rock']",47.0,1.0,/pedra-leticia/
+1607,UB40,"['Reggae', ' Pop/Rock']",207.0,1.0,/ub40/
+1608,Garbage,"['Pop/Rock', ' Rock']",144.0,0.0,/garbage/
+1609,Juanes,"['Pop/Rock', 'Romantic']",132.0,1.0,/juanes/
+1610,Reação Em Cadeia,"['Pop/Rock', ' Rock', 'Alternative Rock']",84.0,0.0,/reacao-em-cadeia/
+1611,The Maine,"['Pop/Rock', ' Rock']",131.0,0.0,/the-maine/
+1612,10cc,"['Pop/Rock', 'Progressive Music', 'Romantic']",141.0,0.0,/10cc/
+1613,Mike & The Mechanics,"['Pop/Rock', ' Pop', ' Dance']",60.0,1.0,/mike-the-mechanics/
+1614,Jay Vaquer,"['Pop/Rock', ' Rock', ' Pop']",88.0,0.0,/jay-vaquer/
+1615,The Veronicas,"['Pop/Rock', ' Rock', ' Pop']",121.0,0.0,/the-veronicas/
+1616,Scracho,"['Surf Music', ' Reggae', 'Romantic']",69.0,0.0,/scracho/
+1617,David Cook,"['Pop/Rock', ' Rock']",79.0,0.0,/david-cook/
+1618,Natalia Lafourcade,['Pop/Rock'],105.0,0.0,/natalia-lafourcade/
+1619,Ashlee Simpson,"['Pop/Rock', ' Pop', ' Rock']",55.0,0.0,/ashlee-simpson/
+1620,The Magic Numbers,['Pop/Rock'],55.0,0.0,/the-magic-numbers/
+1621,R5,"['Pop/Rock', ' Pop', ' Rock']",67.0,0.0,/r5/
+1622,Josh Kelley,"['Pop/Rock', 'Romantic']",64.0,3.1,/josh-kelley/
+1623,Matheus Hardke,['Pop/Rock'],797.0,0.1,/matheus-hardke/
+1624,Jonathan Roy,['Pop/Rock'],9.0,0.0,/jonathan-roy/
+1625,Jon McLaughlin,"['Pop/Rock', ' Pop', 'Romantic']",88.0,0.0,/jon-mclaughlin/
+1626,Caps Lock,"['Pop/Rock', ' Rock', ' Emocore']",38.0,0.0,/capslock/
+1627,Ramirez,"['Pop/Rock', ' Rock', ' Emocore']",47.0,0.0,/ramirez/
+1628,Lindsay Lohan,"['Pop/Rock', ' Pop']",49.0,1.0,/lindsay-lohan/
+1629,Matt Wertz,"['Pop/Rock', ' Folk', ' Pop']",71.0,0.0,/matt-wertz/
+1630,Morten Harket,"['Technopop', ' Pop/Rock', ' Pop']",81.0,0.0,/morten-harket/
+1631,Alex Band,"['Pop/Rock', ' Rock', 'Romantic']",49.0,0.0,/alex-band/
+1632,Hot Chelle Rae,['Pop/Rock'],44.0,0.0,/hot-chelle-rae/
+1633,Dibob,"['Pop/Rock', ' Hardcore', ' Rock']",52.0,0.0,/dibob/
+1634,Cinema Bizarre,"['Rock', ' Pop/Rock', 'Gothic Rock']",40.0,0.0,/cinema-bizarre/
+1635,Patty Smyth/Scandal,['Pop/Rock'],31.0,0.0,/patty-smyth-scandal/
+1636,Cw7,"['Pop/Rock', ' Rock', 'Alternative Rock']",30.0,0.0,/cw7/
+1637,B.E.R,['Pop/Rock'],1.0,0.0,/b-e-r/
+1638,Brian Wilson,"['Soft Rock', ' Pop/Rock', ' Rock']",168.0,0.0,/brian-wilson/
+1639,Marié Digby,"['Pop/Rock', 'Romantic', ' Pop']",54.0,0.0,/marie-digby/
+1640,Metro Station,"['Pop/Rock', ' Emocore', ' Electronica']",45.0,0.0,/metro-station/
+1641,Orianthi,"['Pop/Rock', ' Rock']",44.0,0.0,/orianthi/
+1642,Building 429,"['Pop/Rock', 'Gospel', ' Rock']",75.0,0.0,/building-429/
+1643,Augustana,"['Pop/Rock', ' Rock', ' Indie']",65.0,0.0,/augustana/
+1644,Nicole,"['Pop/Rock', ' Hip Hop']",47.0,0.0,/nicole/
+1645,Reeve Carney,"['Pop/Rock', ' Rock', ' Jazz']",6.0,0.0,/reeve-carney/
+1646,Liv Kristine,"['Pop/Rock', ' Classic Rock', 'Gothic Rock']",53.0,0.0,/liv-kristine/
+1647,Echo And The Bunnymen,[' Rock'],96.0,0.4,/echo-and-the-bunnymen/
+1648,The Stranglers,['Punk Rock'],89.0,0.0,/the-stranglers/
+1649,The Cramps,"['Rock', ' Rockabilly']",92.0,0.0,/cramps/
+1650,The Specials,"['Ska', ' Reggae']",76.0,0.0,/the-specials/
+1651,Killing Joke,"[' Rock', 'Alternative Rock']",114.0,0.0,/killing-joke/
+1652,X (band),"[' Punk Rock', ' Rock']",65.0,0.0,/x-band/
+1653,Godspeed You! Black Emperor,"['Alternative Rock', ' Rock', ' Post-Rock']",11.0,0.0,/godspeed-you-black-emperor/
+1654,Mono,"['Post-Rock', 'Alternative Rock']",9.0,0.0,/mono/
+1655,Fastball,"[' Rock', 'Alternative Rock']",71.0,0.0,/fastball/
+1656,Posies,[' Rock'],91.0,0.0,/posies/
+1657,Enuff Z'Nuff,[' Hard Rock'],115.0,0.0,/enuff-znuff/
+1658,Big Star,[' Rock'],58.0,0.0,/big-star/
+1659,Smithereens,"['Alternative Rock', ' Rock']",21.0,0.0,/smithereens/
+1660,Rush,"['Progressive Music', ' Rock']",180.0,1.6,/rush/
+1661,"Emerson, Lake And Palmer",['Progressive Music'],91.0,1.9,/emerson-lake-and-palmer/
+1662,Yes,"['Rock', 'Progressive Music']",217.0,1.0,/yes/
+1663,Roger Waters,"['Rock', 'Progressive Music']",162.0,0.0,/roger-waters/
+1664,Marillion,"['Progressive Music', ' Rock']",175.0,1.0,/marillion/
+1665,Mutantes,"['Rock', 'Progressive Music', 'Psychedelic music']",123.0,0.0,/os-mutantes/
+1666,King Crimson,['Progressive Music'],83.0,0.0,/king-crimson/
+1667,Aphrodite's Child,"['Progressive Music', ' Disco']",14.0,0.0,/aphrodites-child/
+1668,Jon Anderson,"['Progressive Music', ' New Age']",109.0,0.0,/jon-anderson/
+1669,Opeth,"['Progressive Music', ' Heavy Metal']",112.0,0.0,/opeth/
+1670,Fish,['Progressive Music'],130.0,0.0,/fish/
+1671,Coheed And Cambria,"['Rock', 'Progressive Music']",110.0,0.0,/coheed-and-cambria/
+1672,The Anmer,['Progressive Music'],18.0,0.0,/the-anmer/
+1673,Suspense,"['Progressive Music', 'Alternative Rock', ' Rock']",1.0,0.0,/suspense/
+1674,Apocalypse,"['Progressive Music', 'Gospel']",46.0,0.0,/apocalypse/
+1675,The Beatles,"['Rock', 'Psychedelic music', ' Pop/Rock']",335.0,64.2,/the-beatles/
+1676,Donovan,"['Psychedelic music', ' Folk', ' Blues']",275.0,0.0,/donovan/
+1677,Love,"['Rock', 'Psychedelic music']",48.0,0.0,/love/
+1678,13th Floor Elevators,['Psychedelic music'],37.0,0.0,/13th-floor-elevators/
+1679,Nirvana (UK),['Psychedelic music'],10.0,0.0,/nirvana-uk/
+1680,Kaleidoscope (UK),['Psychedelic music'],28.0,0.0,/kaleidoscope-uk/
+1681,Red Hot Chili Peppers,"['Alternative Rock', ' Rock', ' Punk Rock']",267.0,41.4,/red-hot-chili-peppers/
+1682,Green Day,"['Rock', ' Punk Rock', 'Alternative Rock']",253.0,8.5,/green-day/
+1683,Ramones,"['Rock', ' Punk Rock']",214.0,4.2,/the-ramones/
+1684,Billy Idol,"['Punk Rock', ' Rock']",114.0,3.2,/billy-idol/
+1685,The Clash,['Punk Rock'],135.0,1.6,/the-clash/
+1686,Misfits,"['Punk Rock', ' Rock', ' Hardcore']",146.0,0.0,/misfits/
+1687,Sex Pistols,['Punk Rock'],46.0,0.0,/sex-pistols/
+1688,Bad Religion,"['Punk Rock', ' Rock']",289.0,1.0,/bad-religion/
+1689,Iggy Pop,['Punk Rock'],232.0,0.4,/iggy-pop/
+1690,Patti Smith,"['Rock', ' Punk Rock', 'Alternative Rock']",132.0,0.0,/patti-smith/
+1691,Rancid,['Punk Rock'],190.0,0.0,/rancid/
+1692,Plebe Rude,['Punk Rock'],84.0,0.0,/plebe-rude/
+1693,Social Distortion,"['Punk Rock', ' Rock', ' Hardcore']",96.0,0.0,/social-distortion/
+1694,Garotos Podres,"['Punk Rock', ' Rock', ' Hardcore']",61.0,0.0,/garotos-podres/
+1695,MxPx,['Punk Rock'],249.0,0.0,/mxpx/
+1696,Die Toten Hosen,"['Punk Rock', ' Rock', ' Hard Rock']",321.0,0.0,/die-toten-hosen/
+1697,The Jam,"['Punk Rock', ' Rock']",102.0,0.0,/the-jam/
+1698,The Stooges,['Punk Rock'],60.0,0.0,/the-stooges/
+1699,Os Replicantes,['Punk Rock'],85.0,0.0,/os-replicantes/
+1700,Anti-Flag,"['Punk Rock', ' Hardcore', ' Rock']",192.0,0.0,/anti-flag/
+1701,Less Than Jake,"['Punk Rock', ' Rock', ' Ska']",197.0,0.0,/less-than-jake/
+1702,Minor Threat,"['Punk Rock', ' Hardcore']",25.0,0.0,/minor-threat/
+1703,Lagwagon,['Punk Rock'],156.0,0.0,/lagwagon/
+1704,The Vibrators,['Punk Rock'],42.0,0.0,/the-vibrators/
+1705,Extreme Noise Terror,"['Punk Rock', ' Rock', ' Hardcore']",44.0,0.0,/extreme-noise-terror/
+1706,Good Riddance,['Punk Rock'],139.0,0.0,/good-riddance/
+1707,Parentes da Vítima,['Punk Rock'],25.0,0.0,/parentes-da-vitima/
+1708,Reverend Horton Heat,"['Rockabilly', ' Rock', ' Punk Rock']",92.0,0.0,/reverend-horton-heat/
+1709,Dog Eat Dog,"['Rock', ' Punk Rock']",44.0,0.0,/dog-eat-dog/
+1710,S*M*A*S*H,['Punk Rock'],20.0,0.0,/smash-11/
+1711,Sid Vicious,['Punk Rock'],9.0,0.0,/sid-vicious/
+1712,Banda Paranoia,['Punk Rock'],6.0,0.0,/banda-paranoia/
+1713,The Lurkers,['Punk Rock'],5.0,0.0,/the-lurkers/
+1714,X-Ray Spex,['Punk Rock'],28.0,0.0,/x-ray-spex/
+1715,The Meteors,"['Rockabilly', ' Punk Rock', ' Rock']",47.0,0.0,/the-meteors/
+1716,Aretha Franklin,"['Soul', ' R&B']",214.0,7.7,/aretha-franklin/
+1717,Marvin Gaye,"['Soul', ' R&B']",182.0,5.7,/marvin-gaye/
+1718,R. Kelly,"['R&B', ' Hip Hop']",317.0,3.1,/r-kelly/
+1719,Toni Braxton,"['Romantic', ' R&B']",136.0,2.3,/toni-braxton/
+1720,Ray Charles,"['Soul', ' R&B']",323.0,3.0,/ray-charles/
+1721,Al Green,"['Soul', ' R&B']",187.0,2.0,/al-green/
+1722,Kool & The Gang,"['R&B', 'Soul']",33.0,1.7,/kool-the-gang/
+1723,Trey Songz,"['R&B', ' Hip Hop']",289.0,1.3,/trey-songz/
+1724,Mario,['R&B'],95.0,1.1,/mario/
+1725,Rick James,"['Soul', ' R&B', ' Funk']",133.0,1.3,/rick-james/
+1726,The Platters,"['R&B', 'Romantic']",45.0,1.0,/platters/
+1727,Fats Domino,"['R&B', ' Rockabilly', ' Blues']",55.0,0.0,/fats-domino/
+1728,Eddy Grant,"['R&B', ' Reggae']",15.0,0.0,/eddy-grant/
+1729,Kelly Rowland,"['R&B', ' Dance', ' Pop']",113.0,2.0,/kelly-rowland/
+1730,Otis Redding,"['R&B', 'Soul', ' Funk']",48.0,0.0,/otis-redding/
+1731,Chuck Berry,"['Rockabilly', ' Rock', ' R&B']",159.0,0.0,/chuck-berry/
+1732,Amaarae,"['Soul', ' R&B']",3.0,1.4,/amaarae/
+1733,Sam Cooke,"['Soul', ' R&B']",168.0,0.0,/sam-cooke/
+1734,Chaka Khan,"['Soul', ' R&B']",201.0,0.0,/chaka-khan/
+1735,Craig David,['R&B'],88.0,0.3,/craig-david/
+1736,Macy Gray,"['Soul', ' R&B', ' Funk']",122.0,1.0,/macy-gray/
+1737,Solomon Burke,"['Soul', ' R&B']",33.0,0.0,/solomon-burke/
+1738,The Chi-Lites,"['Soul', ' R&B']",8.0,0.0,/the-chi-lites/
+1739,Babyface,"['R&B', 'Romantic']",317.0,0.0,/babyface/
+1740,Keri Hilson,"['R&B', ' Hip Hop']",90.0,0.0,/keri-hilson/
+1741,Martha Reeves And The Vandellas,"['R&B', 'Soul']",21.0,0.1,/martha-reeves-and-the-vandellas/
+1742,The Four Tops,"['Soul', ' R&B']",30.0,0.0,/the-four-tops/
+1743,Bobby Womack,"['Soul', ' R&B']",142.0,0.0,/bobby-womack/
+1744,Fantasia,['R&B'],85.0,0.0,/fantasia/
+1745,Bobby Valentino,"['R&B', ' Hip Hop']",86.0,0.0,/bobby-valentino/
+1746,The Cover Girls,"['R&B', ' Dance', ' Pop']",18.0,0.0,/the-cover-girls/
+1747,Georgia Brown,"['R&B', 'Soul']",31.0,0.0,/georgia-brown/
+1748,Scarlet Pleasure,['R&B'],5.0,0.0,/scarlet-pleasure/
+1749,Marvelettes,"['Soul', ' R&B', ' Funk']",23.0,0.0,/marvelettes/
+1750,Booker T. & the M.G.'s,"['Soul', ' R&B']",5.0,0.0,/booker-t-the-mgs/
+1751,Frankie Lymon And The Teenagers,"['R&B', ' Rock']",8.0,0.0,/frankie-lymon-and-the-teenagers/
+1752,The Coasters,"['R&B', ' Rockabilly', 'Soundtack']",9.0,0.0,/the-coasters/
+1753,Rodrigo Ruchell,['R&B'],23.0,0.0,/rodrigo-ruchell/
+1754,Fugees,['Rap'],40.0,6.8,/fugees/
+1755,OutKast,"['Rap', ' Hip Hop']",136.0,3.5,/outkast/
+1756,Dr. Dre,"['Rap', ' Hip Hop']",106.0,2.4,/dr-dre/
+1757,Coolio,"['Rap', ' Hip Hop']",64.0,2.3,/coolio/
+1758,Busta Rhymes,"['Rap', ' Hip Hop']",248.0,7.9,/busta-rhymes/
+1759,Black Alien,['Rap'],58.0,1.4,/black-alien/
+1760,The Notorious B.I.G.,['Rap'],106.0,1.1,/the-notorious-b-i-g/
+1761,DMX,"['Rap', ' Hip Hop']",213.0,1.6,/dmx/
+1762,Nas,['Rap'],327.0,0.0,/nas/
+1763,Eazy-E,"['Rap', ' Hip Hop']",59.0,0.0,/eazy-e/
+1764,Planet Hemp,"['Rap', ' Rock', ' Hip Hop']",51.0,1.0,/planet-hemp/
+1765,Cupcakke,['Rap'],94.0,0.1,/cupcakke/
+1766,Cypress Hill,['Rap'],153.0,1.0,/cypress-hill/
+1767,Bone Thugs-n-Harmony,"['Rap', ' Hip Hop']",222.0,0.0,/bone-thugs-n-harmony/
+1768,N.W.A.,['Rap'],40.0,0.0,/n-w-a/
+1769,Public Enemy,['Rap'],164.0,1.0,/public-enemy/
+1770,Lil' Kim,"['Rap', ' Hip Hop']",255.0,0.0,/lil-kim/
+1771,Ludacris,"['Rap', ' Hip Hop']",182.0,1.0,/ludacris/
+1772,Run DMC,['Rap'],106.0,1.9,/run-dmc/
+1773,Lupe Fiasco,['Rap'],116.0,0.0,/lupe-fiasco/
+1774,Mos Def,"['Rap', ' Hip Hop']",86.0,0.0,/mos-def/
+1775,Mobb Deep,"['Rap', ' Hip Hop']",161.0,0.0,/mobb-deep/
+1776,Naughty By Nature,"['Rap', ' Hip Hop']",47.0,0.0,/naughty-by-nature/
+1777,Eric B. & Rakim,"['Rap', ' Hip Hop']",12.0,0.0,/eric-b-amp-rakim/
+1778,LL Cool J,['Rap'],170.0,0.0,/ll-cool-j/
+1779,Missy Elliott,['Rap'],156.0,0.0,/missy-elliott/
+1780,A Tribe Called Quest,['Rap'],106.0,0.0,/a-tribe-called-quest/
+1781,DJ Jazzy Jeff & The Fresh Prince,"['Rap', ' Jazz', ' Blues']",67.0,0.0,/jazzy-jeff-and-the-fresh-prince/
+1782,Lil Tecca,['Rap'],39.0,0.1,/lil-tecca/
+1783,De La Soul,['Rap'],144.0,0.0,/de-la-soul/
+1784,Afrika Bambaataa,"['Rap', ' Funk', ' Hip Hop']",9.0,0.0,/afrika-bambaataa/
+1785,Whodini,"['Rap', ' Funk', ' Hip Hop']",8.0,0.0,/whodini/
+1786,Lil Yachty,['Rap'],67.0,0.0,/lil-yachty/
+1787,Boss Ac,"['Rap', ' Hip Hop', 'Romantic']",67.0,0.0,/boss-ac/
+1788,Slick Rick,"['Rap', ' Hip Hop', 'Classic']",48.0,0.0,/slick-rick/
+1789,Ice-T,"['Rap', ' Hip Hop']",114.0,0.0,/ice-t/
+1790,Grandmaster Flash,['Rap'],16.0,0.0,/grandmaster-flash/
+1791,Bow Wow & Omarion,"['Rap', ' Hip Hop']",13.0,0.0,/bow-wow-omarion/
+1792,Scarface,"['Rap', ' Hip Hop']",100.0,0.0,/scarface/
+1793,Kool Moe Dee,"['Rap', ' Funk', ' Hip Hop']",32.0,0.0,/kool-moe-dee/
+1794,Kurtis Blow,"['Rap', ' Hip Hop', ' Rock']",14.0,0.0,/kurtis-blow/
+1795,Digital Underground,"['Rap', ' Dance', ' Hip Hop']",54.0,0.0,/digital-underground/
+1796,Jermaine Dupri,['Rap'],58.0,0.0,/jermaine-dupri/
+1797,Onyx,"['Rap', ' Hardcore']",63.0,0.0,/onyx/
+1798,Master P,"['Rap', ' Hip Hop', ' Chillout']",227.0,0.0,/master-p/
+1799,Chip,['Rap'],40.0,0.0,/chip/
+1800,Digable Planets,['Rap'],6.0,0.0,/digable-planets/
+1801,EPMD,"['Rap', ' Hip Hop']",108.0,0.0,/epmd/
+1802,Azizi Gibson,['Rap'],13.0,0.0,/azizi-gibson/
+1803,Leonel Tir Na nOg,['Rap'],101.0,0.0,/leonel-tir-na-nog/
+1804,Benny Mayne,['Rap'],2.0,0.0,/benny-mayne/
+1805,Dipset/The Diplomats,['Rap'],84.0,0.0,/dipset/
+1806,Bob Marley,['Reggae'],178.0,29.8,/bob-marley/
+1807,SOJA (Soldiers of Jah Army),"['Reggae', ' Surf Music']",111.0,9.9,/soja-soldiers-of-jah-army/
+1808,Israel Kamakawiwo'ole,"['Surf Music', ' Reggae']",28.0,10.3,/israel-kamawiwoole/
+1809,Jimmy Cliff,['Reggae'],47.0,6.0,/jimmy-cliff/
+1810,Natiruts,"['Reggae', 'Romantic']",130.0,4.4,/natiruts/
+1811,Magic!,['Reggae'],41.0,4.6,/magic-11/
+1812,Cidade Negra,"['Reggae', 'Soul']",134.0,1.8,/cidade-negra/
+1813,Armandinho,"['Romantic', ' Reggae', ' Surf Music']",90.0,2.3,/armandinho/
+1814,Ben Harper,"['Rock', ' Reggae', ' Surf Music']",167.0,2.7,/ben-harper/
+1815,Alpha Blondy,['Reggae'],96.0,1.6,/alpha-blondy/
+1816,Ponto de Equilíbrio,['Reggae'],78.0,1.0,/ponto-de-equilibrio/
+1817,Shaggy,['Reggae'],86.0,1.0,/shaggy/
+1818,Sublime,"['Surf Music', ' Reggae', ' Ska']",98.0,1.0,/sublime/
+1819,Lucky Dube,['Reggae'],112.0,0.0,/lucky-dube/
+1820,Tribo de Jah,['Reggae'],166.0,1.0,/tribo-de-jah/
+1821,Dread Mar I,['Reggae'],114.0,0.4,/dread-mar-i/
+1822,Planta & Raiz,['Reggae'],105.0,1.0,/planta-raiz/
+1823,Ziggy Marley,['Reggae'],171.0,1.0,/ziggy-marley/
+1824,Dezarie,['Reggae'],32.0,0.0,/dezarie/
+1825,Matisyahu,"['Reggae', ' Hip Hop', 'Gospel']",79.0,0.0,/matisyahu/
+1826,Peter Tosh,['Reggae'],77.0,1.0,/peter-tosh/
+1827,Papas da Língua,"['Reggae', 'Romantic', ' Pop']",72.0,1.0,/papas-da-lingua/
+1828,Inner Circle,['Reggae'],23.0,1.0,/inner-circle/
+1829,Groundation,['Reggae'],91.0,0.0,/groundation/
+1830,Damian Marley,"['Reggae', ' Hip Hop', ' Rap']",67.0,0.0,/damian-marley/
+1831,Gregory Isaacs,"['Reggae', ' Funk', ' Surf Music']",17.0,1.0,/gregory-isaacs/
+1832,Maskavo,"['Reggae', 'Romantic', ' Surf Music']",74.0,0.0,/maskavo/
+1833,Steel Pulse,['Reggae'],120.0,0.0,/steel-pulse/
+1834,311,"['Rock', ' Surf Music', ' Reggae']",208.0,1.0,/311/
+1835,Alborosie,['Reggae'],45.0,0.0,/alborosie/
+1836,Big Mountain,"['Reggae', ' Rock']",39.0,0.0,/big-mountain/
+1837,The Gladiators,"['Reggae', ' Ska', ' Blues']",62.0,0.0,/the-gladiators/
+1838,Filosofia Reggae,"['Reggae', ' Blues', 'Romantic']",28.0,0.0,/filosofia-reggae/
+1839,Slightly Stoopid,"['Surf Music', ' Reggae', ' Ska']",105.0,0.0,/slightly-stoopid/
+1840,Toots And The Maytals,['Reggae'],40.0,0.0,/toots-and-the-maytals/
+1841,Macucos,['Reggae'],50.0,0.0,/macucos/
+1842,Manitu,"['Reggae', ' Surf Music', 'Romantic']",63.0,0.0,/manitu/
+1843,Midnite,"['Reggae', 'Soul']",36.0,0.0,/midnite/
+1844,Rebelution,['Reggae'],46.0,0.0,/rebelution/
+1845,Ben Roots,['Reggae'],36.0,0.0,/ben-roots/
+1846,Eric Donaldson,['Reggae'],22.0,0.0,/eric-donaldson/
+1847,Burning Spear,['Reggae'],64.0,0.0,/burning-spear/
+1848,Leões de Israel,"['Reggae', ' Instrumental', 'Gospel']",22.0,0.0,/leoes-de-israel/
+1849,Kymani Marley,"['Reggae', ' Rap', ' Hip Hop']",11.0,0.0,/kymani-marley/
+1850,Lee Perry,['Reggae'],7.0,0.0,/lee-perry/
+1851,Black Uhuru,"['Reggae', ' Surf Music']",38.0,0.0,/black-uhuru/
+1852,Yeman Jah,['Reggae'],9.0,0.0,/yeman-jah/
+1853,Don Omar,"['Reggaeton', ' Hip Hop']",206.0,2.3,/don-omar/
+1854,Nicky Jam,['Reggaeton'],205.0,1.2,/nicky-jam/
+1855,Wisin Y Yandel,['Reggaeton'],293.0,0.0,/wisin-y-yandel/
+1856,Ivy Queen,['Reggaeton'],74.0,0.0,/ivy-queen/
+1857,Chapa C,"['Reggaeton', ' Reggae', 'Romantic']",57.0,0.0,/chapa-c/
+1858,Tego Calderón,"['Reggaeton', ' Reggae', ' Hip Hop']",105.0,0.0,/tego-calderon/
+1859,Lucenzo,"['Reggaeton', ' Electronica', ' Dance']",16.0,0.0,/lucenzo/
+1860,Tainy,['Reggaeton'],13.0,0.1,/tainy/
+1861,Alexis Y Fido,"['Reggaeton', ' Hip Hop', ' Electronica']",63.0,0.0,/alexis-y-fido/
+1862,John Lennon,"['Rock', 'Romantic']",135.0,43.8,/john-lennon/
+1863,Bryan Adams,"['Romantic', ' Rock', 'Soundtack']",271.0,20.8,/bryan-adams/
+1864,Rod Stewart,"['Rock', 'Romantic']",453.0,16.2,/rod-stewart/
+1865,Creed,"['Alternative Rock', ' Rock', 'Romantic']",57.0,9.1,/creed/
+1866,4 Non Blondes,['Rock'],15.0,10.1,/4-non-blondes/
+1867,Dire Straits,"['Soft Rock', ' Rock']",64.0,8.2,/dire-straits/
+1868,David Bowie,['Rock'],463.0,6.8,/david-bowie/
+1869,Bruce Springsteen,['Rock'],505.0,5.2,/bruce-springsteen/
+1870,Dido,"['Rock', ' Pop']",100.0,5.7,/dido/
+1871,3 Doors Down,"['Romantic', ' Rock', 'Alternative Rock']",91.0,5.0,/3-doors-down/
+1872,Chris Isaak,['Rock'],143.0,4.8,/chris-isaak/
+1873,Nazareth,"['Rock', ' Hard Rock']",272.0,3.4,/nazareth/
+1874,Thirty Seconds To Mars,"['Alternative Rock', ' Rock']",89.0,4.0,/thirty-seconds-to-mars/
+1875,Barão Vermelho,"['Rock', ' Pop/Rock']",162.0,2.1,/barao-vermelho/
+1876,The Verve,"['Rock', 'Alternative Rock']",78.0,3.3,/the-verve/
+1877,Ira!,['Rock'],150.0,1.8,/ira/
+1878,The Animals,['Rock'],108.0,2.5,/the-animals/
+1879,Incubus,"['Rock', 'Alternative Rock']",129.0,2.2,/incubus/
+1880,Men At Work,['Rock'],35.0,2.2,/men-at-work/
+1881,Velhas Virgens,['Rock'],146.0,2.0,/velhas-virgens/
+1882,The Beach Boys,"['Surf Music', ' Rock']",341.0,2.1,/beach-boys/
+1883,Santana,['Rock'],275.0,1.7,/santana/
+1884,No Doubt,"['Rock', ' Ska']",123.0,2.0,/no-doubt/
+1885,The Who,"['Rock', ' Hard Rock']",250.0,1.5,/the-who/
+1886,Alter Bridge,"['Rock', ' Hard Rock']",97.0,1.2,/alter-bridge/
+1887,Liam Gallagher,"['Rock', 'Alternative Rock']",34.0,1.5,/liam-gallagher/
+1888,KT Tunstall,"['Rock', ' Pop/Rock']",107.0,1.3,/kt-tunstall/
+1889,Chris Cornell,['Rock'],86.0,1.0,/chris-cornell/
+1890,Sheryl Crow,['Rock'],153.0,1.4,/sheryl-crow/
+1891,Ultraje A Rigor,['Rock'],90.0,1.0,/ultraje-a-rigor/
+1892,White Stripes,"['Rock', 'Alternative Rock']",115.0,1.0,/the-white-stripes/
+1893,Pato Fu,"['Rock', ' Pop/Rock']",146.0,0.5,/pato-fu/
+1894,Deftones,"['Rock', ' Heavy Metal']",165.0,0.0,/deftones/
+1895,Velvet Underground,['Rock'],74.0,0.0,/velvet-underground/
+1896,ZZ Top,"['Rock', ' Blues']",176.0,1.0,/zz-top/
+1897,Seether,"['Rock', ' Hard Rock', ' Grunge']",125.0,1.0,/seether/
+1898,Tom Petty,['Rock'],202.0,1.0,/tom-petty-and-the-heartbreakers/
+1899,Lobão,['Rock'],120.0,0.0,/lobao/
+1900,Thousand Foot Krutch,"['Rock', 'Gospel', ' Hard Rock']",109.0,1.0,/thousand-foot-krutch/
+1901,Lou Reed,['Rock'],223.0,0.0,/lou-reed/
+1902,The Cult,"['Rock', ' Hard Rock', 'Gothic Rock']",136.0,1.0,/the-cult/
+1903,Matchbox Twenty,"['Rock', ' Pop/Rock', 'Alternative Rock']",71.0,1.0,/matchbox-20/
+1904,Camisa de Vênus,['Rock'],96.0,0.0,/camisa-de-venus/
+1905,Staind,"['Rock', 'Alternative Rock', ' Heavy Metal']",98.0,1.0,/staind/
+1906,Jet,"['Rock', ' Indie', 'Alternative Rock']",54.0,1.0,/jet/
+1907,Bush,"['Rock', ' Grunge']",132.0,0.0,/bush/
+1908,Stevie Nicks,['Rock'],125.0,0.0,/stevie-nicks/
+1909,Jane's Addiction,['Rock'],59.0,0.0,/janes-addiction/
+1910,Sarah McLachlan,"['Rock', 'Romantic', 'Soundtack']",128.0,0.0,/sarah-mclachlan/
+1911,Stereophonics,['Rock'],187.0,1.0,/stereophonics/
+1912,Malta,"['Romantic', ' Rock', 'Alternative Rock']",51.0,1.0,/malta/
+1913,Slade,"['Rock', ' Hard Rock', ' Pop/Punk']",196.0,0.0,/slade/
+1914,Blur,"['Rock', 'Alternative Rock', ' Indie']",179.0,1.0,/blur/
+1915,Emmerson Nogueira,"['Rock', ' Pop/Rock', ' Pop']",96.0,0.0,/emmerson-nogueira/
+1916,10000 Maniacs,"['Rock', ' Pop', ' Electronica']",110.0,0.0,/10000-maniacs/
+1917,Ritchie Valens,"['Rock', 'Classic', ' Rockabilly']",13.0,0.0,/ritchie-valens/
+1918,Nação Zumbi,['Rock'],94.0,0.0,/nacao-zumbi/
+1919,Fiona Apple,['Rock'],77.0,1.0,/fiona-apple/
+1920,Supernatural (série),"['Soundtack', ' Rock', ' Hard Rock']",85.0,1.0,/supernatural-serie/
+1921,Esteban,"['Rock', ' Emocore', ' Blues']",64.0,0.0,/esteban/
+1922,Shinedown,"['Rock', ' Hard Rock']",87.0,1.0,/shinedown/
+1923,Puddle Of Mudd,"['Rock', ' Grunge', 'Alternative Rock']",78.0,0.0,/puddle-of-mudd/
+1924,Jimmy Eat World,['Rock'],153.0,0.0,/jimmy-eat-world/
+1925,Needtobreathe,"['Alternative Rock', ' Rock']",105.0,0.2,/needtobreathe/
+1926,Eagle-Eye Cherry,['Rock'],67.0,3.0,/eagle-eye-cherry/
+1927,Ben's Brother,"['Rock', 'Romantic', ' Pop/Rock']",18.0,0.0,/bens-brother/
+1928,O.A.R.,"['Rock', ' Pop/Rock', ' Pop']",104.0,0.0,/oar/
+1929,O Surto,"['Rock', 'Alternative Rock', ' Punk Rock']",33.0,0.0,/o-surto/
+1930,Michelle Branch,"['Rock', ' Pop/Rock', ' Pop']",77.0,0.0,/michelle-branch/
+1931,Cliff Richard,['Rock'],280.0,0.2,/cliff-richard/
+1932,Grand Funk Railroad,['Rock'],112.0,0.0,/grand-funk-railroad/
+1933,Meredith Brooks,"['Rock', ' Pop/Rock', ' Reggae']",59.0,0.0,/meredith-brooks/
+1934,Ryan Adams,['Rock'],231.0,0.0,/ryan-adams/
+1935,Hinder,"['Rock', ' Hard Rock', ' Pop/Rock']",45.0,0.0,/hinder/
+1936,Badfinger,['Rock'],120.0,0.0,/badfinger/
+1937,Stray Cats,"['Rockabilly', ' Rock', ' Blues']",97.0,0.0,/stray-cats/
+1938,Jerry Lee Lewis,"['Rockabilly', ' Rock']",178.0,0.0,/jerry-lee-lewis/
+1939,Pat Benatar,['Rock'],130.0,0.0,/pat-benatar/
+1940,Autoramas,['Rock'],74.0,0.0,/autoramas/
+1941,Poets Of The Fall,"['Rock', 'Alternative Rock', ' Pop/Rock']",88.0,0.0,/poets-of-the-fall/
+1942,WWE,"['Rock', ' Hip Hop', ' Pop/Rock']",140.0,0.0,/wwe/
+1943,Scott Stapp,['Rock'],40.0,0.0,/scott-stapp/
+1944,Marcelo Nova,['Rock'],61.0,0.0,/marcelo-nova/
+1945,Theory Of A Deadman,"['Rock', 'Alternative Rock', ' Grunge']",97.0,0.0,/theory-of-a-deadman/
+1946,Buddy Holly,"['Rock', ' Rockabilly', ' Country']",56.0,0.0,/buddy-holly/
+1947,Bill Haley & His Comets,"['Rockabilly', ' Rock', ' Blues']",22.0,0.0,/bill-haley-his-comets/
+1948,Smith/Kotzen,['Rock'],10.0,0.0,/smith-kotzen/
+1949,Scars On Broadway,['Rock'],26.0,0.0,/scars-on-broadway/
+1950,Steven Tyler,['Rock'],24.0,0.0,/steven-tyler/
+1951,Faces,['Rock'],45.0,0.1,/faces/
+1952,The Red Jumpsuit Apparatus,"['Rock', ' Hardcore', ' Punk Rock']",84.0,0.0,/the-red-jumpsuit-apparatus/
+1953,Anberlin,"['Rock', 'Alternative Rock']",99.0,0.0,/anberlin/
+1954,Tori Amos,['Rock'],291.0,0.0,/tori-amos/
+1955,Sixx: A.M.,"['Rock', ' Hard Rock', ' Heavy Metal']",59.0,0.0,/sixx-a-m/
+1956,Chantal Kreviazuk,"['Rock', 'Romantic', ' Folk']",73.0,0.0,/chantal-kreviazuk/
+1957,The Trashmen,"['Rock', ' Surf Music']",6.0,0.0,/the-trashmen/
+1958,Everclear,"['Alternative Rock', ' Rock', ' Pop/Punk']",133.0,0.0,/everclear/
+1959,Ted Nugent,['Rock'],57.0,0.0,/ted-nugent/
+1960,Marianne Faithfull,['Rock'],248.0,0.0,/marianne-faithfull/
+1961,Wolfmother,"['Rock', ' Hard Rock', 'Alternative Rock']",33.0,0.0,/wolfmother/
+1962,The Lemonheads,"['Rock', 'Alternative Rock', ' Grunge']",125.0,0.0,/the-lemonheads/
+1963,Johnny Winter,"['Rock', ' Blues']",108.0,0.0,/johnny-winter/
+1964,Warren Zevon,['Rock'],147.0,0.0,/warren-zevon/
+1965,Steve Earle,"['Rock', ' Folk', ' Country']",239.0,0.0,/steve-earle/
+1966,The Donnas,"['Rock', ' Hard Rock', ' Punk Rock']",124.0,0.0,/the-donnas/
+1967,Moptop,"['Rock', ' Indie', ' Pop/Rock']",31.0,0.0,/moptop/
+1968,Sublime With Rome,"['Ska', ' Rock', ' Reggae']",14.0,0.0,/sublime-with-rome/
+1969,Small Faces,['Rock'],45.0,0.0,/small-faces/
+1970,Michael Kiske,"['Rock', ' Hard Rock', ' Heavy Metal']",52.0,0.0,/michael-kiske/
+1971,Carbona,"['Rock', ' Punk Rock', ' Pop/Punk']",125.0,0.0,/carbona/
+1972,Juliette Lewis (and The Licks),"['Rock', ' Indie', ' Punk Rock']",41.0,0.0,/juliette-lewis-and-the-licks/
+1973,Adrian Suirady,['Rock'],21.0,0.0,/adrian-suirady/
+1974,Leela,['Rock'],49.0,0.0,/leela/
+1975,Low,"['Alternative Rock', ' Rock']",145.0,0.0,/low/
+1976,Crazy Horse,['Rock'],3.0,0.0,/crazy-horse/
+1977,Beady Eye,"['Rock', ' Indie', 'Alternative Rock']",33.0,0.0,/beady-eye/
+1978,The Vines,"['Rock', ' Indie', ' Grunge']",84.0,0.0,/the-vines/
+1979,Joe Perry Project,"['Rock', ' Hard Rock']",45.0,0.0,/joe-perry-project/
+1980,Eddie Cochran,"['Rockabilly', ' Rock']",26.0,0.0,/eddie-cochran/
+1981,Andrew W.K.,"['Rock', ' Punk Rock', ' Hardcore']",31.0,0.0,/andrew-w-k/
+1982,"The Good, The Bad & The Queen",['Rock'],23.0,0.0,/the-good-the-bad-the-queen/
+1983,Falling Up,"['Rock', 'Gospel', ' Pop/Rock']",62.0,0.0,/falling-up/
+1984,The Monks,['Rock'],12.0,0.0,/monks/
+1985,Cage The Elephant,"['Alternative Rock', ' Indie', ' Rock']",70.0,1.8,/cage-the-elephant/
+1986,Travis,"['Alternative Rock', ' Rock']",162.0,1.0,/travis/
+1987,Pixies,['Alternative Rock'],130.0,1.0,/pixies/
+1988,Morphine,"['Alternative Rock', ' Blues', ' Hardcore']",56.0,0.0,/morphine/
+1989,The Church,"['Alternative Rock', 'Progressive Music']",198.0,0.0,/the-church/
+1990,Sunset Sons,['Alternative Rock'],14.0,0.0,/sunset-sons/
+1991,Beatrix,"['Alternative Rock', ' Rock', ' Pop/Rock']",25.0,0.0,/beatrix/
+1992,Sleater-Kinney,['Alternative Rock'],128.0,0.0,/sleater-kinney/
+1993,Roy Orbison,['Rockabilly'],441.0,3.3,/roy-orbison/
+1994,Shakin' Stevens,['Rockabilly'],59.0,0.0,/shakin-stevens/
+1995,The Everly Brothers,['Rockabilly'],54.0,0.0,/the-everly-brothers/
+1996,Imelda May,['Rockabilly'],26.0,0.0,/imelda-may/
+1997,Rocky Burnette,"['Rockabilly', ' Rock']",1.0,0.0,/rocky-burnette/
+1998,Carl Perkins,['Rockabilly'],29.0,0.0,/carl-perkins/
+1999,Gene Vincent,"['Rockabilly', ' Rock', ' Country']",55.0,0.0,/gene-vincent/
+2000,The Baseballs,"['Rockabilly', ' Rock', 'Alternative Rock']",52.0,0.0,/the-baseballs/
+2001,James Intveld,['Rockabilly'],28.0,0.0,/james-intveld/
+2002,Ronnie Self,['Rockabilly'],5.0,0.0,/ronnie-self/
+2003,Sam Smith,"['Romantic', ' Pop']",76.0,20.7,/sam-smith/
+2004,Lionel Richie,"['Soul', 'Romantic', ' Pop']",121.0,14.9,/lionel-richie/
+2005,Carla Bruni,['Romantic'],76.0,8.4,/carla-bruni/
+2006,Air Supply,['Romantic'],204.0,4.3,/air-supply/
+2007,Michael Bolton,['Romantic'],224.0,3.6,/michael-bolton/
+2008,Luis Miguel,['Romantic'],245.0,2.6,/luis-miguel/
+2009,Eros Ramazzotti,['Romantic'],262.0,2.6,/eros-ramazzotti/
+2010,Julio Iglesias,['Romantic'],387.0,2.3,/julio-iglesias/
+2011,Lara Fabian,"['Romantic', 'Soundtack']",183.0,2.7,/lara-fabian/
+2012,Agnaldo Timóteo,['Romantic'],450.0,1.4,/agnaldo-timoteo/
+2013,Barry Manilow,['Romantic'],330.0,0.0,/barry-manilow/
+2014,Paulo Sérgio,['Romantic'],197.0,1.0,/paulo-sergio/
+2015,Um Amor Para Recordar (trilha sonora),"['Soundtack', 'Romantic', ' Instrumental']",13.0,0.0,/um-amor-para-recordar/
+2016,Fina Estampa (novela),"['Romantic', 'Soundtack']",34.0,1.3,/fina-estampa-novela/
+2017,Viver A Vida (novela),"['Soundtack', 'Romantic', ' Pop']",35.0,0.0,/viver-a-vida-novela/
+2018,Ti Ti Ti (novela),"['Soundtack', 'Romantic']",62.0,1.4,/tititi/
+2019,Hélène Segara,['Romantic'],99.0,0.0,/helene/
+2020,Goldfinger,['Ska'],125.0,0.0,/goldfinger/
+2021,Reel Big Fish,"['Ska', ' Punk Rock']",110.0,0.0,/reel-big-fish/
+2022,Athena (Turquia),"['Ska', ' Rock']",31.0,0.0,/athena/
+2023,Fishbone,"['Ska', ' Funk']",100.0,0.0,/fishbone/
+2024,The Beat,['Ska'],46.0,0.0,/the-english-beat/
+2025,Bad Manners,['Ska'],9.0,0.0,/bad-manners/
+2026,Chris de Burgh,['Soft Rock'],188.0,4.2,/chris-de-burgh/
+2027,Foreigner,['Soft Rock'],106.0,3.5,/foreigner/
+2028,The Carpenters,['Soft Rock'],210.0,2.0,/the-carpenters/
+2029,James Taylor,['Soft Rock'],244.0,2.3,/james-taylor/
+2030,Chicago,['Soft Rock'],285.0,2.3,/chicago/
+2031,America,"['Soft Rock', ' Rock', ' Folk']",217.0,1.0,/america/
+2032,Corinne Bailey Rae,"['Soul', ' Pop']",57.0,4.0,/corinne-bailey-rae/
+2033,Cee Lo Green,['Soul'],115.0,0.0,/cee-lo/
+2034,Smokey Robinson,['Soul'],70.0,0.3,/smokey-robinson-miracles/
+2035,Billy Paul,['Soul'],24.0,1.0,/billy-paul/
+2036,Donny Hathaway,"['Soul', ' Blues']",17.0,0.0,/hathaway-donny/
+2037,Ben L'oncle Soul,"['Soul', ' Jazz', ' Blues']",24.0,0.0,/ben-loncle-soul/
+2038,War,"['Soul', ' Funk', ' Rock']",24.0,0.0,/war/
+2039,Janelle Monáe,"['Soul', ' R&B', ' Blues']",84.0,0.0,/janelle-monae/
+2040,Luther Vandross,"['Soul', ' R&B']",162.0,0.0,/luther-vandross/
+2041,Fernanda Abreu,['Soul'],97.0,0.0,/fernanda-abreu/
+2042,Spinners,"['Soul', 'Romantic']",14.0,0.0,/spinners/
+2043,Hyldon,['Soul'],45.0,0.0,/hyldon/
+2044,Aaron Neville,"['Soul', 'Romantic']",135.0,0.0,/aaron-neville/
+2045,Candi Staton,"['Soul', ' Disco']",13.0,0.0,/candi-staton/
+2046,Mayer Hawthorne,['Soul'],66.0,0.0,/mayer-hawthorne/
+2047,Cameo,"['Soul', ' Funk', ' Disco']",14.0,0.0,/cameo/
+2048,Ida Corr,"['Soul', ' Electronica', ' Dance']",8.0,0.0,/ida-corr/
+2049,Raphael Saadiq,['Soul'],76.0,0.0,/raphael-saadiq/
+2050,Mavis Staples,"['Soul', ' Blues']",24.0,0.0,/mavis-staples/
+2051,The Dells,['Soul'],5.0,0.0,/the-dells/
+2052,Donavon Frankenreiter,"['Surf Music', ' Soft Rock', ' Folk']",53.0,1.0,/donavon-frankesnreiter/
+2053,The Beautiful Girls,"['Surf Music', ' Folk', ' Reggae']",56.0,0.0,/the-beautiful-girls/
+2054,Rub,"['Surf Music', ' Reggae']",26.0,0.0,/rub/
+2055,Alphaville,['Technopop'],142.0,4.4,/alphaville/
+2056,Secret Service,['Technopop'],27.0,0.0,/secret-service/
+2057,Soft Cell,['Technopop'],49.0,0.0,/soft-cell/
+2058,Bronski Beat,"['Technopop', ' Dance', ' New Age']",25.0,0.0,/bronski-beat/
+2059,Scooter,['Technopop'],119.0,0.0,/scooter/
+2060,Orchestral Manoeuvres In The Dark,"['Technopop', ' Rock']",113.0,0.0,/orchestral-manoeuvres-in-the-dark-o-m-d/
+2061,La Roux,"['Technopop', ' Electronica']",35.0,0.0,/la-roux/
+2062,Ultravox,"['Technopop', ' Rock', ' Pop']",72.0,0.0,/ultravox/
+2063,Justice,"['Technopop', ' Electronica', ' Indie']",36.0,0.0,/justice/
+2064,Marc Almond,['Technopop'],199.0,0.0,/marc-almond/
+2065,Lime,"['Technopop', ' Disco', ' Dance']",2.0,0.0,/lime/
+2066,Dash Berlin,['Trance'],21.0,0.0,/dash-berlin/
+2067,Fragma,"['Trance', ' Dance', ' Electronica']",28.0,0.0,/fragma/
+2068,Andain,"['Trance', 'Technopop', ' Pop']",9.0,0.0,/andain/
+2069,Astrix,"['Trance', ' Electronica', 'Psychedelic music']",9.0,0.0,/astrix/
+2070,Kyau & Albert,"['Trance', ' Electronica']",11.0,0.0,/kyau-vs-albert/
+2071,Oceanlab,"['Trance', ' Electronica']",16.0,0.0,/oceanlab/
+2072,Mudança de Hábito (Trilha Sonora),['Soundtack'],28.0,5.1,/sister-act/
+2073,Guardiões Da Galáxia (Trilha Sonora),['Soundtack'],27.0,1.9,/guardioes-da-galaxia-trilha-sonora/
+2074,Shrek,['Soundtack'],51.0,3.3,/shrek/
+2075,Big Brother Brasil,['Soundtack'],21.0,2.2,/bbb/
+2076,Friends,['Soundtack'],77.0,3.8,/friends/
+2077,Frozen (Trilha Sonora),['Soundtack'],61.0,2.3,/frozen-trilha-sonora/
+2078,Shingeki no Kyojin,['Soundtack'],20.0,1.7,/shingeki-no-kyojin/
+2079,Como Eu Era Antes de Você,['Soundtack'],7.0,1.5,/como-eu-era-antes-de-voce/
+2080,Caminho das Índias (novela),['Soundtack'],49.0,1.3,/caminho-das-indias-novela/
+2081,Grease,['Soundtack'],42.0,1.3,/grease/
+2082,Piratas do Caribe,['Soundtack'],61.0,1.3,/piratas-do-caribe/
+2083,Moulin Rouge (Trilha-Sonora),"['Soundtack', 'Classic', 'Romantic']",22.0,0.0,/moulin-rouge-soundtrack/
+2084,Duas Caras (novela),"['Soundtack', 'Romantic']",41.0,0.0,/duas-caras-novela/
+2085,Looney Tunes Songs,['Soundtack'],43.0,0.0,/looney-tunes-songs/
+2086,Madagascar,"['Soundtack', ""Children's music"", ' Dance']",18.0,0.0,/madagascar/
+2087,If I Stay (Se Eu Ficar),"['Soundtack', ' Pop', ' Folk']",7.0,0.0,/if-i-stay-se-eu-ficar/
+2088,Valente (Brave),"['Soundtack', ""Children's music""]",23.0,0.0,/valente-brave/
+2089,Gossip Girl (trilha sonora),"['Soundtack', ' Pop', ' Pop/Rock']",41.0,0.0,/gossip-girl/
+2090,Teen Beach Movie,"['Soundtack', ' Pop', ' Pop/Rock']",24.0,0.0,/teen-beach-moviefilme/
+2091,A Princesa e O Sapo,"['Soundtack', ""Children's music"", ' Jazz']",21.0,1.0,/a-princesa-e-o-sapo/
+2092,Smallville,"['Soundtack', ' Pop/Rock', ' Rock']",35.0,0.0,/smallville/
+2093,Encantada (Disney),"['Soundtack', 'Romantic', ""Children's music""]",21.0,1.0,/encantada/
+2094,A Culpa é das Estrelas,"['Soundtack', 'Romantic', ' Pop']",16.0,1.0,/a-culpa-e-das-estrelas/
+2095,Jogos Vorazes,"['Soundtack', ' Pop/Rock', ' Indie']",49.0,1.0,/the-hunger-games-jogos-vorazes/
+2096,Belíssima (novela),"['Soundtack', 'Classic', ' Dance']",15.0,0.0,/belissima-internacional/
+2097,Transformers,"['Soundtack', ' Rock', ' Pop/Rock']",30.0,0.0,/transformes/
+2098,As Crônicas de Nárnia,"['Soundtack', ' Pop/Rock', 'Gospel']",82.0,0.0,/as-cronicas-de-narnia/
+2099,C.s.i.,"['Soundtack', ' Hardcore', 'Classic']",4.0,0.0,/c-s-i/
+2100,I love Paraisópolis,"['Soundtack', ' Funk', 'Brazilian Funk']",28.0,0.0,/i-love-paraisopolis/
+2101,Noiva Cadáver (Trilha Sonora),"['Soundtack', 'Gothic Rock', 'Romantic']",7.0,0.0,/noiva-cadaver-trilha-sonora-11/
+2102,Lemonade Mouth,"['Soundtack', ' Pop/Rock', ' Pop']",10.0,0.0,/lemonade-mouth/
+2103,Detona Ralph (Trilha Sonora),['Soundtack'],9.0,0.0,/detona-ralph-trilha-sonora/
+2104,Pretty Little Liars,['Soundtack'],55.0,0.0,/pretty-little-liars/
+2105,Tropa de Elite (filme),"['Soundtack', ' Funk', ' Rap']",14.0,0.0,/tropa-de-elite-filme/
+2106,Muppets,['Soundtack'],146.0,0.0,/muppets/
+2107,The Sopranos,['Soundtack'],1.0,0.0,/the-sopranos/
+2108,Queen Of The Damned (trilha-sonora),"['Soundtack', ' Heavy Metal', ' Rock']",6.0,0.0,/queen-of-the-damned-a-rainha-dos-condenados/
+2109,Icarly,"['Soundtack', ' Pop', ' Dance']",22.0,0.0,/icarly/
+2110,Guitar Hero,"['Soundtack', ' Rock', ' Punk Rock']",84.0,0.0,/guitar-hero-iii/
+2111,High School Band (bandslam),"['Soundtack', ' Pop/Rock', ' Pop/Punk']",10.0,0.0,/high-school-band-bandslam/
+2112,The Rocky Horror Show,['Soundtack'],17.0,0.0,/rocky-horror/
+2113,Pro Evolution Soccer (winning Eleven),"['Soundtack', ' Electronica', ' Dance']",15.0,0.0,/pro-evolution-soccer-winning-eleven/
+2114,Caras & Bocas,"['Soundtack', 'Romantic', ' Pop']",24.0,0.0,/caras-e-bocas/
+2115,Os Padrinhos Mágicos,"['Soundtack', ' House', ""Children's music""]",17.0,0.0,/os-pdrinhos-magicos/
+2116,Notre Dame de Paris (Musical),['Soundtack'],56.0,0.0,/notre-dame-de-paris-musical/
+2117,10 Things I Hate About You,"['Soundtack', 'Alternative Rock', 'Romantic']",18.0,0.0,/10-things-i-hate-about-you/
+2118,Os Delírios de Consumo de Becky Bloom,"['Soundtack', ' Electronica']",3.0,0.0,/confessions-of-shopaholic-sountrack/
+2119,Os Vingadores,"['Soundtack', ' Hard Rock', ' Heavy Metal']",10.0,0.0,/os-vingadores/
+2120,Step Up (Trilha Sonora),"['Soundtack', ' Hip Hop', ' Dance']",6.0,0.0,/step-up-filme/
+2121,"Bela, A Feia","['Soundtack', 'Romantic', ' Electronica']",10.0,0.0,/bela-a-feia/
+2122,"Priscilla, a Rainha do Deserto",['Soundtack'],9.0,0.0,/priscilla-a-rainha-do-deserto/
+2123,Singin' In The Rain,"['Soundtack', ' Pop']",10.0,0.0,/singin-in-the-rain/
+2124,Wicked (Musical),['Soundtack'],23.0,0.0,/wicked-musical/
+2125,Shake It Up/No Ritmo,"['Soundtack', ' Dance', ' Pop']",67.0,0.0,/shake-it-up/
+2126,Footloose,"['Soundtack', ' Country', ' Pop/Rock']",2.0,0.0,/footloose/
+2127,Skins (Tv Show),['Soundtack'],40.0,0.0,/skins/
+2128,Sete Pecados (novela),"['Soundtack', ' Dance', ' Funk']",25.0,0.0,/sete-pecados/
+2129,Dança Comigo (filme),"['Soundtack', ' Dance', 'Romantic']",13.0,0.0,/step-up-danca-comigo/
+2130,O Brother Where Art Thou?,"['Soundtack', ' Country']",3.0,0.0,/where-art-thou/
+2131,Peter Punk (Rock Bones),"['Soundtack', ' Pop/Rock', ' Pop/Punk']",29.0,0.0,/rockbones/
+2132,Lalola (novela),"['Soundtack', ' Pop', ' Rock']",7.0,0.0,/novela-lalola/
+2133,Buffy,"['Soundtack', ' Funk']",21.0,0.0,/buffy/
+2134,Amigas e Rivais (Novela),"['Soundtack', ' Pop', ' Dance']",13.0,0.0,/novela-amigas-e-rivais/
+2135,Sweeney Todd (trilha sonora),"['Soundtack', ' Hard Rock', 'Alternative Rock']",21.0,0.0,/sweeney-todd/
+2136,"Boa Sorte, Charlie!","['Soundtack', ' Dance', ""Children's music""]",7.0,0.0,/boa-sorte-charliei/
+2137,Quem Quer Ser Um Milionário? (filme),"['Soundtack', ' Dance', ' Electronica']",6.0,0.0,/quem-quer-ser-um-milionario-filme/
+2138,Divergente,['Soundtack'],14.0,0.0,/divergente/
+2139,The Book Of Mormon,['Soundtack'],14.0,0.0,/the-book-of-mormon/
+2140,Smash (Série),"['Soundtack', 'Romantic', ' Pop']",78.0,0.0,/smash-serie/
+2141,Caminhos da Floresta,['Soundtack'],8.0,0.0,/caminhos-da-floresta/
+2142,Amor e Intrigas (novela),"['Soundtack', 'Romantic', ' Hip Hop']",20.0,0.0,/amor-e-intrigas/
+2143,Quando Toca O Sino (trilha sonora),"['Soundtack', ' Pop', 'Romantic']",29.0,0.0,/quando-toca-o-sino/
+2144,Newsies (Musical),"['Soundtack', ' Rock']",19.0,0.0,/newsies-musical/
+2145,The L Word,"['Soundtack', ' House', ' R&B']",2.0,0.0,/the-l-word/
+2146,True Blood,"['Soundtack', ' Country']",22.0,0.0,/true-blood/
+2147,Ellen,['Soundtack'],1.0,0.0,/ellen/
+2148,Sharpay's Fabulous Adventure,"['Soundtack', ' Pop', 'Romantic']",14.0,0.0,/sharpays-fabulous-adventure/
+2149,Bones (Série),['Soundtack'],4.0,0.0,/bones-serie/
+2150,Oklahoma! (Musical),['Soundtack'],9.0,0.0,/oklahoma/
+2151,Uma Banda Lá em Casa,"['Soundtack', ' Pop', ' Pop/Rock']",1.0,0.0,/uma-banda-la-em-casa/
+2152,Morcheeba,['Trip-Hop'],123.0,0.0,/morcheeba/
+2153,Tricky,['Trip-Hop'],105.0,0.0,/tricky/
+2154,Smoke City,"['Trip-Hop', ' Blues', ' Hip Hop']",19.0,0.0,/smoke-city/
+2155,Olive,['Trip-Hop'],27.0,0.0,/olive/
+2156,Lamb,"['Trip-Hop', ' Soft Rock', 'Technopop']",49.0,0.0,/lamb/
+2157,Télépopmusik,"['Trip-Hop', ' Chillout', ' Electronica']",24.0,0.0,/telepopmusik/
+2158,Kygo,['Tropical House'],67.0,3.6,/kygo/
+2159,Lost Frequencies,['Tropical House'],46.0,1.4,/lost-frequencies/
+2160,Felix Jaehn,['Tropical House'],32.0,0.0,/felix-jaehn/
+2161,Matoma,['Tropical House'],35.0,0.1,/matoma/
+2162,Khaled,"[' Indie', ' Dance']",21.0,1.0,/khaled/
+2163,Youssou N'dour,"[' Indie', ' New Age']",16.0,0.0,/youssou-ndour/
+2164,Ofra Haza,['Gospel'],58.0,0.0,/ofra-haza/
+2165,Miriam Makeba,"[' Black Music', ' Blues']",17.0,0.0,/miriam-makeba/
+2166,Johnny Clegg,['Gospel'],34.0,0.0,/clegg-johnny/
